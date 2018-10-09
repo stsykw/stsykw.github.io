@@ -1,0 +1,110 @@
+
+/*
+web safe color is composed by 00, 33, 66, 99,cc,ff
+*/
+
+a {
+    color:#99ccff;
+}
+
+a:link {
+    color:#0033ff;
+}
+
+a:visited {
+    color:#9933ff;
+}
+
+a:active {
+    color:#0099cc;
+}
+
+a:hover {
+    color:#0099cc;
+}
+
+/* 汎用クラス*/
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
+
+/* body スタイル */
+body {
+    color: black;
+/*  background: white; */
+    background: #d8e2c6;
+/*  background: #99cc99; */
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.moddate {
+    text-align: right;
+    font-size: small;
+    display: block;
+    border:2px dotted #aac;
+    background-color: #dde;
+/* font-weight: bold; */
+}
+
+.warning {
+    text-align: center;
+    font-size: large;
+    display: block;
+    border:2px dotted #aac;
+    background-color: #f66;
+    font-weight: bold;
+}
+
+/* future lecture */
+.futurelecture {
+    font-size: small;
+    background-color: #dde;
+}
+/* old lecture */
+.oldlecture {
+/* font-size: x-small;*/
+    font-size: small;
+    background-color: #dde;
+}
+/* oldold lecture */
+.oldoldlecture {
+    font-size: xx-small;
+    background-color: #dde;
+}
+/* P よう */
+
+P.indented {
+  text-indent: 1em;
+  line-height: 1.2;
+}
+
+P.centering {
+  text-align: center;
+}
+
+H1 {
+  text-align: center;
+}
+
+/* IMG よう */
+IMG.borderless {
+  border: 0;
+}
+
+IMG.leftborderless {
+  border: 0;
+  float: left;
+}
+
+#banner {
+  /* height:100px; */
+  /* width:300px; */
+  height: 100%;
+  width: 100%;
+  border:1px solid #000;
+  background:#ffffcc url(img/mytitle.gif) no-repeat center center;
+}
