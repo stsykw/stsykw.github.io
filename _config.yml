@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Satoshi Yukawa"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Osaka Japan"
+  bio              : "Department of Earth and Space Science, Osaka Univeristy"
+  location         : "Osaka, Japan"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.jp/citations?user=aEJiKhAAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-9022-358X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -177,7 +177,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: true  
     permalink: /:collection/:path/
   talks:
     output: true
