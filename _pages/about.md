@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Satoshi Yukawa\
+Satoshi Yukawa  
 湯川諭
 
-Department of Earth and Space Science, Graduate School of Science, Osaka University\
+Department of Earth and Space Science, Graduate School of Science, Osaka University  
 大阪大学大学院 理学研究科 宇宙地球科学専攻
 
 Resarch Interests
