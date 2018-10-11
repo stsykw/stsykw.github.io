@@ -10,8 +10,11 @@ location: "Osaka, Japan"
 
 講義ページのテスト
 
-Heading 1
+数式テスト
 ======
+
+maxjaxをつかった数式テスト
+\\[ \sin x \\]
 
 Heading 2
 ======
