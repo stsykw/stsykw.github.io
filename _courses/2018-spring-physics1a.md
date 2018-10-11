@@ -21,10 +21,8 @@ location: "Osaka, Japan"
 
 スケジュール
 -----
-<dl>
-<dt>4月9日</dt>
-<dd>始めに</dd>
-</dl>
+**4月9日**  
+始めに
 
 
 Quiz
