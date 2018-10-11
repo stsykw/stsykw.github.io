@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* M.S. in Physics, Osaka University,
-* Ph.D in Physics, Osaka University,
+* M.S. in Physics, Osaka University, 1995
+* Ph.D in Physics, Osaka University, 1999
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 1996 - March 1997: Resarch Fellowship for Young Scientists, Japan Society for teh Promotion of Science
+  * Osaka University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 1997 - March 2006: Research Assistant
+  * University of Tokyo, Department of Applied Phsyics,
+
+* April 2006 - : Associate Professor
+  * Osaka Univeristy, Department of Earch and Space Science,
+
 
 Publications
 ======
