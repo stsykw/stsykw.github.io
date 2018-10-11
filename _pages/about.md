@@ -16,7 +16,8 @@ Department of Earth and Space Science, Graduate School of Science, Osaka Univers
 
 Resarch Interests
 =====
-Statistical Physics, Computational Physics
+Statistical Physics, Computational Physics  
+統計物理学、計算物理学
 
 
 <!--
