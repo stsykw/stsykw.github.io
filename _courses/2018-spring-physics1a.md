@@ -30,14 +30,11 @@ location: "Osaka, Japan"
 
 Quiz
 -----
-<dl>
-<dt>Quiz1(4月9日出題)</dt>
-<dd>以下を計算せよ
+**Quiz1(4月9日出題)**  
+以下を計算せよ
 \[
 x+1
 \]
-</dd>
-</dl>
 
 参考書
 -----
