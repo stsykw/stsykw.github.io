@@ -28,8 +28,11 @@ redirect_from:
 * maxjax
 ```
 \\( \\)
+\\[
+
+\\]
 ```
-* [markdown cheatsheet(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll.
   * Green check: successful build
