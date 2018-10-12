@@ -28,9 +28,9 @@ redirect_from:
 * maxjax
 ```
 \\( \\)
-\\[
-
-\\]
+```
+```
+\\[ \\]
 ```
 * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
