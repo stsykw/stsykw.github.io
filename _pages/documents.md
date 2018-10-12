@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications (Refereed Papers)"
-permalink: /publications/
+title: "Documents"
+permalink: /documents/
 author_profile: true
 ---
 
