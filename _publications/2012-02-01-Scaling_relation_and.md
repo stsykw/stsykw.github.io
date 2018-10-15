@@ -8,6 +8,9 @@ paperurl: 'https://dx.doi.org/10.1016/j.physa.2011.08.018'
 citation: 'Hajime Inaoka, Satoshi Yukawa, Nobuyasu Ito, Scaling relation and regime map of explosive gas–liquid flow of binary Lennard-Jones particle system, Physica A, <b>391</b>, 423, (2012)'
 ---
 
+Authors: Hajime Inaoka, Satoshi Yukawa, Nobuyasu Ito
+
+
 <a href='https://dx.doi.org/10.1016/j.physa.2011.08.018'>Download paper here</a>
 
 Recommended citation: Hajime Inaoka, Satoshi Yukawa, Nobuyasu Ito, Scaling relation and regime map of explosive gas–liquid flow of binary Lennard-Jones particle system, Physica A, <b>391</b>, 423, (2012)

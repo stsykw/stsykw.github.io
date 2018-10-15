@@ -8,6 +8,9 @@ paperurl: 'https://dx.doi.org/10.1143/JPSJ.65.916'
 citation: 'Satoshi Yukawa and Macoto Kikuchi, Density Fluctuation in One-Dimensional Traffic Flow, Journal of the Physical Society of Japan, <b>65</b>, 916, (1996)'
 ---
 
+Authors: Satoshi Yukawa and Macoto Kikuchi
+
+
 <a href='https://dx.doi.org/10.1143/JPSJ.65.916'>Download paper here</a>
 
 Recommended citation: Satoshi Yukawa and Macoto Kikuchi, Density Fluctuation in One-Dimensional Traffic Flow, Journal of the Physical Society of Japan, <b>65</b>, 916, (1996)

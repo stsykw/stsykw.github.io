@@ -8,6 +8,9 @@ paperurl: 'https://dx.doi.org/'
 citation: 'Hiroshi Watanabe, Satoshi Yukawa, Nobuyasu Ito, and Chin-Kun Hu, Super-Scaling of Percolation on Rectangular Domains, Physical Review Letters, <b>93</b>, 190601, (2004)'
 ---
 
+Authors: Hiroshi Watanabe, Satoshi Yukawa, Nobuyasu Ito, and Chin-Kun Hu
+
+
 <a href='https://dx.doi.org/'>Download paper here</a>
 
 Recommended citation: Hiroshi Watanabe, Satoshi Yukawa, Nobuyasu Ito, and Chin-Kun Hu, Super-Scaling of Percolation on Rectangular Domains, Physical Review Letters, <b>93</b>, 190601, (2004)

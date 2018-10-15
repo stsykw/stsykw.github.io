@@ -8,6 +8,9 @@ paperurl: 'https://dx.doi.org/'
 citation: 'Takashi Shimada, Satoshi Yukawa, and Nobuyasu Ito, Life-spanof families in fossil data forms q-exponential distribution,, Internatiolan Journal of Modern Physics C, <b>14</b>, 1267, (2003)'
 ---
 
+Authors: Takashi Shimada, Satoshi Yukawa, and Nobuyasu Ito
+
+
 <a href='https://dx.doi.org/'>Download paper here</a>
 
 Recommended citation: Takashi Shimada, Satoshi Yukawa, and Nobuyasu Ito, Life-spanof families in fossil data forms q-exponential distribution,, Internatiolan Journal of Modern Physics C, <b>14</b>, 1267, (2003)

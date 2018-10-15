@@ -8,6 +8,9 @@ paperurl: 'https://dx.doi.org/10.1143/PTPS.184.415'
 citation: 'Satoshi Yukawa, Fumiko Ogushi, Takashi Shimada and Nobuyasu Ito, Nonequilibrium Distribution of the Microscopic Thermal Current in Steady Thermal Transport Systems, Progress of Theoretical Physics Supplement, <b>184</b>, 415, (2010)'
 ---
 
+Authors: Satoshi Yukawa, Fumiko Ogushi, Takashi Shimada and Nobuyasu Ito
+
+
 <a href='https://dx.doi.org/10.1143/PTPS.184.415'>Download paper here</a>
 
 Recommended citation: Satoshi Yukawa, Fumiko Ogushi, Takashi Shimada and Nobuyasu Ito, Nonequilibrium Distribution of the Microscopic Thermal Current in Steady Thermal Transport Systems, Progress of Theoretical Physics Supplement, <b>184</b>, 415, (2010)

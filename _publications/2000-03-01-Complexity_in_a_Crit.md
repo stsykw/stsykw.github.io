@@ -8,6 +8,9 @@ paperurl: 'https://dx.doi.org/'
 citation: 'Satoshi Yukawa and Macoto Kikuchi, Complexity in a Critical Traffic Flow, Internatiolan Journal of Modern Physics C, <b>11</b>, 221, (2000)'
 ---
 
+Authors: Satoshi Yukawa and Macoto Kikuchi
+
+
 <a href='https://dx.doi.org/'>Download paper here</a>
 
 Recommended citation: Satoshi Yukawa and Macoto Kikuchi, Complexity in a Critical Traffic Flow, Internatiolan Journal of Modern Physics C, <b>11</b>, 221, (2000)
