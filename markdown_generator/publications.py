@@ -95,6 +95,9 @@ for row, item in publications.iterrows():
 
     if len(str(item.author)) > 5:
         md += "\n\nAuthor(s): " + item.author + "\n"
+    
+    if len(str(item.comments)) > 5:
+        md += "\n\nComments: " + item.comments + "\n"
 
     if len(str(item.paper_url)) > 5:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n"
