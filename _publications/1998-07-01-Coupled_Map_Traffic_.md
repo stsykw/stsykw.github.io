@@ -1,0 +1,13 @@
+---
+title: "Coupled Map Traffic Flow Simulator Based on Optimal Velocity Functions"
+collection: publications
+permalink: /publication/1998-07-01-Coupled_Map_Traffic_
+date: 1998-07-01
+venue: 'Journal of the Physical Society of Japan'
+paperurl: 'https://dx.doi.org/10.1143/JPSJ.67.2270'
+citation: 'Shin-ichi Tadaki, Macoto Kikuchi, Yuki Sugiyama, and Satoshi Yukawa,Coupled Map Traffic Flow Simulator Based on Optimal Velocity Functions,Journal of the Physical Society of Japan, <bf>67</bf>,2270, (2276)'
+---
+
+<a href='https://dx.doi.org/10.1143/JPSJ.67.2270'>Download paper here</a>
+
+Recommended citation: Shin-ichi Tadaki, Macoto Kikuchi, Yuki Sugiyama, and Satoshi Yukawa,Coupled Map Traffic Flow Simulator Based on Optimal Velocity Functions,Journal of the Physical Society of Japan, <bf>67</bf>,2270, (2276)
