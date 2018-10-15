@@ -5,9 +5,9 @@ permalink: /publication/2014-10-01-Dynamical_scaling_of
 date: 2014-10-01
 venue: 'Physical Review E'
 paperurl: 'https://dx.doi.org/10.1103/PhysRevE.90.042909'
-citation: 'Shin-ichi Ito and Satoshi Yukawa,Dynamical scaling of fragment distribution in drying paste,Physical Review E, <bf>90</bf>,042909, ()'
+citation: 'Shin-ichi Ito and Satoshi Yukawa, Dynamical scaling of fragment distribution in drying paste, Physical Review E,  <bf>90</bf>, 042909, (2014)'
 ---
 
 <a href='https://dx.doi.org/10.1103/PhysRevE.90.042909'>Download paper here</a>
 
-Recommended citation: Shin-ichi Ito and Satoshi Yukawa,Dynamical scaling of fragment distribution in drying paste,Physical Review E, <bf>90</bf>,042909, ()
+Recommended citation: Shin-ichi Ito and Satoshi Yukawa, Dynamical scaling of fragment distribution in drying paste, Physical Review E,  <bf>90</bf>, 042909, (2014)
