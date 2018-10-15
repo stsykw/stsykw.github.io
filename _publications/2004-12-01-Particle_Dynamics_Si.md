@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/'
 citation: 'T. Ishiwata, Teruyoshi Murakami, Satoshi Yukawa, and Nobuyasu Ito, Particle Dynamics Simulations of the Navier-Stokes Flow with Hard Disks, Internatiolan Journal of Modern Physics C, <b>15</b>, 1413, (2004)'
 ---
 
-Authors: T. Ishiwata, Teruyoshi Murakami, Satoshi Yukawa, and Nobuyasu Ito
+Author(s): T. Ishiwata, Teruyoshi Murakami, Satoshi Yukawa, and Nobuyasu Ito
 
 
 <a href='https://dx.doi.org/'>Download paper here</a>
-
-Recommended citation: T. Ishiwata, Teruyoshi Murakami, Satoshi Yukawa, and Nobuyasu Ito, Particle Dynamics Simulations of the Navier-Stokes Flow with Hard Disks, Internatiolan Journal of Modern Physics C, <b>15</b>, 1413, (2004)

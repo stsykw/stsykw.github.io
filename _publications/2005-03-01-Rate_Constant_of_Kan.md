@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/10.1143/JPSJ.74.1071'
 citation: 'Atsushi Kamimura, Satoshi Yukawa, and Nobuyasu Ito, Rate Constant of Kaneko-Yomo Model, Journal of the Physical Society of Japan, <b>74</b>, 1071, (2005)'
 ---
 
-Authors: Atsushi Kamimura, Satoshi Yukawa, and Nobuyasu Ito
+Author(s): Atsushi Kamimura, Satoshi Yukawa, and Nobuyasu Ito
 
 
 <a href='https://dx.doi.org/10.1143/JPSJ.74.1071'>Download paper here</a>
-
-Recommended citation: Atsushi Kamimura, Satoshi Yukawa, and Nobuyasu Ito, Rate Constant of Kaneko-Yomo Model, Journal of the Physical Society of Japan, <b>74</b>, 1071, (2005)

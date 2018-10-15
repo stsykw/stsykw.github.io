@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/10.1143/JPSJ.74.827'
 citation: 'Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito, Heat Conduction of Lennard-Jones Particle System in Supercritical Fluid Phase, Journal of the Physical Society of Japan, <b>74</b>, 827, (2005)'
 ---
 
-Authors: Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito
+Author(s): Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito
 
 
 <a href='https://dx.doi.org/10.1143/JPSJ.74.827'>Download paper here</a>
-
-Recommended citation: Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito, Heat Conduction of Lennard-Jones Particle System in Supercritical Fluid Phase, Journal of the Physical Society of Japan, <b>74</b>, 827, (2005)

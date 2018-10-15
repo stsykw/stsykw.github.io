@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/10.1143/JPSJ.75.103001'
 citation: 'Hayato Shiba, Satoshi Yukawa, and Nobuyasu Ito, Divergent Thermal Conductivity in Three-dimensional Nonlinear Latices, Journal of the Physical Society of Japan, <b>75</b>, 103001, (2006)'
 ---
 
-Authors: Hayato Shiba, Satoshi Yukawa, and Nobuyasu Ito
+Author(s): Hayato Shiba, Satoshi Yukawa, and Nobuyasu Ito
 
 
 <a href='https://dx.doi.org/10.1143/JPSJ.75.103001'>Download paper here</a>
-
-Recommended citation: Hayato Shiba, Satoshi Yukawa, and Nobuyasu Ito, Divergent Thermal Conductivity in Three-dimensional Nonlinear Latices, Journal of the Physical Society of Japan, <b>75</b>, 103001, (2006)

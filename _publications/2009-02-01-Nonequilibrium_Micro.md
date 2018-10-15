@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/10.1143/JPSJ.78.023002'
 citation: 'Satoshi Yukawa, Takashi Shimada, Fumiko Ogushi, Nobuyasu Ito, Nonequilibrium Microscopic Distribution of Thermal Current in Particle Systems, Journal of the Physical Society of Japan, <b>78</b>, 023002, (2009)'
 ---
 
-Authors: Satoshi Yukawa, Takashi Shimada, Fumiko Ogushi, Nobuyasu Ito
+Author(s): Satoshi Yukawa, Takashi Shimada, Fumiko Ogushi, Nobuyasu Ito
 
 
 <a href='https://dx.doi.org/10.1143/JPSJ.78.023002'>Download paper here</a>
-
-Recommended citation: Satoshi Yukawa, Takashi Shimada, Fumiko Ogushi, Nobuyasu Ito, Nonequilibrium Microscopic Distribution of Thermal Current in Particle Systems, Journal of the Physical Society of Japan, <b>78</b>, 023002, (2009)

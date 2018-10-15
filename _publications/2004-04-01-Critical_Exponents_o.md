@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/10.1103/PhysRevE.69.045103'
 citation: 'Hiroshi Watanabe, Satoshi Yukawa, Yukiyasu Ozeki, and Nobuyasu Ito, Critical Exponents of Isotropic-hexatic Phase Transition in the Hard-disk System, Physical Review E, <b>93</b>, 190601, (2004)'
 ---
 
-Authors: Hiroshi Watanabe, Satoshi Yukawa, Yukiyasu Ozeki, and Nobuyasu Ito
+Author(s): Hiroshi Watanabe, Satoshi Yukawa, Yukiyasu Ozeki, and Nobuyasu Ito
 
 
 <a href='https://dx.doi.org/10.1103/PhysRevE.69.045103'>Download paper here</a>
-
-Recommended citation: Hiroshi Watanabe, Satoshi Yukawa, Yukiyasu Ozeki, and Nobuyasu Ito, Critical Exponents of Isotropic-hexatic Phase Transition in the Hard-disk System, Physical Review E, <b>93</b>, 190601, (2004)

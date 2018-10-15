@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/10.1103/PhysRevE.74.030201'
 citation: 'Hiroshi Watanabe, Satoshi Yukawa, and Nobuyasu Ito, Positional order and diffusion processes in particle systems, Physical Review E, <b>74</b>, 030201R, (2006)'
 ---
 
-Authors: Hiroshi Watanabe, Satoshi Yukawa, and Nobuyasu Ito
+Author(s): Hiroshi Watanabe, Satoshi Yukawa, and Nobuyasu Ito
 
 
 <a href='https://dx.doi.org/10.1103/PhysRevE.74.030201'>Download paper here</a>
-
-Recommended citation: Hiroshi Watanabe, Satoshi Yukawa, and Nobuyasu Ito, Positional order and diffusion processes in particle systems, Physical Review E, <b>74</b>, 030201R, (2006)

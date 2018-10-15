@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/'
 citation: 'Akihiro Nakayama, Macoto Kikuchi, Akihiro Shibata, Yuki Sugiyama, Shin-ichi Tadaki and Satoshi Yukawa, Scaling from Circuit Experiment to Real Traffic Based on Optimal Velocity Model, Traffic and Granular Flow &apos;15, <b></b>, , (2016)'
 ---
 
-Authors: Akihiro Nakayama, Macoto Kikuchi, Akihiro Shibata, Yuki Sugiyama, Shin-ichi Tadaki and Satoshi Yukawa
+Author(s): Akihiro Nakayama, Macoto Kikuchi, Akihiro Shibata, Yuki Sugiyama, Shin-ichi Tadaki and Satoshi Yukawa
 
 
 <a href='https://dx.doi.org/'>Download paper here</a>
-
-Recommended citation: Akihiro Nakayama, Macoto Kikuchi, Akihiro Shibata, Yuki Sugiyama, Shin-ichi Tadaki and Satoshi Yukawa, Scaling from Circuit Experiment to Real Traffic Based on Optimal Velocity Model, Traffic and Granular Flow '15, <b></b>, , (2016)

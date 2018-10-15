@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/'
 citation: 'Shin-ichi Tadaki, Macoto Kikuchi, Yuki Sugiyama, and Satoshi Yukawa, Congestion in multi-lane roads with coupled map traffic flow model, Progress of Theoretical Physics supplement, <b>138</b>, 594, (2000)'
 ---
 
-Authors: Shin-ichi Tadaki, Macoto Kikuchi, Yuki Sugiyama, and Satoshi Yukawa
+Author(s): Shin-ichi Tadaki, Macoto Kikuchi, Yuki Sugiyama, and Satoshi Yukawa
 
 
 <a href='https://dx.doi.org/'>Download paper here</a>
-
-Recommended citation: Shin-ichi Tadaki, Macoto Kikuchi, Yuki Sugiyama, and Satoshi Yukawa, Congestion in multi-lane roads with coupled map traffic flow model, Progress of Theoretical Physics supplement, <b>138</b>, 594, (2000)

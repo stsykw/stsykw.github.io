@@ -8,9 +8,7 @@ paperurl: 'https://dx.doi.org/10.1143/JPSJ.75.073001'
 citation: 'Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito, Asymmetric Structure of Gas-Liquid Interface, Journal of the Physical Society of Japan, <b>75</b>, 073001, (2006)'
 ---
 
-Authors: Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito
+Author(s): Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito
 
 
 <a href='https://dx.doi.org/10.1143/JPSJ.75.073001'>Download paper here</a>
-
-Recommended citation: Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito, Asymmetric Structure of Gas-Liquid Interface, Journal of the Physical Society of Japan, <b>75</b>, 073001, (2006)
