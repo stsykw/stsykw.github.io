@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- why author.googlescholr is empty? -->
-You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.co.jp/citations?user=aEJiKhAAAAAJ&hl=en">my Google Scholar profile</a>.
 
 
 {% include base_path %}
