@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- why author.googlescholr is empty? -->
+<!-- why is "author.googlescholr" empty? -->
 You can also find my articles on <a href="https://scholar.google.co.jp/citations?user=aEJiKhAAAAAJ&hl=en">my Google Scholar profile</a>.
 
 
