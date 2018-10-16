@@ -64,50 +64,50 @@ def html_escape(text):
 
 import os
 for row, item in publications.iterrows():
+    if len(str(item.pub_date)) > 5:
+        md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
+        html_filename = str(item.pub_date) + "-" + item.url_slug
+        year = item.pub_date[:4]
 
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
-    year = item.pub_date[:4]
+        ## YAML variables
 
-    ## YAML variables
+        md = "---\ntitle: \""   + item.title + '"\n'
 
-    md = "---\ntitle: \""   + item.title + '"\n'
+        md += """collection: publications"""
 
-    md += """collection: publications"""
+        md += """\npermalink: /publication/""" + html_filename
 
-    md += """\npermalink: /publication/""" + html_filename
+        if len(str(item.excerpt)) > 5:
+            md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
 
-    if len(str(item.excerpt)) > 5:
-        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
+        md += "\ndate: " + str(item.pub_date)
 
-    md += "\ndate: " + str(item.pub_date)
+        md += "\nvenue: '" + html_escape(item.venue) + "'"
 
-    md += "\nvenue: '" + html_escape(item.venue) + "'"
+        if len(str(item.paper_url)) > 5:
+            md += "\npaperurl: '" + item.paper_url + "'"
 
-    if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
+        md += "\ncitation: '" + html_escape(item.citation) + "'"
 
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
+        md += "\n---"
 
-    md += "\n---"
+        ## Markdown description for individual page
 
-    ## Markdown description for individual page
+        if len(str(item.author)) > 5:
+            md += "\n\nAuthor(s): " + item.author + "\n"
 
-    if len(str(item.author)) > 5:
-        md += "\n\nAuthor(s): " + item.author + "\n"
-    
-    if len(str(item.comments)) > 5:
-        md += "\n\nComments: " + item.comments + "\n"
+        if len(str(item.comments)) > 5:
+            md += "\n\nComments: " + item.comments + "\n"
 
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n"
+        if len(str(item.paper_url)) > 5:
+            md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n"
 
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+        if len(str(item.excerpt)) > 5:
+            md += "\n" + html_escape(item.excerpt) + "\n"
 
-    # md += "\nRecommended citation: " + item.citation
+        # md += "\nRecommended citation: " + item.citation
 
-    md_filename = os.path.basename(md_filename)
+        md_filename = os.path.basename(md_filename)
 
-    with open("../_publications/" + md_filename, 'w') as f:
-        f.write(md)
+        with open("../_publications/" + md_filename, 'w') as f:
+            f.write(md)
