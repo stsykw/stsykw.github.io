@@ -90,6 +90,11 @@ for row, item in talks.iterrows():
         if len(str(item.location)) > 3:
             md += 'location: "' + str(item.location) + '"\n'
 
+        if len(str(item.latitude)) > 2:
+            md += 'latitude: "' + str(item.latitude) + '"\n'
+        if len(str(item.logitude)) > 2:
+            md += 'longitude: "' +  str(item.longitude) +'"\n'
+
         md += "---\n"
 
 

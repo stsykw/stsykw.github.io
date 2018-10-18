@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2006-08-01-3次元Lennard-Jones固体間の
 venue: "国際高等研究所"
 date: 2006-08-01
-location: "木津川市、京都府、日本"
+location: "京都府木津川市"
 ---
 
 国際高等研究所ワークショップ「隙間-自然、人間、社会の現象学-」(日付不明)
