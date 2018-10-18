@@ -4,4 +4,4 @@ These .ipynb files are Jupyter notebook files that convert a TSV containing stru
 
 # 今の構造
 
-`presentations.tsv` `talks.tsv`は廃止。すべてexcelファイルに変更した。それにともない`presentations.py` `talks.py`もexcelファイルを扱うように変更。ファイル名などはExcelファイル上で自動生成している。
+`presentations.tsv` `talks.tsv`は廃止。すべてExcelファイルに変更した。それにともない`presentations.py` `talks.py`もExcelファイルを扱うように変更。markdownファイル名などはExcelファイル上で自動生成している。
