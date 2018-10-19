@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Documents"
-    url: /documents/
+#  - title: "Documents"
+#    url: /documents/
 
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -18,8 +18,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
 
   - title: "CV"
     url: /cv/
