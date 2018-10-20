@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "definitions":{
+    "talk": {
+      "definitions":{
+        "id":{
+          "description": "ID of paper",
+          "type": "integer"
+        },
+        "date":{
+          "description": "date YYYY-MM-DD format",
+          "type": "string"
+        },
+        "title":{
+          "description": "paper tile",
+          "type": "string"
+        },
+        "author":{
+          "description": "author list",
+          "type": "string"
+        },
+        "type":{
+          "description":"type of talk",
+          "type": "string"
+        },
+        "venue":{
+          "description" :"journal title",
+          "type": "string"
+        },
+        "location":{
+          "description":"location",
+          "type": "string"
+        },
+        "latitude":{
+          "description":"latitude",
+          "type":
+        },
+        "longitude":{
+          "description":"longitude",
+          "type":
+        },
+        "description":{
+          "description":"description",
+          "type":"string"
+        }
+      }
+    }
+  },
+  "type": "object",
+  "properties":{
+    "talks": {
+      "type":"array",
+      "items": {
+        "type":"object",
+        "properties" :{
+          "id":{
+            "$ref": "#/definitions/paper/definitions/id"
+          },
+          "date":{
+            "$ref": "#/definitions/paper/definitions/date"
+          },
+          "title":{
+            "$ref": "#/definitions/paper/definitions/title"
+          },
+          "author":{
+            "$ref": "#/definitions/paper/definitions/author"
+          },
+          "venue":{
+            "$ref": "#/definitions/paper/definitions/venue"
+          },
+          "type":{
+            "$ref": "#/definitions/paper/definitions/type"
+          },
+          "location":{
+            "$ref": "#/definitions/paper/definitions/location"
+          },
+          "latitude":{
+            "$ref": "#/definitions/paper/definitions/latitude"
+          },
+          "longitude":{
+            "$ref": "#/definitions/paper/definitions/longitude"
+          },
+          "description":{
+            "$ref": "#/definitions/paper/definitions/description"
+          }
+        }
+      }
+    }
+  }
+}
