@@ -80,5 +80,8 @@ for row, elm in publications.iterrows():
         if 'excerpt' in item:
             md += "\n" + html_escape(item['excerpt']) + "\n"
 
+        md_filename = os.path.basename(md_filename)
 
-        print(md)
+        with open("../_publications/" + md_filename, 'w') as f:
+            f.write(md)
+        
