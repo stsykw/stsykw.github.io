@@ -3,6 +3,7 @@
 import pandas as pd
 import re
 import urllib.parse as ur
+import os
 
 html_escape_table = {
     "&": "&amp;",
@@ -84,4 +85,3 @@ for row, elm in publications.iterrows():
 
         with open("../_publications/" + md_filename, 'w') as f:
             f.write(md)
-        
