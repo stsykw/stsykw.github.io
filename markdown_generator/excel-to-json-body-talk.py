@@ -35,33 +35,22 @@ import pandas as pd
 # In[3]:
 
 #publications = pd.read_csv("publications.tsv", sep="\t", header=0)
-publications = pd.read_excel("publications.xlsx",  header=0)
+publications = pd.read_excel("talks.xlsx",  header=0)
 
 import os,math
 id=1
 for row, item in publications.iterrows():
-    if len(str(item.pub_date)) > 5:
+    if len(str(item.date)) > 5:
 
         md = "{\n  \"id\": \""   + str(id) + "\",\n"
         id += 1
-        md += "  \"pub_date\": \""   + item.pub_date + "\",\n"
-        if item.refereed == 1:
-            md += "  \"refereed\": true,\n"
-        else:
-            md += "  \"refereed\": false,\n"
+        md += "  \"date\": \""   + item.date + "\",\n"
         md += "  \"title\": \"" + item.title +"\",\n"
-        md += "  \"author\": \"" + item.author +"\",\n"
+        md += "  \"author\": \"" + item.authors +"\",\n"
         md += "  \"venue\": \"" + item.venue +"\",\n"
-        if not math.isnan(item.volume):
-            md += "  \"volume\": \""  + str(int(item.volume)) +"\",\n"
-        md += "  \"start\": \"" + str(item.start) +"\",\n"
-        if not math.isnan(item.end):
-            md += "  \"end\": \"" + str(int(item.end)) +"\",\n"
-        #else:
-        #    md += "  \"end\": ,\n"
-        md += "  \"year\":\""  + str(int(item.year)) +"\",\n"
-        md += "  \"doi\": \"" + str(item.doi) +"\"\n},"
+        md += "  \"location\": \"" + item.location +"\",\n"
+        md += "  \"latitude\": " + str(item.latitude) +",\n"
+        md += "  \"longitude\": " + str(item.longitude) +",\n"
+        md += "  \"description\": \"" + str(item.description) +"\"\n},"
 
         print(md)
-#print(publications.to_json(orient='table'))
-#print(pd.io.json.build_table_schema(publications))publications
