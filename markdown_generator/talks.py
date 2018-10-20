@@ -1,47 +1,9 @@
 #!/usr/bin/env python3
-# coding: utf-8
-
-# # Talks markdown generator for academicpages
-#
-# Takes a TSV of talks with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). The core python code is also in `talks.py`. Run either from the `markdown_generator` folder after replacing `talks.tsv` with one containing your data.
-#
-# TODO: Make this work with BibTex and other databases, rather than Stuart's non-standard TSV format and citation style.
-
-# In[1]:
 
 import pandas as pd
+import re
+import urllib.parse as ur
 import os
-
-
-# ## Data format
-#
-# The TSV needs to have the following columns: title, type, url_slug, venue, date, location, talk_url, description, with a header at the top. Many of these fields can be blank, but the columns must be in the TSV.
-#
-# - Fields that cannot be blank: `title`, `url_slug`, `date`. All else can be blank. `type` defaults to "Talk"
-# - `date` must be formatted as YYYY-MM-DD.
-# - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper.
-#     - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/talks/YYYY-MM-DD-[url_slug]`
-#     - The combination of `url_slug` and `date` must be unique, as it will be the basis for your filenames
-#
-
-
-# ## Import TSV
-#
-# Pandas makes this easy with the read_csv function. We are using a TSV, so we specify the separator as a tab, or `\t`.
-#
-# I found it important to put this data in a tab-separated values format, because there are a lot of commas in this kind of data and comma-separated values can get messed up. However, you can modify the import statement, as pandas also has read_excel(), read_json(), and others.
-
-# In[3]:
-
-talks = pd.read_excel("talks.xlsx",  header=0)
-talks
-
-
-# ## Escape special characters
-#
-# YAML is very picky about how it takes a valid string, so we are replacing single and double quotes (and ampersands) with their HTML encoded equivilents. This makes them look not so readable in raw format, but they are parsed and rendered nicely.
-
-# In[4]:
 
 html_escape_table = {
     "&": "&amp;",
@@ -50,67 +12,61 @@ html_escape_table = {
     }
 
 def html_escape(text):
-    if type(text) is str:
-        return "".join(html_escape_table.get(c,c) for c in text)
-    else:
-        return "False"
+    """Produce entities within text."""
+    return "".join(html_escape_table.get(c,c) for c in text)
 
+talks = pd.read_json("talks.json")
 
-# ## Creating the markdown files
-#
-# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page.
+for row, elm in talks.iterrows():
+    item = elm.values[0]
 
-# In[5]:
+    if len(str(item['date'])) > 5:
+        ## make url_slug
+        ## head 20
+        title = re.sub(' +',' ',item['title'])
+        url_slug = ur.quote(title[:20])
 
-loc_dict = {}
+        md_filename = str(item['date']) + "-" + url_slug + ".md"
+        html_filename = str(item['date']) + "-" + url_slug
+        year = item['date'][:4]
 
-for row, item in talks.iterrows():
-    if len(str(item.date)) > 5:
-        md_filename = str(item.date) + "-" + str(item.url_slug) + ".md"
-        html_filename = str(item.date) + "-" + str(item.url_slug)
-        #print(item.date)
-        year = str(item.date[:4])
+        author = re.sub(' +',' ',item['author'])
+        venue = re.sub(' +',' ',item['venue'])
 
-        md = "---\ntitle: \""   + item.title + '"\n'
+        md = "---\ntitle: \""   + title + '"\n'
         md += "collection: talks" + "\n"
 
-        if len(str(item.type)) > 3:
-            md += 'type: "' + item.type + '"\n'
+        if 'type' in item:
+            md += 'type: "' + item['type'] + '"\n'
         else:
             md += 'type: "Talk"\n'
 
         md += "permalink: /talks/" + html_filename + "\n"
 
-        if len(str(item.venue)) > 1:
-            md += 'venue: "' + item.venue + '"\n'
+        if len(str(venue)) > 1:
+            md += 'venue: "' + venue + '"\n'
 
-        if len(str(item.location)) > 3:
-            md += "date: " + str(item.date) + "\n"
+        if 'date' in item:
+            md += "date: " + str(item['date']) + "\n"
 
-        if len(str(item.location)) > 3:
-            md += 'location: "' + str(item.location) + '"\n'
+        if 'location' in item:
+            md += 'location: "' + str(item['location']) + '"\n'
 
-        if len(str(item.latitude)) > 2:
-            md += 'latitude: "' + str(item.latitude) + '"\n'
-        if len(str(item.longitude)) > 2:
-            md += 'longitude: "' +  str(item.longitude) +'"\n'
+        if 'latitude' in item:
+            md += 'latitude: "' + str(item['latitude']) + '"\n'
+        if 'longitude' in item:
+            md += 'longitude: "' +  str(item['longitude']) +'"\n'
 
         md += "---\n"
 
 
-        if len(str(item.talk_url)) > 3:
-            md += "\n[More information here](" + item.talk_url + ")\n"
+
+        if 'description' in item:
+            md += "\n" + html_escape(item['description']) + "\n"
 
 
-        if len(str(item.description)) > 3:
-            md += "\n" + html_escape(item.description) + "\n"
+        #md_filename = os.path.basename(md_filename)
+        print(md)
 
-
-        md_filename = os.path.basename(md_filename)
-        #print(md)
-
-        with open("../_talks/" + md_filename, 'w') as f:
-            f.write(md)
-
-
-# These files are in the talks directory, one directory below where we're working from.
+        #with open("../_talks/" + md_filename, 'w') as f:
+        #    f.write(md)
