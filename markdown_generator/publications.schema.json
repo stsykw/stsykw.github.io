@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "definitions":{
+    "paper": {
+      "definitions":{
+        "id":{
+          "description": "ID of paper",
+          "type": "integer"
+        },
+        "pub_date":{
+          "description": "publication date YYYY-MM-DD format",
+          "type": "string"
+        },
+        "refereed":{
+          "description": "refereed flag",
+          "type": "boolean"
+        },
+        "title":{
+          "description": "paper tile",
+          "type": "string"
+        },
+        "author":{
+          "description": "author list",
+          "type": "string"
+        },
+        "venue":{
+          "description" :"journal title",
+          "type": "string"
+        },
+        "comments":{
+          "description":"comments",
+          "type": "string"
+        },
+        "excerpt":{
+          "description":"excerpt",
+          "type": "string"
+        },
+        "volume":{
+          "description":"volume",
+          "type":"string"
+        },
+        "start":{
+          "description":"start page or article id",
+          "type":"string"
+        },
+        "end":{
+          "description":"end page",
+          "type":"string"
+        },
+        "year":{
+          "description":"year",
+          "type":"string"
+        },
+        "doi":{
+          "description":"doi",
+          "type":"string"
+        }
+      }
+    }
+  },
+  "type": "object",
+  "properties":{
+    "papers": {
+      "type":"array",
+      "items": {
+        "type":"object",
+        "properties" :{
+          "id":{
+            "$ref": "#/definitions/paper/definitions/id"
+          },
+          "pub_date":{
+            "$ref": "#/definitions/paper/definitions/pub_date"
+          },
+          "refereed":{
+            "$ref": "#/definitions/paper/definitions/refereed"
+          },
+          "title":{
+            "$ref": "#/definitions/paper/definitions/title"
+          },
+          "author":{
+            "$ref": "#/definitions/paper/definitions/author"
+          },
+          "venue":{
+            "$ref": "#/definitions/paper/definitions/venue"
+          },
+          "comments":{
+            "$ref": "#/definitions/paper/definitions/comments"
+          },
+          "excerpt":{
+            "$ref": "#/definitions/paper/definitions/excerpt"
+          },
+          "volume":{
+            "$ref": "#/definitions/paper/definitions/volume"
+          },
+          "start":{
+            "$ref": "#/definitions/paper/definitions/start"
+          },
+          "end":{
+            "$ref": "#/definitions/paper/definitions/end"
+          },
+          "year":{
+            "$ref": "#/definitions/paper/definitions/year"
+          },
+          "doi":{
+            "$ref": "#/definitions/paper/definitions/doi"
+          }
+        }
+      }
+    }
+  }
+}

@@ -36,7 +36,7 @@ import pandas as pd
 
 #publications = pd.read_csv("publications.tsv", sep="\t", header=0)
 publications = pd.read_excel("publications.xlsx",  header=0)
-publications
+#publications
 
 
 # ## Escape special characters
