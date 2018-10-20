@@ -36,21 +36,30 @@ import pandas as pd
 
 #publications = pd.read_csv("publications.tsv", sep="\t", header=0)
 publications = pd.read_excel("talks.xlsx",  header=0)
+html_escape_table = {
+    "&": "&amp;",
+    '"': "&quot;",
+    "'": "&apos;"
+    }
+
+def html_escape(text):
+    """Produce entities within text."""
+    return "".join(html_escape_table.get(c,c) for c in text)
 
 import os,math
 id=1
 for row, item in publications.iterrows():
     if len(str(item.date)) > 5:
 
-        md = "{\n  \"id\": \""   + str(id) + "\",\n"
+        md = "{\n  \"id\": "   + str(id) + ",\n"
         id += 1
         md += "  \"date\": \""   + item.date + "\",\n"
-        md += "  \"title\": \"" + item.title +"\",\n"
+        md += "  \"title\": \"" + html_escape(item.title) +"\",\n"
         md += "  \"author\": \"" + item.authors +"\",\n"
-        md += "  \"venue\": \"" + item.venue +"\",\n"
+        md += "  \"venue\": \"" + html_escape(item.venue) +"\",\n"
         md += "  \"location\": \"" + item.location +"\",\n"
         md += "  \"latitude\": " + str(item.latitude) +",\n"
         md += "  \"longitude\": " + str(item.longitude) +",\n"
-        md += "  \"description\": \"" + str(item.description) +"\"\n},"
+        md += "  \"description\": \"" + html_escape(item.description) +"\"\n},"
 
         print(md)
