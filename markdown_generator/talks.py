@@ -65,8 +65,8 @@ for row, elm in talks.iterrows():
             md += "\n" + html_escape(item['description']) + "\n"
 
 
-        #md_filename = os.path.basename(md_filename)
-        print(md)
+        md_filename = os.path.basename(md_filename)
+        #print(md)
 
-        #with open("../_talks/" + md_filename, 'w') as f:
-        #    f.write(md)
+        with open("../_talks/" + md_filename, 'w') as f:
+            f.write(md)
