@@ -54,34 +54,34 @@
         "type":"object",
         "properties" :{
           "id":{
-            "$ref": "#/definitions/paper/definitions/id"
+            "$ref": "#/definitions/talk/definitions/id"
           },
           "date":{
-            "$ref": "#/definitions/paper/definitions/date"
+            "$ref": "#/definitions/talk/definitions/date"
           },
           "title":{
-            "$ref": "#/definitions/paper/definitions/title"
+            "$ref": "#/definitions/talk/definitions/title"
           },
           "author":{
-            "$ref": "#/definitions/paper/definitions/author"
+            "$ref": "#/definitions/talk/definitions/author"
           },
           "venue":{
-            "$ref": "#/definitions/paper/definitions/venue"
+            "$ref": "#/definitions/talk/definitions/venue"
           },
           "type":{
-            "$ref": "#/definitions/paper/definitions/type"
+            "$ref": "#/definitions/talk/definitions/type"
           },
           "location":{
-            "$ref": "#/definitions/paper/definitions/location"
+            "$ref": "#/definitions/talk/definitions/location"
           },
           "latitude":{
-            "$ref": "#/definitions/paper/definitions/latitude"
+            "$ref": "#/definitions/talk/definitions/latitude"
           },
           "longitude":{
-            "$ref": "#/definitions/paper/definitions/longitude"
+            "$ref": "#/definitions/talk/definitions/longitude"
           },
           "description":{
-            "$ref": "#/definitions/paper/definitions/description"
+            "$ref": "#/definitions/talk/definitions/description"
           }
         }
       }
