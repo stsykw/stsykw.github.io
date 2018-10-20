@@ -33,11 +33,11 @@
         },
         "latitude":{
           "description":"latitude",
-          "type":
+          "type": "number"
         },
         "longitude":{
           "description":"longitude",
-          "type":
+          "type": "number"
         },
         "description":{
           "description":"description",
