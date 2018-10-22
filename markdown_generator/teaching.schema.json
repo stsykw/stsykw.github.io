@@ -1,0 +1,76 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "definitions":{
+    "teaching": {
+      "definitions":{
+        "year":{
+          "description": "YYYY",
+          "type": "integer"
+        },
+        "semester":{
+          "description":"semester/spring,autumn",
+          "type":"string"
+        },
+        "url_slug":{
+          "description": "course string/ elemag, mechanics, ...",
+          "type":"string"
+        },
+        "title":{
+          "description": "tile",
+          "type": "string"
+        },
+        "type":{
+          "description":"type/underguraduate,graduate,",
+          "type": "string"
+        },
+        "venue":{
+          "description" :"university, department",
+          "type": "string"
+        },
+        "location":{
+          "description":"location",
+          "type": "string"
+        },
+        "description":{
+          "description":"description",
+          "type":"string"
+        }
+      }
+    }
+  },
+  "type": "object",
+  "properties":{
+    "teachings": {
+      "type":"array",
+      "items": {
+        "type":"object",
+        "properties" :{
+          "year":{
+            "$ref":"#/definitions/teaching/year"
+          },
+          "semester":{
+            "$ref":"#/definitions/teaching/semester"
+          },
+          "url_slug":{
+            "$ref":"#/definitions/teaching/url_slug"
+          },
+          "title":{
+            "$ref":"#/definitions/teaching/title"
+          },
+          "type":{
+            "$ref":"#/definitions/teaching/type"
+          },
+          "venue":{
+            "$ref":"#/definitions/teaching/venue"
+          },
+          "location":{
+            "$ref":"#/definitions/teaching/location"
+          },
+          "description":{
+            "$ref":"#/definitions/teaching/description"
+          }
+        }
+      }
+    }
+  }
+}
