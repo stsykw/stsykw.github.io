@@ -1,6 +1,6 @@
 # new structure
 
-Edit `publications.json` and `talks.json` by atom editor.
+Edit `publications.json` and `talks.json` by atom editor or something.
 In the atom, you must install `atom-json-editor` plugin.
 For generating each markdown files, use `publications.py` and `talks.py`.
 
