@@ -11,3 +11,5 @@ longitude: "-97.7670931"
 ---
 
 2003 APS March Meeting
+
+Author(s): HIroshi Watanabe, Satoshi Yukawa, and Nobuyasu Ito

@@ -59,11 +59,11 @@ for row, elm in talks.iterrows():
 
         md += "---\n"
 
-
-
         if 'description' in item:
             md += "\n" + html_escape(item['description']) + "\n"
 
+        md += "\nAuthor(s): " + html_escape(author) + "\n"
+              
 
         md_filename = os.path.basename(md_filename)
         #print(md)

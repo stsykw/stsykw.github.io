@@ -11,3 +11,5 @@ longitude: "-118.4189996"
 ---
 
 2005 APS March Meeting
+
+Author(s): H. Watanabe, S. Yukawa, M. A. Novotny, N. Ito
