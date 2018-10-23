@@ -1,14 +1,14 @@
 {
-  "teachings": [
-    {
-      "year":
-      "semester":,
-      "url_slug":,
-      "title":,
-      "type":,
-      "venue":,
-      "location":,
-      "description":
-    }
-  ]
+	"teachings": [
+		{
+			"year": 2006,
+			"semester": "autumn",
+			"url_slug": "eleman1",
+			"title": "電磁気学I",
+			"type": "undergraduate",
+			"venue": "大阪大学、専門教育基礎科目(基礎工)",
+			"location": "大阪府豊中市待兼山",
+			"description": "基礎工向け専門教育基礎科目。真空中の電場、磁場、および真空中のMaxwell方程式の導出まで"
+		}
+	]
 }
