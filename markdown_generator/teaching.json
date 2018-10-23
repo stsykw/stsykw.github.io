@@ -1,15 +1,14 @@
 {
-	"teachings": [
-		{
-			"year": 1997,
-			"semester": "autumn",
-			"title": "電磁気学I",
-			"type": "Undergraduate",
-			"url_slug": "elemag1",
-			"venue": "大阪大学、専門教育基礎(基礎工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "基礎工学部対象専門教育基礎科目、真空中の電場、磁場からMaxwell方程式の導出まで"
-		},
-		{}
-	]
+  "teachings": [
+    {
+      "year":
+      "semester":,
+      "url_slug":,
+      "title":,
+      "type":,
+      "venue":,
+      "location":,
+      "description":
+    }
+  ]
 }
