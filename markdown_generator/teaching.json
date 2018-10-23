@@ -1,114 +1,325 @@
 {
-	"teachings": [
-		{
-			"year": 2006,
-			"semester": "autumn",
-			"url_slug": "eleman1",
-			"title": "電磁気学I",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(基礎工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "基礎工向け専門教育基礎科目。真空中の電場、磁場、および真空中のMaxwell方程式の導出まで"
-		},
-		{
-			"year": 2007,
-			"semester": "autumn",
-			"url_slug": "eleman1",
-			"title": "電磁気学I",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(基礎工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "基礎工向け専門教育基礎科目。真空中の電場、磁場、および真空中のMaxwell方程式の導出まで"
-		},
-		{
-			"year": 2009,
-			"semester": "autumn",
-			"url_slug": "eleman1",
-			"title": "電磁気学I",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(基礎工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "基礎工向け専門教育基礎科目。真空中の電場、磁場、および真空中のMaxwell方程式の導出まで"
-		},
-		{
-			"year": 2008,
-			"semester": "spring",
-			"url_slug": "eleman2",
-			"title": "電磁気学II",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(基礎工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "基礎工向け専門教育基礎科目。電磁波、物質中の電場、磁場、電磁波と物質、回路まで"
-		},
-		{
-			"year": 2010,
-			"semester": "spring",
-			"url_slug": "eleman2",
-			"title": "電磁気学II",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(基礎工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "基礎工向け専門教育基礎科目。電磁波、物質中の電場、磁場、電磁波と物質、回路まで"
-		},
-		{
-			"year": 2011,
-			"semester": "spring",
-			"url_slug": "eleman2",
-			"title": "電磁気学II",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(基礎工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "基礎工向け専門教育基礎科目。電磁波、物質中の電場、磁場、電磁波と物質、回路まで"
-		},
-		{
-			"year": 2011,
-			"semester": "spring",
-			"url_slug": "mechanics1",
-			"title": "力学I",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(基礎工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "基礎工向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動"
-		},
-		{
-			"year": 2017,
-			"semester": "spring",
-			"url_slug": "physics1a",
-			"title": "物理学1A",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(理)",
-			"location": "大阪府豊中市待兼山",
-			"description": "理学部向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動、質点系、剛体入門"
-		},
-		{
-			"year": 2018,
-			"semester": "spring",
-			"url_slug": "physics1a",
-			"title": "物理学1A",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(理)",
-			"location": "大阪府豊中市待兼山",
-			"description": "理学部向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動、質点系、剛体入門"
-		},
-		{
-			"year": 2017,
-			"semester": "autumn",
-			"url_slug": "mechanics2",
-			"title": "力学2",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "工学部向け専門教育基礎科目。質点系、剛体運動、非慣性系の運動"
-		},
-		{
-			"year": 2018,
-			"semester": "autumn",
-			"url_slug": "mechanics2",
-			"title": "力学2",
-			"type": "undergraduate",
-			"venue": "大阪大学、専門教育基礎科目(工)",
-			"location": "大阪府豊中市待兼山",
-			"description": "工学部向け専門教育基礎科目。質点系、剛体運動、非慣性系の運動"
-		}
-	]
+  "teachings": [
+    {
+      "year": 2006,
+      "semester": "autumn",
+      "url_slug": "eleman1",
+      "title": "電磁気学I",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(基礎工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "基礎工向け専門教育基礎科目。真空中の電場、磁場、および真空中のMaxwell方程式の導出まで"
+    },
+    {
+      "year": 2007,
+      "semester": "autumn",
+      "url_slug": "eleman1",
+      "title": "電磁気学I",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(基礎工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "基礎工向け専門教育基礎科目。真空中の電場、磁場、および真空中のMaxwell方程式の導出まで"
+    },
+    {
+      "year": 2009,
+      "semester": "autumn",
+      "url_slug": "eleman1",
+      "title": "電磁気学I",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(基礎工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "基礎工向け専門教育基礎科目。真空中の電場、磁場、および真空中のMaxwell方程式の導出まで"
+    },
+    {
+      "year": 2008,
+      "semester": "spring",
+      "url_slug": "eleman2",
+      "title": "電磁気学II",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(基礎工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "基礎工向け専門教育基礎科目。電磁波、物質中の電場、磁場、電磁波と物質、回路まで"
+    },
+    {
+      "year": 2010,
+      "semester": "spring",
+      "url_slug": "eleman2",
+      "title": "電磁気学II",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(基礎工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "基礎工向け専門教育基礎科目。電磁波、物質中の電場、磁場、電磁波と物質、回路まで"
+    },
+    {
+      "year": 2011,
+      "semester": "spring",
+      "url_slug": "eleman2",
+      "title": "電磁気学II",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(基礎工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "基礎工向け専門教育基礎科目。電磁波、物質中の電場、磁場、電磁波と物質、回路まで"
+    },
+    {
+      "year": 2011,
+      "semester": "spring",
+      "url_slug": "mechanics1",
+      "title": "力学I",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(基礎工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "基礎工向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動"
+    },
+    {
+      "year": 2017,
+      "semester": "spring",
+      "url_slug": "physics1a",
+      "title": "物理学1A",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(理)",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動、質点系、剛体入門"
+    },
+    {
+      "year": 2018,
+      "semester": "spring",
+      "url_slug": "physics1a",
+      "title": "物理学1A",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(理)",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動、質点系、剛体入門"
+    },
+    {
+      "year": 2017,
+      "semester": "autumn",
+      "url_slug": "mechanics2",
+      "title": "力学2",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "工学部向け専門教育基礎科目。質点系、剛体運動、非慣性系の運動"
+    },
+    {
+      "year": 2018,
+      "semester": "autumn",
+      "url_slug": "mechanics2",
+      "title": "力学2",
+      "type": "undergraduate",
+      "venue": "大阪大学、専門教育基礎科目(工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "工学部向け専門教育基礎科目。質点系、剛体運動、非慣性系の運動"
+    },
+    {
+      "year": 2006,
+      "semester": "autumn",
+      "url_slug": "continuum",
+      "title": "連続体力学",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、連続体の基礎、流体、弾性体"
+    },
+    {
+      "year": 2007,
+      "semester": "autumn",
+      "url_slug": "continuum",
+      "title": "連続体力学",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、連続体の基礎、流体、弾性体"
+    },
+    {
+      "year": 2008,
+      "semester": "autumn",
+      "url_slug": "continuum",
+      "title": "連続体力学",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、連続体の基礎、流体、弾性体"
+    },
+    {
+      "year": 2009,
+      "semester": "autumn",
+      "url_slug": "continuum",
+      "title": "連続体力学",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、連続体の基礎、流体、弾性体"
+    },
+    {
+      "year": 2010,
+      "semester": "autumn",
+      "url_slug": "continuum",
+      "title": "連続体力学",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、連続体の基礎、流体、弾性体"
+    },
+    {
+      "year": 2012,
+      "semester": "spring",
+      "url_slug": "statphys1",
+      "title": "統計力学1",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2013,
+      "semester": "spring",
+      "url_slug": "statphys1",
+      "title": "統計力学1",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2014,
+      "semester": "spring",
+      "url_slug": "statphys1",
+      "title": "統計力学1",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2015,
+      "semester": "spring",
+      "url_slug": "statphys1",
+      "title": "統計力学1",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2016,
+      "semester": "spring",
+      "url_slug": "statphys1",
+      "title": "統計力学1",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2012,
+      "semester": "spring",
+      "url_slug": "statphys1exercise",
+      "title": "統計力学1演義",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2013,
+      "semester": "spring",
+      "url_slug": "statphys1exercise",
+      "title": "統計力学1演義",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2014,
+      "semester": "spring",
+      "url_slug": "statphys1exercise",
+      "title": "統計力学1演義",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2015,
+      "semester": "spring",
+      "url_slug": "statphys1exercise",
+      "title": "統計力学1演義",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2016,
+      "semester": "spring",
+      "url_slug": "statphys1exercise",
+      "title": "統計力学1演義",
+      "type": "undergraduate",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、統計力学の基礎、ミクロカノニカル、カノニカル、グランドカノニカル集団。および、その演習"
+    },
+    {
+      "year": 2007,
+      "semester": "spring",
+      "url_slug": "nonequilibrium",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    },
+    {
+      "year": 2009,
+      "semester": "spring",
+      "url_slug": "nonequilibrium",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    },
+    {
+      "year": 2011,
+      "semester": "autumn",
+      "url_slug": "nonequilibrium",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    },
+    {
+      "year": 2013,
+      "semester": "autumn",
+      "url_slug": "nonequilibrium",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    },
+    {
+      "year": 2015,
+      "semester": "autumn",
+      "url_slug": "nonequilibrium",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    },
+    {
+      "year": 2017,
+      "semester": "autumn",
+      "url_slug": "nonequilibrium",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    }
+    
+  ]
 }
