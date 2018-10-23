@@ -8,12 +8,12 @@
           "type": "integer"
         },
         "semester":{
-          "description":"semester/spring,autumn",
-          "type":"string"
+          "description": "semester/spring,autumn",
+          "type": "string"
         },
         "url_slug":{
           "description": "course string/ elemag, mechanics, ...",
-          "type":"string"
+          "type": "string"
         },
         "title":{
           "description": "tile",
@@ -46,28 +46,28 @@
         "type":"object",
         "properties" :{
           "year":{
-            "$ref":"#/definitions/teaching/year"
+            "$ref": "#/definitions/teaching/year"
           },
           "semester":{
-            "$ref":"#/definitions/teaching/semester"
+            "$ref": "#/definitions/teaching/semester"
           },
           "url_slug":{
-            "$ref":"#/definitions/teaching/url_slug"
+            "$ref": "#/definitions/teaching/url_slug"
           },
           "title":{
-            "$ref":"#/definitions/teaching/title"
+            "$ref": "#/definitions/teaching/title"
           },
           "type":{
-            "$ref":"#/definitions/teaching/type"
+            "$ref": "#/definitions/teaching/type"
           },
           "venue":{
-            "$ref":"#/definitions/teaching/venue"
+            "$ref": "#/definitions/teaching/venue"
           },
           "location":{
-            "$ref":"#/definitions/teaching/location"
+            "$ref": "#/definitions/teaching/location"
           },
           "description":{
-            "$ref":"#/definitions/teaching/description"
+            "$ref": "#/definitions/teaching/description"
           }
         }
       }
