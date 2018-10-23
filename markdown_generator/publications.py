@@ -47,6 +47,9 @@ for row, elm in publications.iterrows():
 
         md += "\nvenue: '" + html_escape(venue) + "'"
 
+        if 'refereed' in item:
+            if str(item['refereed']) is "True":
+                md += "\nrefereed: 'True'"
         ## make paper_url fron item['doi']
         paper_url = ''
         if 'doi' in item:

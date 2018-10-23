@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2000-10-01-Simulational%20Study%20o
 date: 2000-10-01
 venue: 'Journal of the Physical Society of Japan'
+refereed: 'True'
 paperurl: 'https://dx.doi.org/10.1143/JPSJ.69.3150'
 citation: 'Takashi Shimada, Teruyoshi Murakami, Satoshi Yukawa, Keiji Saito and Nobuyasu Ito, Simulational Study on Dimensionality-Dependence of Heat Conduction, Journal of the Physical Society of Japan, <b>69</b>, 3150-3153, (2000)'
 ---
