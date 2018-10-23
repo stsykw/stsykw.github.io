@@ -10,6 +10,18 @@ You can also find my articles on <u><a href="https://scholar.google.co.jp/citati
 
 {% include base_path %}
 
+## Refereed Papers
+
 {% for post in site.publications reversed %}
-  {% include archive-single-publications.html %}
+  {% if post.refereed == 'True' %}
+    {% include archive-single-publications.html %}
+  {% endif %}
+{% endfor %}
+
+## Other Papers
+
+{% for post in site.publications reversed %}
+  {% if post.refereed != 'True' %}
+    {% include archive-single-publications.html %}
+  {% endif %}
 {% endfor %}
