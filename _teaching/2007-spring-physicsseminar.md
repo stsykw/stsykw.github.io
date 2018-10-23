@@ -1,7 +1,7 @@
 ---
 title: "物理学セミナ"
 collection: teaching
-type: "graduate course"
+type: "undergraduate course"
 permalink: /teaching/2007-spring-physicsseminar
 venue: "大阪大学、理学部専門科目"
 date: 2007-04-01

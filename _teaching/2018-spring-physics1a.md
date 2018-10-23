@@ -1,7 +1,7 @@
 ---
 title: "物理学1A"
 collection: teaching
-type: "undergraduate"
+type: "undergraduate course"
 permalink: /teaching/2018-spring-physics1a
 venue: "大阪大学、専門教育基礎科目(理)"
 date: 2018-04-01

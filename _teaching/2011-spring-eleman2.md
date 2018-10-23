@@ -1,7 +1,7 @@
 ---
 title: "電磁気学II"
 collection: teaching
-type: "undergraduate"
+type: "undergraduate course"
 permalink: /teaching/2011-spring-eleman2
 venue: "大阪大学、専門教育基礎科目(基礎工)"
 date: 2011-04-01
