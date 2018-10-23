@@ -4,6 +4,7 @@ collection: teaching
 type: "undergraduate"
 permalink: /teaching/2017-spring-physics1A
 venue: "大阪大学、専門教育基礎科目(理)"
+date: 2017-04-01
 course_url: /courses/2017-spring-physics1A
 location: "大阪府豊中市待兼山"
 ---

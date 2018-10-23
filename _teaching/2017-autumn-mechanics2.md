@@ -4,6 +4,7 @@ collection: teaching
 type: "undergraduate"
 permalink: /teaching/2017-autumn-mechanics2
 venue: "大阪大学、専門教育基礎科目(工)"
+date: 2017-10-01
 course_url: /courses/2017-autumn-mechanics2
 location: "大阪府豊中市待兼山"
 ---

@@ -4,6 +4,7 @@ collection: teaching
 type: "undergraduate"
 permalink: /teaching/2008-spring-eleman2
 venue: "大阪大学、専門教育基礎科目(基礎工)"
+date: 2008-04-01
 course_url: /courses/2008-spring-eleman2
 location: "大阪府豊中市待兼山"
 ---
