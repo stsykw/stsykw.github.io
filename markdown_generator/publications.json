@@ -669,6 +669,193 @@
       "end": "24",
       "year": "2004",
       "doi": "10.1007/3-540-26565-1_3"
+    },
+
+
+    {
+      "pub_date": "2005-01-01",
+      "refereed": false,
+      "title": "Observations, Theories and  Experiments for Freeway Traffic as physics of Many-Body System",
+      "author": "Yuki Sugiyama, Macoto Kikuchi, Akihiro Nakayama, Katsuhiro Nishinari, Akihiro Shibata, Shin-ichi Tadaki and Satoshi Yukawa",
+      "venue": "Traffic and Granular Flow '03",
+      "start": "45",
+      "year":"2005",
+      "doi" :"10.1007/3-540-28091-X_4"
+    },
+    {
+      "pub_date": "2005-01-01",
+      "refereed": false,
+      "title": "Fluctuation in Expressway Traffic  Flow",
+      "author": "Macoto Kikuchi, Akihiro Nakayama, Katsuhiro Nishinari, Akihiro Shibata, Yuki Sugiyama, Shin-ichi Tadaki, and Satoshi Yukawa",
+      "venue": "Traffic and Granular Flow '03",
+      "start": "64",
+      "year":"2005",
+      "doi":"10.1007/3-540-28091-X_5"
+
+    },
+    { 
+      "pub_date": "2004-01-01",
+      "refereed": false,
+      "title": "Traffic Flow as Physics of Many-Body  System",
+      "author": "Yuki Sugiyama, Macoto Kikuchi, Akihiro Nakayama, Katsuhiro Nishinari, Akihiro Shibata, Shin-ichi Tadaki and Satoshi Yukawa",
+      "venue": "Transportation Systems 2003, Proceedings of the 10th IFAC  Symposium",
+      "start": "335",
+      "year":"2004"
+    },
+    {
+      
+      "pub_date": "2004-01-01",
+      "refereed": false,
+      "title": "Formation  of Synchronized Flow at the Upper Stream of Bottleneck in Optimal  Velocity Model",
+      "author": "  Macoto Kikuchi, Yuki Sugiyama, Shin-ichi Tadaki and Satoshi Yukawa",
+      "venue": "Transportation Systems 2003, Proceedings of the 10th  IFAC Symposium",
+      "start": "347",
+      "year":"2004"
+    },
+    {
+      
+      "pub_date": "2003-01-01",
+      "refereed": false,
+      "title": "The Development of Quantum Circuit Designing and Simulating  Environment",
+      "author": "  Hiroshi Watanabe, Masaru Suzuki, Junnosuke Yamazaki, Satoshi Yukawa and Nobuyasu Ito",
+      "venue": "Forum on Information Technology (FIT) ",
+      "year":"2003"
+
+    },
+    {
+      
+      "pub_date": "1998-01-01",
+      "refereed": false,
+      "title": "Coupled  Map Traffic Flow Simulator Based on Optimal Velocity Functions",
+      "author": "Shin-ichi Tadaki, Macoto Kikuchi, Yuki Sugiyama and Satoshi Yukawa",
+      "venue": "Traffic and Granular Flow '97",
+      "start": "373",
+      "year":"1998"
+    },
+    {
+      
+      "pub_date": "1998-01-01",
+      "refereed": false,
+      "title": "Coupled-Map Modeling of  One-Dimensional Traffic Flow",
+      "author": "Satoshi Yukawa and Macoto Kikuchi",
+      "venue": "Traffic and Granular Flow '97",
+      "start": "319",
+      "year":"1998"
+
+    },
+    {
+      
+      "pub_date": "1998-01-01",
+      "refereed": false,
+      "title": "Traffic  Flow Simulator Based on Optimal Velocity Function",
+      "author": "Macoto Kikuchi, Yuki Sugiyama, Shin-ichi Tadaki, and Satoshi Yukawa",
+      "venue": "Statistical  Physics (World Scientific, 1998)",
+      "year":"1998"
+
+    },
+    {
+      
+      "pub_date": "2000-02-01",
+      "refereed": false,
+      "title": "Congestion in Multi-lane Coupled Map Traffic Flow Model",
+      "author": "  Shin-ichi Tadaki, Macoto Kikuchi, Yuki Sugiyama and Satoshi Yukawa",
+      "venue": "Statistical Physics (AIP, 2000)",
+      "year":"2000"
+
+    },
+    {
+      
+      "pub_date": "2000-01-01",
+      "refereed": false,
+      "title": "Noise  Induced Congestion in Coupled Map Optimal Velocity Model of Traffic  Flow",
+      "author": "  Shin-ichi Tadaki, Macoto Kikuchi, Yuki Sugiyama and Satoshi Yukawa",
+      "venue": "Soft Computing in Industrial Applications",
+      "start": "383",
+      "year":"2000"
+
+    },
+    {
+      
+      "pub_date": "2001-01-01",
+      "refereed": false,
+      "title": "Self Organization in  Ecosystem",
+      "author": "  Takashi Shimada, Satoshi Yukawa and Nobuyasu Ito",
+      "venue": "Proceedings of Sixth International Symposium on Artificial Life and Robotics",
+      "start": "78",
+      "year":"2001"
+    },
+    {
+      
+      "pub_date": "2002-01-01",
+      "refereed": false,
+      "title": "Nonequilibrium energy  transport in multiphase system",
+      "author": "  Teruyoshi Murakami, Satoshi Yukawa and Nobuyasu Ito",
+      "venue": "Computer Simulation Studies in  Condensed Matter Physics XIV ",
+      "start": "7",
+      "year":"2002"
+    },
+    {
+      
+      "pub_date": "2003-01-01",
+      "refereed": false,
+      "title": "Molecular Dynamics  Simulation of Lubricating Films",
+      "author": "  Teruyoshi Murakami, Satoshi Yukawa, and Nobuyasu Ito",
+      "venue": "Traffic and Granular Flow '01",
+      "start": "575",
+      "year":"2003"
+
+    },
+    {
+      
+      "pub_date": "2003-01-01",
+      "refereed": false,
+      "title": "Observational Aspects of Japanese Highway  Traffic",
+      "author": "  Macoto Kikuchi, Akihiro Nakayama, Katsuhiro Nishinari, Yuki Sugiyama, Shin-ichi Tadaki, and  Satoshi Yukawa",
+      "venue": "Traffic and Granular Flow '01",
+      "start": "243",
+      "year":"2003"
+    },
+    {
+      
+      "pub_date": "2003-01-01",
+      "refereed": false,
+      "title": "Long Term Traffic Data from Japanese Highway",
+      "author": "Macoto Kikuchi, Akihiro Nakayama, Katsuhiro Nishinari, Yuki Sugiyama, Shin-ichi Tadaki, and  Satoshi Yukawa",
+      "venue": "Traffic and Granular Flow '01",
+      "start": "257",
+      "year":"2003"
+    },
+    {
+      
+      "pub_date": "2003-01-01",
+      "refereed": false,
+      "title": "Congestion Induced by Bottlenecks in Two-lane Optimal  Velocity Traffic Flow Model",
+      "author": "Shin-ichi Tadaki, Macoto Kikuchi, Katsuhiro Nishinari, Yuki Sugiyama and Satoshi Yukawa",
+      "venue": "Traffic and Granular Flow '01",
+      "start": "211",
+      "year":"2003"
+    },
+    {
+      
+      "pub_date": "2004-01-01",
+      "refereed": false,
+      "title": "Quantum  Computing Simulation using the Auxiliary Field Decomposition",
+      "author": "  Kurt Fischer, Hans-Georg Matuttis, Satoshi Yukawa and Nobuyasu Ito",
+      "venue": "Computer Simulation Studies in Condensed Matter Physics XVI ",
+      "start": "79",
+      "year":"2004"
+
+    },
+    {
+      
+      "pub_date": "2004-01-01",
+      "refereed": false,
+      "title": "Critical  Exponents of the Two Dimensional Melting",
+      "author": "Hiroshi Watanabe, Satoshi Yukawa, Yukiyasu Ozeki and Nobuyasu Ito",
+      "venue": "Computer Simulation  Studies in Condensed Matter Physics XVI",
+      "start": "101",
+      "year":"2004"
     }
+    
   ]
 }
