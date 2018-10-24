@@ -11,6 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.jp/citati
 {% include base_path %}
 
 ## Refereed Papers
+(jump to <a href="#other">other papers</a>)
 
 {% for post in site.publications reversed %}
   {% if post.refereed == 'True' %}
@@ -18,7 +19,7 @@ You can also find my articles on <u><a href="https://scholar.google.co.jp/citati
   {% endif %}
 {% endfor %}
 
-## Other Papers
+## <a name="other">Other Papers</a>
 
 {% for post in site.publications reversed %}
   {% if post.refereed != 'True' %}
