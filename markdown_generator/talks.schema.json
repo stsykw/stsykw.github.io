@@ -3,10 +3,6 @@
   "definitions":{
     "talk": {
       "definitions":{
-        "id":{
-          "description": "ID of paper",
-          "type": "integer"
-        },
         "date":{
           "description": "date YYYY-MM-DD format",
           "type": "string"
@@ -53,9 +49,6 @@
       "items": {
         "type":"object",
         "properties" :{
-          "id":{
-            "$ref": "#/definitions/talk/definitions/id"
-          },
           "date":{
             "$ref": "#/definitions/talk/definitions/date"
           },

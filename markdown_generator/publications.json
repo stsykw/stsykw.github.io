@@ -1,7 +1,6 @@
 {
   "papers": [
     {
-      "id": 1,
       "pub_date": "1994-10-01",
       "refereed": true,
       "title": "Dynamical Phase Transition in One Dimensional Traffic Flow Model with Blockage",
@@ -14,7 +13,6 @@
       "doi": "10.1143/JPSJ.63.3609"
     },
     {
-      "id": 2,
       "pub_date": "1995-01-01",
       "refereed": true,
       "title": "Coupled-Map Modeling of One-Dimensional Traffic Flow",
@@ -27,7 +25,6 @@
       "doi": "10.1143/JPSJ.64.35"
     },
     {
-      "id": 3,
       "pub_date": "1996-04-01",
       "refereed": true,
       "title": "Density Fluctuation in One-Dimensional Traffic Flow",
@@ -40,7 +37,6 @@
       "doi": "10.1143/JPSJ.65.916"
     },
     {
-      "id": 4,
       "pub_date": "1997-10-01",
       "refereed": true,
       "title": "Quantum Ratchets",
@@ -53,7 +49,6 @@
       "doi": "10.1143/JPSJ.66.2953"
     },
     {
-      "id": 5,
       "pub_date": "1998-07-01",
       "refereed": true,
       "title": "Coupled Map Traffic Flow Simulator Based on Optimal Velocity Functions",
@@ -66,7 +61,6 @@
       "doi": "10.1143/JPSJ.67.2270"
     },
     {
-      "id": 6,
       "pub_date": "1998-04-01",
       "refereed": true,
       "title": "Dissipation Enhanced Asymmetric Transport in Quantum Ratchet System,",
@@ -79,7 +73,6 @@
       "doi": "10.1143/JPSJ.67.1090"
     },
     {
-      "id": 7,
       "pub_date": "1999-09-01",
       "refereed": true,
       "title": "Noise Induced Congested Traffic Flow in Coupled Map Optimal Velocity Model",
@@ -92,7 +85,6 @@
       "doi": "10.1143/JPSJ.68.3110"
     },
     {
-      "id": 8,
       "pub_date": "2000-10-01",
       "refereed": true,
       "title": "Simulational Study on Dimensionality-Dependence of Heat Conduction",
@@ -105,7 +97,6 @@
       "doi": "10.1143/JPSJ.69.3150"
     },
     {
-      "id": 9,
       "pub_date": "2000-01-01",
       "refereed": true,
       "title": "Congestion in multi-lane roads with coupled map traffic flow model",
@@ -118,7 +109,6 @@
       "doi": "10.1143/PTPS.138.594"
     },
     {
-      "id": 10,
       "pub_date": "2000-01-01",
       "refereed": true,
       "title": "Asymmetric optimal velocity model for traffic flow",
@@ -131,7 +121,6 @@
       "doi": "10.1143/PTPS.138.549"
     },
     {
-      "id": 11,
       "pub_date": "2000-01-01",
       "refereed": true,
       "title": "Quantum Ratchet",
@@ -144,7 +133,6 @@
       "doi": "10.1016/S0921-4526(99)02982-8"
     },
     {
-      "id": 12,
       "pub_date": "2000-08-01",
       "refereed": true,
       "title": "A Quantum Analogue of the Jarzynski Equality",
@@ -157,7 +145,6 @@
       "doi": "10.1143/JPSJ.69.2367"
     },
     {
-      "id": 13,
       "pub_date": "2000-03-01",
       "refereed": true,
       "title": "Complexity in a Critical Traffic Flow",
@@ -170,7 +157,6 @@
       "doi": "10.1142/S0129183100000213"
     },
     {
-      "id": 14,
       "pub_date": "2001-06-01",
       "refereed": true,
       "title": "Polydispersity Effect and Universality of Finite-Size Scaling Function",
@@ -183,7 +169,6 @@
       "doi": "10.1143/JPSJ.70.1537"
     },
     {
-      "id": 15,
       "pub_date": "2002-09-01",
       "refereed": true,
       "title": "Observation of Congested Two-lane Traffic Caused by a Tunnel",
@@ -196,7 +181,6 @@
       "doi": "10.1143/JPSJ.71.2326"
     },
     {
-      "id": 16,
       "pub_date": "2002-01-01",
       "refereed": true,
       "title": "Self-organization in an ecosystem,",
@@ -209,7 +193,6 @@
       "doi": "10.1007/BF02481213"
     },
     {
-      "id": 17,
       "pub_date": "2002-10-01",
       "refereed": true,
       "title": "Non-equilibrium Relaxation Analysis on Two-dimensional Melting",
@@ -221,7 +204,6 @@
       "doi": "10.1103/PhysRevE.66.041110"
     },
     {
-      "id": 18,
       "pub_date": "2002-01-01",
       "refereed": true,
       "title": "Analysis of congested flow at the upper stream of a tunnel",
@@ -234,7 +216,6 @@
       "doi": "10.1016/S0378-4371(02)01235-9"
     },
     {
-      "id": 19,
       "pub_date": "2003-11-01",
       "refereed": true,
       "title": "Life-span of families in fossil data forms q-exponential distribution,",
@@ -247,7 +228,6 @@
       "doi": "10.1142/S0129183103005406"
     },
     {
-      "id": 20,
       "pub_date": "2003-05-01",
       "refereed": true,
       "title": "Energy Transport in Multiphase System",
@@ -260,7 +240,6 @@
       "doi": "10.1143/JPSJ.72.1049"
     },
     {
-      "id": 21,
       "pub_date": "2004-04-01",
       "refereed": true,
       "title": "Critical Exponents of Isotropic-hexatic Phase Transition in the Hard-disk System",
@@ -272,7 +251,6 @@
       "doi": "10.1103/PhysRevE.69.045103"
     },
     {
-      "id": 22,
       "pub_date": "2004-12-01",
       "refereed": true,
       "title": "Particle Dynamics Simulations of the Navier-Stokes Flow with Hard Disks",
@@ -285,7 +263,6 @@
       "doi": "10.1142/S0129183104006820"
     },
     {
-      "id": 23,
       "pub_date": "2004-11-01",
       "refereed": true,
       "title": "Super-Scaling of Percolation on Rectangular Domains",
@@ -297,7 +274,6 @@
       "doi": "10.1103/PhysRevLett.93.190601"
     },
     {
-      "id": 24,
       "pub_date": "2005-01-01",
       "refereed": true,
       "title": "Size Dispersity Effects on the Two-Dimensional Melting",
@@ -309,7 +285,6 @@
       "doi": "10.1103/PhysRevE.71.016702"
     },
     {
-      "id": 25,
       "pub_date": "2005-03-01",
       "refereed": true,
       "title": "Rate Constant of Kaneko-Yomo Model",
@@ -322,7 +297,6 @@
       "doi": "10.1143/JPSJ.74.1071"
     },
     {
-      "id": 26,
       "pub_date": "2005-03-01",
       "refereed": true,
       "title": "Heat Conduction of Lennard-Jones Particle System in Supercritical Fluid Phase",
@@ -335,7 +309,6 @@
       "doi": "10.1143/JPSJ.74.827"
     },
     {
-      "id": 27,
       "pub_date": "2005-12-01",
       "refereed": true,
       "title": "Attraction-limited cluster-cluster aggregation of Ising dipolar particles",
@@ -347,7 +320,6 @@
       "doi": "10.1103/PhysRevE.72.061403"
     },
     {
-      "id": 28,
       "pub_date": "2006-02-01",
       "refereed": true,
       "title": "The Rate Constant in Far-from-equilibrium States of a Replicating System with Mutually Catalyzing Chemicals,",
@@ -359,7 +331,6 @@
       "doi": "10.1143/JPSJ.75.024005"
     },
     {
-      "id": 29,
       "pub_date": "2006-03-01",
       "refereed": true,
       "title": "Power-Law Fluctuation in Expressway Traffic Flow: Detrended Fluctuation Analysis",
@@ -371,7 +342,6 @@
       "doi": "10.1143/JPSJ.75.034002"
     },
     {
-      "id": 30,
       "pub_date": "2006-07-01",
       "refereed": true,
       "title": "Asymmetric Structure of Gas-Liquid Interface",
@@ -383,7 +353,6 @@
       "doi": "10.1143/JPSJ.75.073001"
     },
     {
-      "id": 31,
       "pub_date": "2006-08-01",
       "refereed": true,
       "title": "Efficiency of rejection-free dynamic Monte Carlo methods for homogeneous spin models, hard disk systems, and hard sphere systems.",
@@ -395,7 +364,6 @@
       "doi": "10.1103/PhysRevE.74.026707"
     },
     {
-      "id": 32,
       "pub_date": "2006-09-01",
       "refereed": true,
       "title": "Positional order and diffusion processes in particle systems",
@@ -407,7 +375,6 @@
       "doi": "10.1103/PhysRevE.74.030201"
     },
     {
-      "id": 33,
       "pub_date": "2006-10-01",
       "refereed": true,
       "title": "Divergent Thermal Conductivity in Three-dimensional Nonlinear Latices",
@@ -419,7 +386,6 @@
       "doi": "10.1143/JPSJ.75.103001"
     },
     {
-      "id": 34,
       "pub_date": "2007-11-01",
       "refereed": true,
       "title": "Thermodynamics of a binary monolayer of Ising dipolar particles",
@@ -431,7 +397,6 @@
       "doi": "10.1103/PhysRevE.76.051116"
     },
     {
-      "id": 35,
       "pub_date": "2008-03-01",
       "refereed": true,
       "title": "Traffic jam without bottleneck - Experimental evidence for the physical mechanism of forming a jam",
@@ -443,7 +408,6 @@
       "doi": "10.1088/1367-2630/10/3/033001"
     },
     {
-      "id": 36,
       "pub_date": "2009-02-01",
       "refereed": true,
       "title": "Nonequilibrium Microscopic Distribution of Thermal Current in Particle Systems",
@@ -455,7 +419,6 @@
       "doi": "10.1143/JPSJ.78.023002"
     },
     {
-      "id": 37,
       "pub_date": "2009-08-01",
       "refereed": true,
       "title": "Metastability in the formation of an experimental traffic jam",
@@ -467,7 +430,6 @@
       "doi": "10.1088/1367-2630/11/8/083025"
     },
     {
-      "id": 38,
       "pub_date": "2010-04-01",
       "refereed": true,
       "title": "Spray flow-Network flow transition of binary Lennard-Jones particle system",
@@ -480,7 +442,6 @@
       "doi": "10.1016/j.physa.2010.02.035"
     },
     {
-      "id": 39,
       "pub_date": "2010-07-01",
       "refereed": true,
       "title": "Nonequilibrium Distribution of the Microscopic Thermal Current in Steady Thermal Transport Systems",
@@ -493,7 +454,6 @@
       "doi": "10.1143/PTPS.184.415"
     },
     {
-      "id": 40,
       "pub_date": "2011-06-01",
       "refereed": true,
       "title": "Microstructure of damage in thermally activated fracture of Lennard-Jones systems",
@@ -505,7 +465,6 @@
       "doi": "10.1103/PhysRevE.83.066108"
     },
     {
-      "id": 41,
       "pub_date": "2012-02-01",
       "refereed": true,
       "title": "Scaling relation and regime map of explosive gas–liquid flow of binary Lennard-Jones particle system",
@@ -518,7 +477,6 @@
       "doi": "10.1016/j.physa.2011.08.018"
     },
     {
-      "id": 42,
       "pub_date": "2013-10-01",
       "refereed": true,
       "title": "Phase transition in traffic jam experiment on a circuit",
@@ -530,7 +488,6 @@
       "doi": "10.1088/1367-2630/15/10/103034"
     },
     {
-      "id": 43,
       "pub_date": "2014-10-01",
       "refereed": true,
       "title": "Dynamical scaling of fragment distribution in drying paste",
@@ -542,7 +499,6 @@
       "doi": "10.1103/PhysRevE.90.042909"
     },
     {
-      "id": 44,
       "pub_date": "2014-11-01",
       "refereed": true,
       "title": "Stochastic modeling on fragmentation process over lifetime and its dynamical scaling law of fragment distribution ",
@@ -554,7 +510,6 @@
       "doi": "10.7566/JPSJ.83.124005"
     },
     {
-      "id": 45,
       "pub_date": "2016-04-01",
       "refereed": true,
       "title": "Quantitative explanation of circuit experiments and real traffic using the optimal velocity model",
@@ -566,7 +521,6 @@
       "doi": "10.1088/1367-2630/18/4/043040"
     },
     {
-      "id": 46,
       "pub_date": "2016-08-01",
       "refereed": true,
       "title": "Characterizing and distinguishing free and jammed traffic flows from the distribution and correlation of experimental speed data",
@@ -578,7 +532,6 @@
       "doi": "10.1088/1367-2630/18/8/083022"
     },
     {
-      "id": 47,
       "pub_date": "2016-09-01",
       "title": "Scaling from Circuit Experiment to Real Traffic Based on Optimal Velocity Model",
       "author": "Akihiro Nakayama, Macoto Kikuchi, Akihiro Shibata, Yuki Sugiyama, Shin-ichi Tadaki and Satoshi Yukawa",
@@ -589,7 +542,6 @@
       "doi": "10.1007/978-3-319-33482-0_66"
     },
     {
-      "id": 48,
       "pub_date": "2010-09-28",
       "title": "Phase  transition from poor to diverse ecosystems",
       "author": "  Yosuke Murase, Takashi Shimada, Satoshi Yukawa, and Nobuyasu Ito",
@@ -601,7 +553,6 @@
       "doi": "10.1016/j.phpro.2010.09.047"
     },
     {
-      "id": 49,
       "pub_date": "2010-09-28",
       "title": "Structure and  thermodynamics of particle systems with long and middle-range  interactions",
       "author": "  Masaru Suzuki, Satoshi Yukawa, and Nobuyasu Ito",
@@ -613,7 +564,6 @@
       "doi": "10.1016/j.phpro.2010.09.052"
     },
     {
-      "id": 50,
       "pub_date": "2009-02-01",
       "refereed": true,
       "title": "Energy  Transport in Lennard-Jones Particle System",
@@ -626,7 +576,6 @@
       "doi": "10.1143/PTPS.178.92"
     },
     {
-      "id": 51,
       "pub_date": "2009-02-01",
       "refereed": true,
       "title": "Microscopic  Energy Flux in Particle Systems and Nonlinear Lattices",
@@ -639,7 +588,6 @@
       "doi": "10.1143/PTPS.178.100"
     },
     {
-      "id": 52,
       "pub_date": "2009-02-01",
       "refereed": true,
       "title": "The Avogadro Challenge -  Nanodynamics Study on Nonequilibrium Problems",
@@ -652,7 +600,6 @@
       "doi": "10.1143/PTPS.178.24"
     },
     {
-      "id": 53,
       "pub_date": "2007-04-30",
       "title": "Dynamics and structure of  gas-liqud interface",
       "author": "  Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito",
@@ -664,7 +611,6 @@
       "doi": "10.1142/S0217979207045153"
     },
     {
-      "id": 54,
       "pub_date": "2007-01-01",
       "title": "Scale-Free Features in the  Observed Traffic Flow",
       "author": "Shin-ichi Tadaki, Macoto Kikuchi, Akihiro Nakayama, Katsuhiro Nishinari, Akihiro Shibata, Yuki Sugiyama, and Satoshi Yukawa",
@@ -675,7 +621,6 @@
       "doi": "10.1007/978-3-540-47641-2_69"
     },
     {
-      "id": 55,
       "pub_date": "2009-01-01",
       "title": "Dynamics and Thermal  Structure of Gas-Liquid Phase Interface",
       "author": "Fumiko Ogushi, Satoshi Yukawa, and Nobuyasu Ito",
@@ -686,7 +631,6 @@
       "doi": "10.1007/978-3-540-85625-2_12"
     },
     {
-      "id": 56,
       "pub_date": "2009-01-01",
       "title": "Rate Constant in  Far-from-Equilibrium Open Systems",
       "author": "Atsushi Kamimura, Satoshi Yukawa, Nobuyasu Ito",
@@ -697,7 +641,6 @@
       "doi": "10.1007/978-3-540-85625-2_13"
     },
     {
-      "id": 57,
       "pub_date": "2009-01-01",
       "title": "Attraction-limited Cluster-Cluster Aggregation of Ising Dipolar  Particles",
       "author": "Naoki Yoshioka, Imre Varga, Ferenc Kun, Satoshi Yukawa, and Nobuyasu Ito",
@@ -708,7 +651,6 @@
       "doi": "10.1007/978-3-540-85625-2_17"
     },
     {
-      "id": 58,
       "pub_date": "2005-04-01",
       "title": "Particle-Dynamics Approach to Non-Equilibrium Phenomena",
       "author": "  Fumiko Ogushi, Hiroshi Watanabe, Satoshi Yukawa, and Nobuyasu Ito",
@@ -719,7 +661,6 @@
       
     },
     {
-      "id": 59,
       "pub_date": "2006-01-01",
       "title": "A New Method of Investigating Equilibrium  Properties from Nonequilibrium Work",
       "author": "  Satoshi Yukawa",

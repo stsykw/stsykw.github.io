@@ -3,10 +3,6 @@
   "definitions":{
     "paper": {
       "definitions":{
-        "id":{
-          "description": "ID of paper",
-          "type": "integer"
-        },
         "pub_date":{
           "description": "publication date YYYY-MM-DD format",
           "type": "string"
@@ -65,9 +61,6 @@
       "items": {
         "type":"object",
         "properties" :{
-          "id":{
-            "$ref": "#/definitions/paper/definitions/id"
-          },
           "pub_date":{
             "$ref": "#/definitions/paper/definitions/pub_date"
           },
