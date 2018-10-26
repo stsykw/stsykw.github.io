@@ -1,6 +1,231 @@
 {
   "papers": [
     {
+      "pub_date": "2015-08-01",
+      "refereed": false,
+      "title": "協同性が引き起こすひび割れパターンの自己複製",
+      "author": "S. チャン　湯川諭(翻訳)  ",
+      "venue": "パリティ",
+      "volume": "30(8)",
+      "start": "40",
+      "end": "41",
+      "year": "2015"
+    },
+    {
+      "pub_date": "2013-10-01",
+      "refereed": false,
+      "title": "河川ネットワークの隠れた秩序",
+      "author": "A. G. スマート， 湯川諭(翻訳)  ",
+      "venue": "パリティ",
+      "volume": "28(10)",
+      "start": "38",
+      "end": "40",
+      "year": "2013"
+    },
+    {
+      "pub_date": "2009-01-01",
+      "refereed": false,
+      "title": "ミクロシミュレーションで探る非平衡現象 (第 53 回物性若手夏の学校 (2008 年度), 講義ノート)",
+      "author": "湯川諭",
+      "venue": "物性研究",
+      "volume": "91",
+      "start": "639",
+      "end": "651",
+      "year": "2009"
+    },
+    {
+      "pub_date": "2007-01-01",
+      "refereed": false,
+      "title": "3次元Lennard-Jones粒子系 における界面構造",
+      "author": "小串典子、伊藤伸泰、島田尚、湯川諭、Li Baowen",
+      "venue": "物性研究",
+      "volume": "88",
+      "start": "227",
+      "end": "230",
+      "year": "2007"
+    },
+    {
+      "pub_date": "2007-01-01",
+      "refereed": false,
+      "title": "分子動力学法を用いた多分散系の摩擦シミュレーション",
+      "author": "上田光生、湯川諭",
+      "venue": "物性研究",
+      "volume": "88",
+      "start": "265",
+      "end": "268",
+      "year": "2007"
+    },
+    {
+      "pub_date": "2007-01-01",
+      "refereed": false,
+      "title": "二成分Lennard-Jones形を用いた衝撃波管シミュレーション",
+      "author": "湯川諭、伊藤伸泰",
+      "venue": "数理解析研究所講究録",
+      "volume": "1539",
+      "start": "120",
+      "year": "2007"
+    },
+
+
+    {
+      "pub_date": "2006-01-01",
+      "refereed": false,
+      "title": "Molecular-Dynamcs Simulation of Vulcanian Eruption",
+      "author": "湯川諭、伊藤伸泰",
+      "venue": "数理解析研究所講究録",
+      "volume": "1472",
+      "start": "232",
+      "year": "2006"
+    },
+
+    {
+      "pub_date": "2006-01-01",
+      "refereed": false,
+      "title": "気液界面における温度構造",
+      "author": "小串典子、湯川諭、伊藤伸泰",
+      "venue": "数理解析研究所講究録",
+      "volume": "1472",
+      "start": "240",
+      "year": "2006"
+    },
+
+    {
+      "pub_date": "2005-01-01",
+      "refereed": false,
+      "title": "火山噴火のMDシミュレーション",
+      "author": "湯川諭、伊藤伸泰",
+      "venue": "数理解析研究所講究録",
+      "volume": "1413",
+      "start": "36",
+      "year": "2005"
+    },
+    {
+      "pub_date": "2003-01-01",
+      "refereed": false,
+      "title": "非平衡緩和法による2次元固液転移の研究",
+      "author": "渡辺宙志、湯川諭、尾関之康、伊藤伸泰",
+      "venue": "物性研究",
+      "volume": "79",
+      "start": "846",
+      "end": "850",
+      "year": "2003"
+    },
+
+    {
+      "pub_date": "2003-01-01",
+      "refereed": false,
+      "title": "高速道路に発生した渋滞の時空間プロット",
+      "author": "杉山雄規、湯川諭、菊池誠、中山章宏、 西成活祐、柴田章博、 只木進一",
+      "venue": "日本流体力学会 機関誌 「ながれ」",
+      "volume": "22",
+      "start": "巻頭写真",
+      "year": "2003"
+    },
+
+
+    {
+      "pub_date": "2001-01-01",
+      "refereed": false,
+      "title": "多様性を生む生態系のミニマルモデル",
+      "author": "島田尚、湯川諭、伊藤伸泰",
+      "venue": "物性研究",
+      "volume": "77",
+      "start": "559",
+      "year": "2001"
+    },
+
+    
+    {
+      "pub_date": "2001-01-01",
+      "refereed": false,
+      "title": "量子ラチェットとその周辺",
+      "author": "湯川諭",
+      "venue": "物性研究",
+      "volume": "76",
+      "start": "242",
+      "year": "2001"
+    },
+
+    
+    {
+      "pub_date": "2000-01-01",
+      "refereed": false,
+      "title": "交通流の科学",
+      "author": "只木進一、菊池誠、杉山雄規、湯川諭",
+      "venue": "日本物理学会誌",
+      "volume": "55",
+      "start": "166",
+      "year": "2000"
+    },
+
+    {
+      "pub_date": "1998-01-01",
+      "refereed": false,
+      "title": "量子非平衡定常ダイナミクスに対する計算物理的アプローチ(第43回物性若手夏の学校(1998年度),講義ノート)",
+      "author": "湯川諭",
+      "venue": "物性研究",
+      "volume": "71",
+      "start": "492",
+      "year": "1998"
+    },
+
+
+
+
+    
+    {
+      "pub_date": "1996-01-01",
+      "refereed": false,
+      "title": "交通流における密度揺らぎ",
+      "author": "湯川諭、菊池誠",
+      "venue": "物性研究",
+      "volume": "65",
+      "start": "755",
+      "year": "1996"
+    },
+
+    
+    {
+      "pub_date": "1995-01-01",
+      "refereed": false,
+      "title": "計算物理学および統計力学的手法をもちいた一次元交通流の研究 (修士論文抜粋),",
+      "author": "湯川諭",
+      "venue": "物性研究",
+      "volume": "65",
+      "start": "117",
+      "year": "1995"
+    },
+
+
+
+
+
+
+
+    
+
+    
+    {
+      "pub_date": "1995-01-01",
+      "refereed": false,
+      "title": "結合写像を用いた一次元交通流のモデル",
+      "author": "湯川諭、菊池誠",
+      "venue": "物性研究 ",
+      "volume": "63",
+      "start": "697",
+      "year": "1995"
+    },
+
+    
+
+
+
+
+
+
+
+    
+    {
       "pub_date": "1994-10-01",
       "refereed": true,
       "title": "Dynamical Phase Transition in One Dimensional Traffic Flow Model with Blockage",
