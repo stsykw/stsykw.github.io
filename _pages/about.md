@@ -14,6 +14,9 @@ Satoshi Yukawa
 Department of Earth and Space Science, Graduate School of Science, Osaka University  
 大阪大学大学院 理学研究科 宇宙地球科学専攻
 
+1-1 Machikaneyama, Toyonaka, Osaka 560-0043, Japan  
+560-0043 大阪府豊中市待兼山1-1
+
 Resarch Fields
 =====
 Statistical Physics, Computational Physics  
