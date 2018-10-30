@@ -1,5 +1,5 @@
 ---
-title: "物理学セミナ"
+title: "物理学セミナー"
 collection: teaching
 type: "undergraduate course"
 permalink: /teaching/2014-spring-physicsseminar
