@@ -1,9 +1,10 @@
 ---
 title: '地震研でLIGGGHTS'
 date: 2018-11-02
-permalink: /posts/2018/11/ligggts/
+permalink: /posts/2018/11/liggghts/
 tags:
   - computer
+  - liggghts
 ---
 
 
@@ -47,7 +48,8 @@ qstat
 
 ジョブ実行スクリプトの内容
 ----------------------
-```
+```sh
+
 #!/bin/bash  
 #$ -jc B  
 #$ -ac n=8  
@@ -64,3 +66,16 @@ LD_LIBRARY_PATH=/home/yuk/local/lib/:$LD_LIBRARY_PATH mpiexec_mpt -np 8 dplace -
 
 LD...からはじまる行が実際の計算を実行している部分。
 変更する必要があるのは、mpiexec_mptのあとにある-npの後ろの数字。これをジョブクラスの並列数をあわせる必要がある。またインプットファイルも変更する必要あり。
+
+計算結果を手元に
+--------
+計算結果のファイルを手元に得るにはファイルを送り込んだscpの逆をすれば良いが、ファイル数が多いので先にまとめた方が簡単。  
+ファイルをまとめる
+```
+tar cvfz test.tar.gz test test1 test3
+```
+test test1 test3 のファイルやディレクトリがtest.tar.gzという名前でまとめられる。まとめたファイルをscpで転送。
+まとめたファイルをバラバラにするには
+```
+tar xvf test.tar.gz
+```
