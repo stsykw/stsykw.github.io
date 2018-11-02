@@ -18,8 +18,8 @@ tags:
 手元のコンピュータでインプットファイル、ジョブ実行スクリプト(下で説明)を準備する。
 たとえばin.packing、job.sh。これを地震研に転送。下記の操作で地震研の計算機のホームディレクトリにコピーできる。
 ```
-scp ./in.packing eic.eri.u-tokyo.ac.jp:~/
-scp ./job.sh eic.eri.u-tokyo.ac.jp:~/
+scp ./in.packing username@eic.eri.u-tokyo.ac.jp:~/
+scp ./job.sh username@eic.eri.u-tokyo.ac.jp:~/
 ```
 
 もちろん地震研の計算機でインプットファイル、ジョブ実行スクリプトを編集して用意しても良い。
@@ -28,7 +28,7 @@ scp ./job.sh eic.eri.u-tokyo.ac.jp:~/
 ------
 地震研計算機にログイン
 ```
-ssh eic.eri.u-tokyo.ac.jp
+ssh username@eic.eri.u-tokyo.ac.jp
 ```
 
 実行
