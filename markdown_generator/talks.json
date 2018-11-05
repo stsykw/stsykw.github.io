@@ -31,8 +31,61 @@
       "longitude":21.6229769,
       "description": "7th Hungary-Japan Bilateral Workshop on Statistical Physics of Breakdown Phenomena"
     },
-    
 
+    {
+      "date": "2016-01-04-08",
+      "title": "Smoothed particle hydrodynamics modeling for desiccation crack pattern",
+      "author": "Satoshi Yukawa",
+      "venue": "Debrecen",
+      "location": "Debrecen, Hungary",
+      "latitude": 47.5436831,
+      "longitude":21.6229769,
+      "description": "6th Hungary-Japan Bilateral Workshop on Statistical Physics of Breakdown Phenomena"
+    },
+
+
+
+    {
+      "date": "2013-09-09-12",
+      "title": "Stochastic modeling for dynamical scaling law in fragment size distribution",
+      "author": "Satoshi Yukawa and Shin-ichi Ito",
+      "venue": "Debrecen",
+      "location": "Debrecen, Hungary",
+      "latitude": 47.5436831,
+      "longitude":21.6229769,
+      "description": "5th Hungary-Japan Bilateral Workshop on Statistical Physics of Breakdown Phenomena"
+    },
+
+    {
+      "date": "2010-09-09-10",
+      "title": "Fracture caused by rapid volume contraction",
+      "author": "Satoshi Yukawa",
+      "venue": "Debrecen",
+      "location": "Debrecen, Hungary",
+      "latitude": 47.5436831,
+      "longitude":21.6229769,
+      "description": "2nd Debrecen workshop on statistical physics of fracture and other complex systems"
+    },
+    {
+      "date": "2011-09-08-11",
+      "title": "Fracture caused by volume contraction",
+      "author": "Satoshi Yukawa",
+      "venue": "Keszthely",
+      "location": "Keszthely, Hungary",
+      "latitude": 46.76193,
+      "longitude":17.2476974,
+      "description": "3rd Workshop on the statistical physics of fracture and related problems"
+    },
+    {
+      "date": "2011-09-08-11",
+      "title": "Disorder and size effect on the critical stress of materials",
+      "author": "Atsushi Yamamoto and Satoshi Yukawa",
+      "venue": "Keszthely",
+      "location": "Keszthely, Hungary",
+      "latitude": 46.76193,
+      "longitude":17.2476974,
+      "description": "3rd Workshop on the statistical physics of fracture and related problems"
+    },
 
 
 
