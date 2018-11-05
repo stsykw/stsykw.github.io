@@ -1,6 +1,43 @@
 {
   "talks": [
     {
+      "date": "2018-03-05-09",
+      "title": "Statistical Modeling for Desiccation Cracking Based on Shape-Dependent Fragmentation Process",
+      "author": "Shin-ichi Ito , Satoshi Yukawa",
+      "venue": "Los Angeles",
+      "location": "Los Angeles, California",
+      "latitude": 34.0507017,
+      "longitude": -118.4189996,
+      "description": "APS March Meeting 2018"
+    },
+    {
+      "date": "2016-12-07-08",
+      "title": "Statistical properties of the drainage network in Japan",
+      "author": "Satoshi Yukawa and Kenji Hara",
+      "venue": "Nara Women's University",
+      "location": "Nara, Japan",
+      "latitude": 34.6879094,
+      "longitude":135.826303,
+      "description": "Nara Workshop on Nonlinear Dynamics 2016 Dec. under HAS-JSPS Joint Research Project"
+    },
+
+    {
+      "date": "2016-05-04-05",
+      "title": "A fiber-bundle-like model for the desiccation crack",
+      "author": "Satoshi Yukawa",
+      "venue": "Debrecen",
+      "location": "Debrecen, Hungary",
+      "latitude": 47.5436831,
+      "longitude":21.6229769,
+      "description": "7th Hungary-Japan Bilateral Workshop on Statistical Physics of Breakdown Phenomena"
+    },
+    
+
+
+
+
+    
+    {
       "date": "2017-12-04",
       "title": "生態系ネットワークモデルの侵入種数に対する構造の安定性",
       "author": " 池田光夢、湯川諭",
