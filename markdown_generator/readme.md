@@ -1,11 +1,8 @@
-# new structure
+# new data format
 
-Edit `publications.json` and `talks.json` by atom editor or something.
-In the atom, you must install `atom-json-editor` plugin.
+Edit `publications.json` and `talks.json` by an editor.
+If you use the atom editor, you may want to install `atom-json-editor` plugin.
 For generating each markdown files, use `publications.py` and `talks.py`.
-
-## 古い情報
-`presentations.tsv` `talks.tsv`は廃止。すべてExcelファイルに変更した。それにともない`presentations.py` `talks.py`もExcelファイルを扱うように変更。markdownファイル名などはExcelファイル上で自動生成している。
 
 
 # Jupyter notebook markdown generator
