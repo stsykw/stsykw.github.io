@@ -1,6 +1,106 @@
 {
   "talks": [
     {
+      "date": "2013-07-22-26",
+      "title": "Dynamical scaling law of fragment distribution in drying crack pattern",
+      "author": "Shin-ichi Ito and Satoshi Yukawa",
+      "venue": "Seoul National University",
+      "location": "Seoul, Korea",
+      "latitude": 37.4598564,
+      "longitude": 126.9525651,
+      "description": "STATPHYS 25 "
+    },
+
+
+
+
+    
+    {
+      "date": "2012-10-29-31",
+      "title": "Stochastic modeling for dynamical scaling law of dryning crack pattern",
+      "author": "Shin-ichi Ito and Satoshi Yukawa",
+      "venue": "Tottori Univ",
+      "location": "Tottori, Japan",
+      "latitude": 35.516421,
+      "longitude": 134.1726687,
+      "description": "Nonlinear Workshop in Tottori 2012"
+    },
+
+
+    
+    
+
+    
+
+
+
+
+    {
+      "date": "2013-12-17-18",
+      "title": "Dynamical scaling of fragment distribution in drying crack pattern",
+      "author": "Shin-ichi Ito and Satoshi Yukawa",
+      "venue": "Osaka Univ.",
+      "location": "Osaka, Japan",
+      "latitude": 34.8034727,
+      "longitude": 135.455291,
+      "description": "International Symposium on Research Frontiers of Physics, Earth and Space Science"
+    },   
+
+    
+    {
+      "date": "2009-08-12",
+      "title": "Nonequilibrium Distribution of Microscopic Thermal Current in Steady Thermal Transport Systems",
+      "author": "Satoshi Yukawa",
+      "venue": "Kyoto Univ.",
+      "location": "Kyoto, Japan",
+      "latitude": 35.0308115,
+      "longitude": 135.7855329,
+      "description": "YKIS 2009, Frontiers in Nonequilibrium Physics: Fundamental Theory, Glassy & Granular Materials, and Computational Physics"
+    },
+
+
+    
+
+
+
+
+
+    
+    {
+      "date": "2013-07-16-19",
+      "title": "Dynamical scaling law of fragment distribution in drying crack pattern",
+      "author": "Shin-ichi Ito and Satoshi Yukawa",
+      "venue": "Kyoto Univ.",
+      "location": "Kyoto, Japan",
+      "latitude": 35.0308115,
+      "longitude": 135.7855329,
+      "description": "Physics of glassy and granular materials, Satellite meeting of STATPHYS 25"
+    },
+
+    {
+      "date": "2012-10-24-25",
+      "title": "Nonequilibrium Dynamics of Grain Boundary",
+      "author": "Satoshi Yukawa and Atsuhi Yamamoto",
+      "venue": "Hakone",
+      "location": "Hakone, Japan",
+            "latitude": 35.2529829,
+      "longitude": 139.0438603,
+      "description": "Hakone Workshop on Crack Formation 2012"
+    },
+
+    {
+      "date": "2011-10-13",
+      "title": "Simulation of drying fractures by SPH and their statistical properties",
+      "author": "Shin-ichi Ito and Satoshi Yukawa",
+      "venue": "Nara Women's University",
+      "location": "Nara, Japan",
+      "latitude": 34.6879094,
+      "longitude":135.826303,
+      "description": "Nara Workshop on Fracture and Related Topics"
+    },
+
+    
+    {
       "date": "2018-03-05-09",
       "title": "Statistical Modeling for Desiccation Cracking Based on Shape-Dependent Fragmentation Process",
       "author": "Shin-ichi Ito , Satoshi Yukawa",
