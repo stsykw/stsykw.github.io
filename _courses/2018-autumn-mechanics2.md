@@ -12,6 +12,15 @@ location: "Osaka, Japan"
 [KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c2576BE84-121F-CBB6-73A5-9DA378AB98F8_kE3DBD3AA-7DE6-82CC-3F1E-5B94CC9D7D10)
 
 
+期末試験
+--------
+1月29日、講義時間中に期末試験を行う。
+出題に関するキーワードは、
+(1) 二体問題
+(2) 剛体の運動
+(3) 相対運動・慣性力
+教科書、講義ノートを十分に復習して臨むこと。
+
 スケジュール
 -----
 
