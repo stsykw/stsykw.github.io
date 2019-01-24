@@ -1,6 +1,18 @@
 {
   "papers": [
     {
+      "pub_date": "2019-01-24",
+      "refereed": true,
+      "title": "Bifurcation Angle Distribution in the Japanese River Network",
+      "author": "Satoshi Yukawa, Takeru Watanabe, and Kenji Hara",
+      "venue": "Journal of the Physical Society of Japan",
+      "volume": "88",
+      "start": "024901",
+      "end": "024901",
+      "year": "2019",
+      "doi": "10.7566/JPSJ.88.024901"
+    },
+    {
       "pub_date": "2015-08-01",
       "refereed": false,
       "title": "協同性が引き起こすひび割れパターンの自己複製",
