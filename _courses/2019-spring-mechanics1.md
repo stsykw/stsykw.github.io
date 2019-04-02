@@ -4,13 +4,14 @@ collection: courses
 type: "全学共通教育科目"
 permalink: /courses/2019-spring-mechanics1
 venue: "大阪大学, 全学共通教育機構"
-date: 2019-04-01
+date: 2019-03-31
 location: "Osaka, Japan"
 ---
 
 専門基礎教育科目(理学部)、月曜日3限、共C302教室
-[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c8341D850-DDF9-A1AA-108F-AA34EBD5DB5B_k5CF19B39-FB07-3CA6-C40A-81B62007D746) 
+[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c0092172A-D34D-4275-521E-BE97B258E6F1_k5B72484B-2409-8197-2A6C-DF171132E93B)
 
+    
 スケジュール
 -----
 <!-- br 相当は スペース2個分 -->
