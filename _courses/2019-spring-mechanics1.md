@@ -8,7 +8,7 @@ date: 2019-03-31
 location: "Osaka, Japan"
 ---
 
-専門基礎教育科目(理学部)、月曜日3限、共C302教室
+専門基礎教育科目(理学部)、月曜日3限、共C302教室  
 [KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c0092172A-D34D-4275-521E-BE97B258E6F1_k5B72484B-2409-8197-2A6C-DF171132E93B)
 
     
