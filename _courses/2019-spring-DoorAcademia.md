@@ -16,13 +16,13 @@ location: "Osaka, Japan"
 -----
 <!-- br 相当は スペース2個分 -->
 **4月8日**  
-ガイダンス
+ガイダンス  
+[観察結果アップロード](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/displayIndividualContent?mode=reset&content_id=_435436_1&course_id=_12839_1)
+
+**4月16日**  
+結果報告とディスカッション
 
 <!--
-**4月16日**  
-質点の運動の記述: ベクトル(定義、内積、外積)  
-数学的内容: ベクトルとその演算(大きさ、内積、外積)  
-
 **4月23日**  
 質点の運動の記述: 位置の表現と、速度、加速度  
 数学的内容: ベクトルの微分
