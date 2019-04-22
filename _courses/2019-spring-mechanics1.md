@@ -113,7 +113,7 @@ Quiz
 \mathbf{r} = v t \,\mathbf{e}_r \enspace , \quad \theta = \omega t
 \\]
 (\\(t\\)を時間として、\\(v > 0, \omega >0 \\) とする)を考える。
-* 極座標系の基本ベクトル\\( \mathbf{e}_r,\mathbf{e}_{\theta} \\)を、直交座標系での基本ベクトル\\( \mathbf{e}_x, \mathbf{e}_y \\)の線形結合で表せ。
+* 極座標系の基本ベクトル$ \mathbf{e}_r,\mathbf{e}_{\theta} $を、直交座標系での基本ベクトル\\( \mathbf{e}_x, \mathbf{e}_y \\)の線形結合で表せ。
 * 速度ベクトルと、加速度ベクトルを、(1) 直交座標系で求めよ (2) 極座標系で求めよ。
 
 **Quiz4(5月13日出題)**  
