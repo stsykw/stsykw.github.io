@@ -19,7 +19,7 @@ location: "Osaka, Japan"
 ガイダンス  
 [観察結果アップロード](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/displayIndividualContent?mode=reset&content_id=_435436_1&course_id=_12839_1)
 
-**4月15,22日**  
+**4月15,22日、5月13日**  
 結果報告とディスカッション
 
 評価
