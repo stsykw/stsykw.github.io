@@ -17,10 +17,15 @@ location: "Osaka, Japan"
 <!-- br 相当は スペース2個分 -->
 **4月8日**  
 ガイダンス  
-[観察結果アップロード](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/displayIndividualContent?mode=reset&content_id=_435436_1&course_id=_12839_1)
+[観察結果アップロード](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/displayIndividualContent?mode=reset&content_id=_435436_1&course_id=_12839_1)  
 
 **4月15,22日、5月13日**  
-結果報告とディスカッション
+結果報告とディスカッション  
+
+**5月20日**  
+文献の探し方、文献の読み方  
+[資料](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_540242_1&course_id=_12839_1)  
+
 
 評価
 ---
