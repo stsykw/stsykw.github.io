@@ -26,6 +26,13 @@ location: "Osaka, Japan"
 文献の探し方、文献の読み方  
 [資料](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_540242_1&course_id=_12839_1)  
 
+**5月27日**  
+見つけてきた文献の紹介。読もうと思っている文献の紹介。  
+
+**6月3日、10日、17日** 
+文献を読む  
+
+
 
 評価
 ---
