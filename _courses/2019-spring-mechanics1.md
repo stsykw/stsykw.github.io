@@ -179,10 +179,10 @@ W = \int_{(0,0)}^{(1,1)} d\mathbf{r} \cdot \mathbf{F}
 </ol>  
 
 **Quiz 9(6月17日出題)**  
-万有引力ポテンシャル\\( U = - \dfrag{GMm}{\lvert \mathbf{r} \rvert } \\)に対し、万有引力を
+万有引力ポテンシャル\\( U = - \dfrac{GMm}{\lvert \mathbf{r} \rvert } \\)に対し、万有引力を
 \\begin{align}
-F_x & = - \dfrac{\partial U}{\partial x}\\
-F_y & = - \dfrac{\partial U}{\partial y}\\
+F_x & = - \dfrac{\partial U}{\partial x}\\\
+F_y & = - \dfrac{\partial U}{\partial y}\\\
 F_z & = - \dfrac{\partial U}{\partial z}
 \\end{align}
 で具体的に計算せよ。
