@@ -190,8 +190,8 @@ F_z & = - \dfrac{\partial U}{\partial z}
 \\[
   m \dfrac{d^2y}{dt^2} = - m g - m \lambda \epsilon \left( \dfrac{dy}{dt} \right)^2
 \\]
-とかける。ここで\\( \epsilon \\)は、符号を表し \\( \dfrac{dy}dt} > 0 \\)のとき\\( +1 \\)、
-\\( \dfrac{dy}{dt}  < 0 \\)のとき\\( -1 \\)、\\( \dfrac{dy}dt} = 0 \\)のとき\\( 0 \\)とする。
+とかける。ここで\\( \epsilon \\)は、符号を表し \\( \dfrac{dy}{dt} > 0 \\)のとき\\( +1 \\)、
+\\( \dfrac{dy}{dt}  < 0 \\)のとき\\( -1 \\)、\\( \dfrac{dy}{dt} = 0 \\)のとき\\( 0 \\)とする。
 運動方程式を\\( \dfrac{dy}{dt} = v \\)と置いて
 \\begin{align}
 \dfrac{dv}{dt} = -  g -  \lambda \epsilon v^2 \\
