@@ -4,12 +4,12 @@ collection: courses
 type: "全学共通教育科目"
 permalink: /courses/2019-autumn-mechanics2
 venue: "大阪大学, 全学共通教育機構"
-date: 2019-10-01
+date: 2019-09-10
 location: "Osaka, Japan"
 ---
 
-専門基礎教育科目(工学部)、火曜日1限、共B118教室  
-<!-- [KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c2576BE84-121F-CBB6-73A5-9DA378AB98F8_kE3DBD3AA-7DE6-82CC-3F1E-5B94CC9D7D10) -->
+専門基礎教育科目(工学部)、火曜日1限、共A301教室  
+[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cE66ED2F6-7548-DBFF-F64F-27C989779A09_kDF4F87C3-DA39-2448-157F-D1C03F46D44B)
 
 
 
