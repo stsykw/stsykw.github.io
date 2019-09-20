@@ -12,14 +12,13 @@ location: "Osaka, Japan"
 [KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cE66ED2F6-7548-DBFF-F64F-27C989779A09_kDF4F87C3-DA39-2448-157F-D1C03F46D44B)
 
 
-
 スケジュール
 -----
 
-<!--
-**10月2日**  
-質点の力学(力学I)の復習: 復習、減衰振動  
+**10月1日**  
+質点の力学(力学詳論I)の復習: 復習、減衰振動  
 
+<!--
 **10月9日**  
 質点の力学: 減衰振動(続き)、強制振動と共鳴  
 
