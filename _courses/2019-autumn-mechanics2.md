@@ -8,15 +8,14 @@ date: 2019-09-10
 location: "Osaka, Japan"
 ---
 
-専門基礎教育科目(工学部)、火曜日1限、共A301教室  
-[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cE66ED2F6-7548-DBFF-F64F-27C989779A09_kDF4F87C3-DA39-2448-157F-D1C03F46D44B)
-
+専門基礎教育科目(工学部)、火曜日1限、共A201教室  
+[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cB74E85E5-17A0-E468-71B7-5D08CC4324F7_kCE8EBD29-3D09-17CE-044D-7B106F3804D5)
 
 スケジュール
 -----
 
 **10月1日**  
-質点の力学(力学詳論I)の復習: 復習、減衰振動  
+質点の力学(力学詳論I)の復習: 復習
 
 <!--
 **10月9日**  
