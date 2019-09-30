@@ -10,6 +10,7 @@ location: "Osaka, Japan"
 
 専門基礎教育科目(工学部)、火曜日1限、共A201教室  
 [KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cB74E85E5-17A0-E468-71B7-5D08CC4324F7_kCE8EBD29-3D09-17CE-044D-7B106F3804D5)
+時間割コード 137551
 
 スケジュール
 -----
