@@ -96,7 +96,7 @@ location: "Osaka, Japan"
 * 参考書: 前野昌弘「よくわかる初等力学」東京図書
 * 参考書: 窪田高弘「力学入門」培風館
 * 参考書: リチャード・ファインマン、ロバート・レイトン、マシュー・サンズ、坪井忠二訳「ファインマン物理学 I 力学」岩波書店
-* 参考書: Daniel Kleppner and Robert Kolenkow, ``An Introduction to Mechanics (second edition)'' Cambridge University Press
+* 参考書: Daniel Kleppner and Robert Kolenkow, "An Introduction to Mechanics (second edition)" Cambridge University Press
 * 関連図書: ゴールドスタイン「古典力学」吉岡書店
 * 関連図書: エルンスト・マッハ、岩野秀明訳「マッハ力学史 古典力学の発展と批判(上、下)」ち
 くま学芸文庫
