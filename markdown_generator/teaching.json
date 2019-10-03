@@ -1,6 +1,16 @@
 {
   "teachings": [
     {
+      "year": 2019,
+      "semester": "spring",
+      "url_slug": "seminar",
+      "title": "学問への扉",
+      "type": "underguraduate course",
+      "venue": "大阪大学、教養教育系セミナー",
+      "location": "大阪府豊中市待兼山",
+      "description": "初年度向けセミナー、課題解決、文献購読、プレゼンテーション"
+    },
+    {
       "year": 2006,
       "semester": "autumn",
       "url_slug": "eleman1",
@@ -91,6 +101,16 @@
       "description": "理学部向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動、質点系、剛体入門"
     },
     {
+      "year": 2019,
+      "semester": "spring",
+      "url_slug": "mechanics1",
+      "title": "力学詳論I",
+      "type": "underguraduate course",
+      "venue": "大阪大学、専門教育基礎科目(理)",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動"
+    },
+    {
       "year": 2017,
       "semester": "autumn",
       "url_slug": "mechanics2",
@@ -110,6 +130,17 @@
       "location": "大阪府豊中市待兼山",
       "description": "工学部向け専門教育基礎科目。質点系、剛体運動、非慣性系の運動"
     },
+    {
+      "year": 2019,
+      "semester": "autumn",
+      "url_slug": "mechanics2",
+      "title": "力学詳論II",
+      "type": "underguraduate course",
+      "venue": "大阪大学、専門教育基礎科目(工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "工学部向け専門教育基礎科目。質点系、剛体運動、非慣性系の運動"
+    },
+
     {
       "year": 2006,
       "semester": "autumn",
@@ -312,6 +343,16 @@
     },
     {
       "year": 2017,
+      "semester": "autumn",
+      "url_slug": "nonequilibrium",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    },
+    {
+      "year": 2019,
       "semester": "autumn",
       "url_slug": "nonequilibrium",
       "title": "非平衡現象論",

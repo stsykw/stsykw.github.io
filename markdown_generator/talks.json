@@ -2,6 +2,34 @@
   "talks": [
 
 
+
+    {
+      "date": "2019-09-13",
+      "title": "Cellular Braided-stream model による河川成長、及びその分岐角度分布",
+      "author": "高谷慧, 渡辺壮流, 湯川諭",
+      "venue": "岐阜大学柳戸キャンパス",
+      "location": "岐阜市柳戸1-1",
+      "latitude": 35.4651262,
+      "longitude":136.7376306,
+      "description": "日本物理学会 2019年秋季大会"
+    },
+
+    {
+      "date": "2019-09-12",
+      "title": "河川ネットワークにおける分岐角度分布",
+      "author": "湯川諭",
+      "venue": "岐阜大学柳戸キャンパス",
+      "location": "岐阜市柳戸1-1",
+      "latitude": 35.4651262,
+      "longitude":136.7376306,
+      "description": "日本物理学会 2019年秋季大会"
+    },
+
+
+
+
+
+
     {
       "date": "2019-03-16",
       "title": "Cellular Braided-stream model による河川成長、及びその分岐角度分布",

@@ -1,7 +1,7 @@
 ---
 title: "統計力学1"
 collection: teaching
-type: "undergraduate course"
+type: "underguraduate course"
 permalink: /teaching/2012-spring-statphys1
 venue: "大阪大学、理学部専門科目"
 date: 2012-04-01

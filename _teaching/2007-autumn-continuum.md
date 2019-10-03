@@ -1,7 +1,7 @@
 ---
 title: "連続体力学"
 collection: teaching
-type: "undergraduate course"
+type: "underguraduate course"
 permalink: /teaching/2007-autumn-continuum
 venue: "大阪大学、理学部専門科目"
 date: 2007-10-01

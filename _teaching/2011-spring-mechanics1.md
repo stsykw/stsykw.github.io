@@ -1,7 +1,7 @@
 ---
 title: "力学I"
 collection: teaching
-type: "undergraduate course"
+type: "underguraduate course"
 permalink: /teaching/2011-spring-mechanics1
 venue: "大阪大学、専門教育基礎科目(基礎工)"
 date: 2011-04-01
