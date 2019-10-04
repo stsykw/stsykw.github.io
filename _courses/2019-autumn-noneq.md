@@ -26,10 +26,12 @@ location: "Osaka, Japan"
 **11月29日**  
 **12月6日**  
 出張により休講の予定  
+
 **12月13日**  
 **12月20日**  
 **1月10日**  
 沙川さんの集中講義のため休講の予定  
+
 **1月24日**  
 **1月31日**  
 **2月7日**  
@@ -54,9 +56,9 @@ Quiz
 * 鈴木増雄「統計力学、岩波講座現代の物理学」岩波書店
 * 戸田盛和、久保亮五、斎藤信彦、橋爪夏樹「統計物理学、現代物理学の基礎第二版」岩波書店
 
-アインシュタインのゆらぎの理論
+Einsteinのゆらぎの理論
 * L. Landau, E. Lifshitz 「統計物理学 (下)」岩波書店, L. Landau, E. Lifshitz, "Statistical Physics (course of theoretical physics volume 5) Butterworth-Heinemann"
-* A. Einstein, "Theorie der Opaleszenz von homogenen Flüssigkeiten und Flüssigkeitsgemischen in der Nähe des Kritischen Zustandes", Ann. der Phys. 33 (1910), pp. 1275-1298. 邦訳 アインシュタイン選集1、監修 湯川秀樹 翻訳 井上健、谷川安孝、中村誠太郎 >共立出版(1971)
+* A. Einstein, "Theorie der Opaleszenz von homogenen Flüssigkeiten und Flüssigkeitsgemischen in der Nähe des Kritischen Zustandes", Ann. der Phys. **33** (1910), pp. 1275-1298. 邦訳 アインシュタイン選集1、監修 湯川秀樹 翻訳 井上健、谷川安孝、中村誠太郎 共立出版(1971)
 
 大偏差性
 * 大野克嗣、["Large Deviation and Statistical Physics", Prog. Theor. Phys. Suppl. **99** (1989) 165.](https://doi.org/10.1143/PTPS.99.165)
