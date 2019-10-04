@@ -42,11 +42,11 @@ location: "Osaka, Japan"
 Quiz
 ----
 **Quiz1(10月4日出題)**  
-マクロ量 \(( \{ a_i \} \))の分布はエントロピーで支配される。
+マクロ量 \\( \{ a_i \} \\)の分布はエントロピーで支配される。
 \\[
 P(\{ a_i \} ) = \dfrac{1}{\mathcal{N}} \exp \left( \dfrac{1}{k_\mathrm{B}}  S(\{a_i\})\right)
 \\]
-このとき、指数関数の肩を平衡状態のマクロ量\\( \{ \overline{a_i} \} \\))からのずれで展開したとき、
+このとき、指数関数の肩を平衡状態のマクロ量\\( \{ \overline{a_i} \} \\)からのずれで展開したとき、
 \\[
 P(\{a_i\}) = (2\pi)^{-n/2} \left[ \det \left(
 -\dfrac{1}{k_\mathrm{B}} \dfrac{\partial^2 S}{\partial a_i \partial a_j }
