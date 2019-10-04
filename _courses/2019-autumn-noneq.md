@@ -18,6 +18,8 @@ location: "Osaka, Japan"
 非平衡現象とは。平衡近傍でのゆらぎ、Boltzmann-Einsteinの原理。最小仕事による表現
 
 **10月11日**  
+ゆらぎの動力学、Onsagerの相反定理  
+
 **10月18日**  
 **10月25日**  
 **11月8日**  
@@ -39,6 +41,23 @@ location: "Osaka, Japan"
 
 Quiz
 ----
+**Quiz1(10月4日出題)**  
+マクロ量 \(( \{ a_i \} \))の分布はエントロピーで支配される。
+\\[
+P(\{ a_i \} ) = \dfrac{1}{\mathcal{N}} \exp \left( \dfrac{1}{k_\mathrm{B}}  S(\{a_i\})\right)
+\\]
+このとき、指数関数の肩を平衡状態のマクロ量\\( \{ \overline{a_i} \} \\))からのずれで展開したとき、
+\\[
+P(\{a_i\}) = (2\pi)^{-n/2} \left[ \det \left(
+-\dfrac{1}{k_\mathrm{B}} \dfrac{\partial^2 S}{\partial a_i \partial a_j }
+ \right)
+ \right]^{1/2}
+\exp \left( 
+\dfrac{1}{2 k_\mathrm{B}}  
+\sum_{ij} \dfrac{\partial^2 S}{\partial a_i \partial a_j} (a_i - \overline{a_i}) (a_j - \overline{a_j}) 
+\right)
+\\]
+とかけることを示せ。
 
 評価
 ---
