@@ -21,6 +21,8 @@ location: "Osaka, Japan"
 ゆらぎの動力学、Onsagerの相反定理  
 
 **10月18日**  
+最小散逸の原理、Onsager係数の決定  
+
 **10月25日**  
 **11月8日**  
 **11月15日**  
@@ -41,7 +43,7 @@ location: "Osaka, Japan"
 
 Quiz
 ----
-**Quiz1(10月4日出題)**  
+**Quiz 1(10月4日出題)**  
 マクロ量 \\( \\{ a_i \\} \\)の分布はエントロピーで支配される。
 \\[
 P(\\{ a_i \\} ) = \dfrac{1}{\mathcal{N}} \exp \left( \dfrac{1}{k_\mathrm{B}}  S(\\{a_i\\})\right)
@@ -58,6 +60,19 @@ P(\\{a_i\\}) = (2\pi)^{-n/2} \left[ \det \left(
 \right)
 \\]
 とかけることを示せ。
+
+**Quiz 2(10月11日出題)**  
+マクロ量 \\( \\{ a_i \\} \\)の分布
+\\[
+P(\\{a_i\\}) \propto
+\exp \left( 
+-\dfrac{1}{2 }  
+\sum_{ij} A_{ij} a_i a_j
+\right)
+\\]
+に対し、期待値 \\( \left\langle a_i a_j \right\rangle = A_{ij}^{-1}\\)となることを示せ。  
+
+
 
 評価
 ---
