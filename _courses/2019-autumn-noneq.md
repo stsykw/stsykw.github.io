@@ -24,9 +24,11 @@ location: "Osaka, Japan"
 最小散逸の原理、Onsager係数の決定  
 
 **10月25日**  
-Onsager-Machlup過程、例:ブラウン運動、Ornstein-Uhlenbeck過程  
+Onsager-Machlup過程、例:ブラウン運動  
 
 **11月8日**  
+ポテンシャルのある系のブラウン運動、Ornstein-Uhlenbeck過程  
+
 **11月15日**  
 **11月22日**  
 **11月29日**  
@@ -91,6 +93,20 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
   \\end{align}
   で定義したとき、電気伝導率テンソル\\( \sigma_{xy} , \sigma_{yx} \\)に関してOnsagerの相反定理が成立していることを確認せよ。  
 
+**Quiz 4(10月25日出題)**  
+ブラウン運動のLangevin表現、
+\\[
+  \dfrac{dp_i}{dt} = - \dfrac{f}{T_R M} p_i + \xi_i(t)
+\\]
+ただし\\(  \langle \xi_i(t) \rangle_{eq} = 0 \enspace , \quad \langle \xi_i(t) \xi_j (t') \rangle_{eq} = 2 k_\mathrm{B} f \delta_{ij} \delta (t-t') \\)に対して、
+\\[
+\langle p_i (t+\tau) p_j (t) \rangle_{p_i(0)=p_i^0, p_j(0)=p_j^0} 
+\\]
+を計算せよ。また、初期値 \\( p_i^0, p_j^0 \\)を熱平衡にとり十分に時間が経った後の、
+\\[
+\langle p_i (t+\tau) p_j (t) \rangle_{eq} - \langle p_i (t+\tau) \rangle_{eq} \langle p_j (t) \rangle_{eq} 
+\\]
+を計算せよ。
 
 
 評価
