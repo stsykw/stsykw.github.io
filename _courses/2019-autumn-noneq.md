@@ -8,49 +8,52 @@ date: 2019-09-10
 location: "Osaka, Japan"
 ---
 
-大学院科目、金曜日2限、理F202教室  
+大学院科目、金曜日2限、理F202教室
 
 
 
 スケジュール
 -----
-**10月4日**  
+**10月4日**
 非平衡現象とは。平衡近傍でのゆらぎ、Boltzmann-Einsteinの原理。最小仕事による表現
 
-**10月11日**  
-ゆらぎの動力学、Onsagerの相反定理  
+**10月11日**
+ゆらぎの動力学、Onsagerの相反定理
 
-**10月18日**  
-最小散逸の原理、Onsager係数の決定  
+**10月18日**
+最小散逸の原理、Onsager係数の決定
 
-**10月25日**  
-Onsager-Machlup過程、例:ブラウン運動  
+**10月25日**
+Onsager-Machlup過程、例:ブラウン運動
 
-**11月8日**  
-ポテンシャルのある系のブラウン運動  
-線形応答(静的な場合)  
+**11月8日**
+ポテンシャルのある系のブラウン運動
+線形応答: 古典系の静的な場合
 
-**11月15日**  
-線形応答(量子系の静的な場合、動的な場合)  
+**11月15日**
+線形応答: 量子系の静的な場合
+線形応答: 動的な場合に向けて。Liouville動力学
 
-**11月22日**  
-**11月29日**  
-**12月6日**  
-出張により休講の予定  
+**11月22日**
+線形応答: 摂動展開、静的な場合再び
 
-**12月13日**  
-**12月20日**  
-**1月10日**  
-沙川さんの集中講義のため休講の予定  
+**11月29日**
+**12月6日**
+出張により休講の予定
 
-**1月24日**  
-**1月31日**  
-**2月7日**  
+**12月13日**
+**12月20日**
+**1月10日**
+沙川さんの集中講義のため休講の予定
+
+**1月24日**
+**1月31日**
+**2月7日**
 
 
 Quiz
 ----
-**Quiz 1(10月4日出題)**  
+**Quiz 1(10月4日出題)**
 マクロ量 \\( \\{ a_i \\} \\)の分布はエントロピーで支配される。
 \\[
 P(\\{ a_i \\} ) = \dfrac{1}{\mathcal{N}} \exp \left( \dfrac{1}{k_\mathrm{B}}  S(\\{a_i\\})\right)
@@ -61,25 +64,25 @@ P(\\{a_i\\}) = (2\pi)^{-n/2} \left[ \det \left(
 -\dfrac{1}{k_\mathrm{B}} \dfrac{\partial^2 S}{\partial a_i \partial a_j }
  \right)
  \right]^{1/2}
-\exp \left( 
-\dfrac{1}{2 k_\mathrm{B}}  
-\sum_{ij} \dfrac{\partial^2 S}{\partial a_i \partial a_j} (a_i - \overline{a_i}) (a_j - \overline{a_j}) 
+\exp \left(
+\dfrac{1}{2 k_\mathrm{B}}
+\sum_{ij} \dfrac{\partial^2 S}{\partial a_i \partial a_j} (a_i - \overline{a_i}) (a_j - \overline{a_j})
 \right)
 \\]
 とかけることを示せ。
 
-**Quiz 2(10月11日出題)**  
+**Quiz 2(10月11日出題)**
 マクロ量 \\( \\{ a_i \\} \\)の分布
 \\[
 P(\\{a_i\\}) \propto
-\exp \left( 
--\dfrac{1}{2 }  
+\exp \left(
+-\dfrac{1}{2 }
 \sum_{ij} A_{ij} a_i a_j
 \right)
 \\]
-に対し、期待値 \\( \left\langle a_i a_j \right\rangle = A_{ij}^{-1}\\)となることを示せ。  
+に対し、期待値 \\( \left\langle a_i a_j \right\rangle = A_{ij}^{-1}\\)となることを示せ。
 
-**Quiz 3(10月18日出題)**  
+**Quiz 3(10月18日出題)**
 Hall効果をDrudeモデルにより考察する。
 電荷\\(q\\)をもつ質量\\(m\\)の荷電粒子が運動方程式
   \\[
@@ -87,34 +90,34 @@ Hall効果をDrudeモデルにより考察する。
   \mathbf{B}- \gamma \mathbf{v}
   \\]
   に従うとする。ここで\\(\mathbf{E}, \mathbf{B}\\)はそれぞれ電場、
-  磁場、\\(\gamma\\)は散逸を表す。      
+  磁場、\\(\gamma\\)は散逸を表す。
   電場、磁場が\\(\mathbf{E} = (E_x, E_y, 0) , \mathbf{B} = (0,0,B)\\)のとき、
   定常速度\\( (v_x, v_y) \\)を求め、電気伝導率テンソル\\( \sigma_{xx}, \sigma_{xy},\sigma_{yx},\sigma_{yy} \\)を
   \\begin{align}
 v_x & = \sigma_{xx} E_x + \sigma_{xy} E_y \\\
-v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y 
+v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
   \\end{align}
-  で定義したとき、電気伝導率テンソル\\( \sigma_{xy} , \sigma_{yx} \\)に関してOnsagerの相反定理が成立していることを確認せよ。  
+  で定義したとき、電気伝導率テンソル\\( \sigma_{xy} , \sigma_{yx} \\)に関してOnsagerの相反定理が成立していることを確認せよ。
 
-**Quiz 4(10月25日出題)**  
+**Quiz 4(10月25日出題)**
 ブラウン運動のLangevin表現、
 \\[
   \dfrac{dp_i}{dt} = - \dfrac{f}{T_R M} p_i + \xi_i(t)
 \\]
 ただし\\(  \langle \xi_i(t) \rangle_{eq} = 0 \enspace , \quad \langle \xi_i(t) \xi_j (t') \rangle_{eq} = 2 k_\mathrm{B} f \delta_{ij} \delta (t-t') \\)に対して、
 \\[
-\langle p_i (t+\tau) p_j (t) \rangle_{p_i(0)=p_i^0, p_j(0)=p_j^0} 
+\langle p_i (t+\tau) p_j (t) \rangle_{p_i(0)=p_i^0, p_j(0)=p_j^0}
 \\]
 を計算せよ。また、初期値 \\( p_i^0, p_j^0 \\)を熱平衡にとり十分に時間が経った後の、
 \\[
-\langle p_i (t+\tau) p_j (t) \rangle_{eq} - \langle p_i (t+\tau) \rangle_{eq} \langle p_j (t) \rangle_{eq} 
+\langle p_i (t+\tau) p_j (t) \rangle_{eq} - \langle p_i (t+\tau) \rangle_{eq} \langle p_j (t) \rangle_{eq}
 \\]
 を計算せよ。
 
-**Quiz 5(11月8日出題)**  
+**Quiz 5(11月8日出題)**
 \\(L \times L \times L \\)の立方体中に\\( N \\)個の古典的な自由粒子が逆温度\\( \beta \\)の熱平衡状態として存在している。
 この自由粒子の重心位置\\( \dfrac{1}{N} \langle \sum_i q_i^z \rangle \\)の重力に対する応答を
-線形応答の範囲で調べよ。また、重力は立方体のある辺と平行なz軸負の向きにかかるとする。  
+線形応答の範囲で調べよ。また、重力は立方体のある辺と平行なz軸負の向きにかかるとする。
 この系では厳密な重心位置も評価できるので、線形応答の結果と比較せよ。
 
 評価
@@ -140,21 +143,21 @@ Einsteinのゆらぎの理論
 大偏差性
 * 大野克嗣、["Large Deviation and Statistical Physics", Prog. Theor. Phys. Suppl. **99** (1989) 165.](https://doi.org/10.1143/PTPS.99.165)
 * 大野克嗣、["Onsager's Principle from Large Deviation Point of View", Prog. Theor. Phys. **89** (1993) 973.](https://doi.org/10.1143/PTP.89.973)
-* H. Touchette, ["The large deviation approach to statistical mechancis", arXiv:0804.0327](http://arxiv.org/abs/0804.0327) 
+* H. Touchette, ["The large deviation approach to statistical mechancis", arXiv:0804.0327](http://arxiv.org/abs/0804.0327)
 
 Onsagerの相反定理、Onsager-Machlup過程
 * L. Onsager, ["Reciprocal Relations in Irreversible Processes I", Phys. Rev. **37** (1931) 405.](http://prola.aps.org/abstract/PR/v37/i4/p405_1)
 * L. Onsager, ["Reciprocal Relations in Irreversible Processes II", Phys. Rev. **38** (1931) 2265.](http://prola.aps.org/abstract/PR/v38/i12/p2265_1)
-* 橋爪夏樹、["A Statistical Theory of Linear Dissipative Systems", Prog. Theor. Phys. **8** (1952) 461.](https://doi.org/10.1143/PTP/8.4.461)N. Hashitsume 
+* 橋爪夏樹、["A Statistical Theory of Linear Dissipative Systems", Prog. Theor. Phys. **8** (1952) 461.](https://doi.org/10.1143/PTP/8.4.461)N. Hashitsume
 * L. Onsager and S. Machlup, ["Fluctuations and Irreversible Processes", Phys. Rev. **91**, 1505, (1953).](http://prola.aps.org/abstract/PR/v91/i6/p1505_1)
 * M. Ichiyanagi ["Variational principles of irreversible processes", Phys. Rep. **243**, 125,(1994)](http://www.sciencedirect.com/science/article/pii/0370157394900523)
 
 
 ゆらぎの定理、Jarzynski等式
-* D. J. Evans and  D. J. Searles, ["The Fluctuation Theorem"</a>, Adv. Phys. **51** (2002) 1529.](http://taylorandfrancis.metapress.com/index/GY5R6P9XX8RYVXGR.pdf) 
+* D. J. Evans and  D. J. Searles, ["The Fluctuation Theorem"</a>, Adv. Phys. **51** (2002) 1529.](http://taylorandfrancis.metapress.com/index/GY5R6P9XX8RYVXGR.pdf)
 * G. E. Crooks, ["Entropy production fluctuation theorem and
     the non equilibrium work relation for free energy
-  differences", Phys. Rev. E **60**, 2721, (1999).]() 
+  differences", Phys. Rev. E **60**, 2721, (1999).]()
 * C. Jarzynski, ["Nonequilibrium Equality for Free Energy
   Differences", Phys. Rev. Lett. **78**, 2690 (1997).]()
 *  C. Jarzynski, ["Nonequilibrium  work theorem for a system strongly coupled to a thermal environment", J. Stat. Mech.: Theor. Exp. **P09005**, (2004).]()
@@ -169,5 +172,3 @@ Onsagerの相反定理、Onsager-Machlup過程
 * N. G. van Kampen, "Stochastic Processes in Physics and Chemistry", Elsevier
 * D. N. Zubarev, "Nonequilibrium Statistical Thermodynamics", Consultants Bureau
 * R. Zwanzig, "Nonequilibirum Statistical Mechanics", Oxford
-
-
