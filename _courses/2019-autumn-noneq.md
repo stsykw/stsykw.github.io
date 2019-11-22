@@ -133,7 +133,7 @@ Quiz 4の相関関数を、Fokker-Plack方程式
 を使って計算せよ。
 
 **Quiz 7(11月22日出題)**  
-`\\(\mathcal{L}_0\\)`
+`$$\mathcal{L}_0$$`
 をハミルトニアンとのPoisson括弧で定義される
 `\\(\mathcal{L}_0(\cdot)=\{ \cdot, H_0\}_{\text{pb}}\\)`
 という線形微分演算子とする。
