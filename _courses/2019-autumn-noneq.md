@@ -133,7 +133,7 @@ Quiz 4の相関関数を、Fokker-Plack方程式
 を使って計算せよ。
 
 **Quiz 7(11月22日出題)**  
-ハミルトニアン\\(H\\)とのPoisson括弧で定義される\\( \mathcal{L}(\cdot) =\{ \cdot, H\}\\)
+ハミルトニアン\\(H\\)とのPoisson括弧で定義される\\( \mathcal{L}(\cdot) =\\{ \cdot, H\\}\\)
 という線形微分演算子に対して、
 平衡分布\\( f_{eq}\propto \exp -\beta H \\)が
 \\[
