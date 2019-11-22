@@ -125,7 +125,7 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 この系では厳密な重心位置も評価できるので、線形応答の結果と比較せよ。
 
 **Quiz 6(11月22日出題)**  
-Quiz 4の相関関数を、Fokker-Plack方程式  
+Quiz 4の相関関数を、Fokker-Plack方程式
 \\[
  \dfrac{\partial P}{\partial t}
  = k_\mathrm{B} f \sum_i \dfrac{\partial^2 }{\partial p_i^2} P + \dfrac{f}{T_RM}\sum_i \dfrac{\partial }{\partial p_i} (p_i P)
@@ -133,9 +133,8 @@ Quiz 4の相関関数を、Fokker-Plack方程式
 を使って計算せよ。
 
 **Quiz 7(11月22日出題)**  
-\\( \mathcal{L}_0 \\)
-をハミルトニアンとのPoisson括弧で定義される
-\\(  \mathcal{L}_0=\{ \cdot, H_0 \}_{\text{pb}}\\)
+\\(\mathcal{L}_0\\)をハミルトニアンとのPoisson括弧で定義される
+\\(  \mathcal{L}_0 (\cdot)=\{ \cdot, H_0 \}_{\text{pb}}\\)
 という線形微分演算子とする。
 このとき、平衡分布\\( f_{eq} \propto \exp -\beta H_0 \\)が
 \\[
