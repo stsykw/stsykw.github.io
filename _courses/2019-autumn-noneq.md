@@ -38,11 +38,15 @@ Onsager-Machlup過程、例:ブラウン運動
 線形応答: 摂動展開、静的な場合再び
 
 **11月29日**
+線形応答: 揺動散逸定理、Kramers-Kronig関係
+
 **12月6日**
 出張により休講の予定
 
 **12月13日**
+
 **12月20日**
+
 **1月10日**
 沙川さんの集中講義のため休講の予定
 
@@ -119,6 +123,28 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 この自由粒子の重心位置\\( \dfrac{1}{N} \langle \sum_i q_i^z \rangle \\)の重力に対する応答を
 線形応答の範囲で調べよ。また、重力は立方体のある辺と平行なz軸負の向きにかかるとする。
 この系では厳密な重心位置も評価できるので、線形応答の結果と比較せよ。
+
+**Quiz 6(11月22日出題)**
+Quiz 4の相関関数を、Fokker-Plack方程式
+\\[
+ \dfrac{\partial P}{\partial t}
+ =
+ k_\mathrm{B} f \sum_i \dfrac{\partial^2 }{\partial p_i^2} P
+ + \dfrac{f}{T_RM}\sum_i \dfrac{\partial }{\partial p_i} (p_i P)
+\\]
+を使って計算せよ。
+
+**Quiz 7(11月22日出題)**
+\\( \mathcal{L}_0  \\)
+をハミルトニアンとのPoisson括弧で定義される
+\\(  \mathcal{L}_0=\{ \cdot, H_0 \}_{\text{pb}}\\)
+という線形微分演算子とする。
+このとき、平衡分布\\( f_{eq} \propto \exp -\beta H_0 \\)が
+\\[
+\mathcal{L}_0 f_{eq} = 0
+\\]
+となることを示せ。
+
 
 評価
 ---
