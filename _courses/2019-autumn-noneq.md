@@ -142,6 +142,29 @@ Quiz 4の相関関数を、Fokker-Plack方程式
 \\]
 となることを示せ。
 
+**Quiz 8(12月13日出題)**  
+能勢-Hoover動力学において、分布関数\\( f_{NH} \\)の全微分が以下のようになることを示せ。
+\\begin{align}
+  \dfrac{d f_{NH}}{dt} & =
+  \dfrac{\partial f_{NH}}{\partial t}
+  + \dot{p}_i \dfrac{\partial f_{NH}}{\partial p_i}
+  + \dot{q}_i \dfrac{\partial f_{NH}}{\partial q_i}
+  + \zeta \dfrac{\partial f_{NH}}{\partial \zeta}
+  \\
+  & = dN\zeta f_{NH}
+\\end{align}
+      
+**Quiz 9(12月13日出題)**  
+位相空間中のある領域\\( \mathcal{D}_t \\)の体積のLagrange的な時間変化が、
+    \\[
+    \dfrac{dV(\Gamma(t))}{dt} =
+    \int_{\mathcal{D}_t} d\Gamma(t) \Lambda (\Gamma(t))
+    \\]
+    となることを示せ。ただし \\( \Lambda (\Gamma(t))
+    = \sum_i \left(\dfrac{\partial \dot{q}_i }{\partial q_i }
+    + \dfrac{\partial \dot{p}_i} {\partial p_i} \right) \\) である。
+
+
 
 評価
 ---
