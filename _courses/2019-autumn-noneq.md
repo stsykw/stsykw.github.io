@@ -47,6 +47,7 @@ Onsager-Machlup過程、例:ブラウン運動
 ゆらぎの定理: 散逸ダイナミクス
 
 **12月20日**  
+ゆらぎの定理: ゆらぎの定理、Jarzynski等式
 
 **1月10日**  
 沙川さんの集中講義のため休講の予定
@@ -164,6 +165,12 @@ Quiz 4の相関関数を、Fokker-Plack方程式
     = \sum_i \left(\dfrac{\partial \dot{q}_i }{\partial q_i }
     + \dfrac{\partial \dot{p}_i} {\partial p_i} \right) \\) である。
 
+**Quiz 16(12月20日出題)**  
+\\( f(x) \\) を下に凸な関数とする。\\(x\\)を確率変数として、Jensen不等式
+\\[
+ \langle f(x) \rangle \ge f(\langle x \rangle)
+\\]
+を示せ。
 
 
 評価
