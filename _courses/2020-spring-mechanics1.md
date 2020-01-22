@@ -4,7 +4,7 @@ collection: courses
 type: "全学共通教育科目"
 permalink: /courses/2020-spring-mechanics1
 venue: "大阪大学, 全学共通教育機構"
-date: 2020-02-28
+date: 2020-01-20
 location: "Osaka, Japan"
 ---
 
