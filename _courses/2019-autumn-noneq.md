@@ -158,11 +158,11 @@ Quiz 4の相関関数を、Fokker-Plack方程式
 **Quiz 8(12月13日出題)**  
 能勢-Hoover動力学において、分布関数\\( f\\)の全微分が以下のようになることを示せ。
 <div>
-\\begin{align}
+\begin{align}
   \dfrac{d f}{dt}  =
   \dfrac{\partial f}{\partial t} + \dot{p}_i \dfrac{\partial f}{\partial p_i} + \dot{q}_i \dfrac{\partial f}{\partial q_i}+ \zeta \dfrac{\partial f{\partial \zeta}
    = dN\zeta f
-\\end{align}
+\end{align}
 </div>
       
 **Quiz 9(12月13日出題)**  
