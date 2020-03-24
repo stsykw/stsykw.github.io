@@ -8,13 +8,16 @@ date: 2020-01-20
 location: "Osaka, Japan"
 ---
 
-専門基礎教育科目(理学部)、月曜日3限
-[KOANシラバス](https://koan.osaka-u.ac.jp/)
+専門基礎教育科目(理学部)、月曜日3限、共C302教室
+[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cA23E361F-F757-B4E3-53EE-2712DE3B812A_k3CA5D0CB-DE76-3C37-484B-FE28B40FFA7B)
 
 
 スケジュール
 ----------
-
+**4月13日**  
+始めに: 物理学とは。近似について。Taylor展開  
+質点の運動の記述: 物理量と単位、次元。無次元量。  
+数学的内容: Taylor展開  
 
 Quiz
 -----
