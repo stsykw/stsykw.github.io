@@ -11,6 +11,7 @@ location: "Osaka, Japan"
 専門基礎教育科目(理学部)、月曜日3限、共C302教室
 [KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cA23E361F-F757-B4E3-53EE-2712DE3B812A_k3CA5D0CB-DE76-3C37-484B-FE28B40FFA7B)  
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_588168_1&course_id=_117786_1)  
+[オンライン講義の接続情報](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/announcement?method=search&editMode=false&viewChoice=2&course_id=_117786_1&context=course&searchSelect=_117786_1&internalHandle=my_announcements)  
 [このページ](https://git.io/JvSGO)
 
 スケジュール
@@ -20,6 +21,10 @@ location: "Osaka, Japan"
 始めに: 物理学とは。近似について。Taylor展開  
 質点の運動の記述: 物理量と単位、次元。無次元量。  
 数学的内容: Taylor展開  
+
+**4月27日(オンライン)**  
+質点の運動の記述: ベクトル(定義、内積、外積)  
+数学的内容: ベクトルとその演算(大きさ、内積、外積  
 
 Quiz
 -----
@@ -39,6 +44,7 @@ Quiz
 * 動摩擦係数
 * ばね定数
 
+**Quiz 3(4月27日出題)**  
 
 
 評価
