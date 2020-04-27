@@ -52,10 +52,10 @@ Quiz
   =(\mathbf{b}\times\mathbf{c}) \cdot \mathbf{a}
   =(\mathbf{c}\times\mathbf{a}) \cdot \mathbf{b}
 \\]  
-* \\( \mathbf{a}\times(\mathbf{b}) \times \mathbf{c}) \\)
+* \\( \mathbf{a}\times(\mathbf{b} \times \mathbf{c}) \\)
 は外積の定義により\\( \mathbf{b}, \mathbf{c} \\)が作る平面上にある。
-\\[]
-\mathbf{a}\times(\mathbf{b}) \times \mathbf{c} = A \mathbf{b}+B \mathbf{c}
+\\[
+\mathbf{a}\times (\mathbf{b} \times \mathbf{c} )= A \mathbf{b}+B \mathbf{c}
 \\]
 と書いたとき、係数\\(A,B\\)を求めよ。
 
