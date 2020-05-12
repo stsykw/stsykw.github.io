@@ -1,6 +1,26 @@
 {
   "teachings": [
     {
+      "year": 2020,
+      "semester": "autumn",
+      "url_slug": "mechanics2",
+      "title": "力学詳論II",
+      "type": "underguraduate course",
+      "venue": "大阪大学、専門教育基礎科目(工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "工学部向け専門教育基礎科目。質点系、剛体運動、非慣性系の運動"
+    },
+    {
+      "year": 2020,
+      "semester": "spring",
+      "url_slug": "mechanics1",
+      "title": "力学詳論I",
+      "type": "underguraduate course",
+      "venue": "大阪大学、専門教育基礎科目(理)",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動"
+    },
+    {
       "year": 2019,
       "semester": "spring",
       "url_slug": "DoorAcademia",
