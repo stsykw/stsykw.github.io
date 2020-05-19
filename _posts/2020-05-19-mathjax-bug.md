@@ -1,6 +1,6 @@
 ---
 title: 'mathjax-bug'
-date: 2020-05-19
+date: 2020-05-18
 permalink: /posts/2020/05/mathjax-bug/
 tags:
   - computer
@@ -14,4 +14,3 @@ Mathjax bug?
 \\begin{equation}
 m \dfrac{d^2x}{dt^2} = F
 \\end{equation}
-
