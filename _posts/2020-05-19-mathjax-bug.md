@@ -1,0 +1,17 @@
+---
+title: 'mathjax-bug'
+date: 2020-05-19
+permalink: /posts/2020/05/mathjax-bug/
+tags:
+  - computer
+  - mathjax
+---
+
+
+Mathjax bug?
+==========
+
+\\begin{equation}
+m \dfrac{d^2x}{dt^2} = F
+\\end{equation}
+
