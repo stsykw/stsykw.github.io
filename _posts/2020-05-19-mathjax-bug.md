@@ -11,7 +11,6 @@ tags:
 Mathjax bug?
 ==========
 
-\\begin{equation}
+\\(
 M = m
-m \dfrac{d^2x}{dt^2} = F
-\\end{equation}
+\\)
