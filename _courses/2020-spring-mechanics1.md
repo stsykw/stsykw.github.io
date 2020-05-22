@@ -11,7 +11,7 @@ location: "Osaka, Japan"
 専門基礎教育科目(理学部)、月曜日3限、共C302教室
 [KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cA23E361F-F757-B4E3-53EE-2712DE3B812A_k3CA5D0CB-DE76-3C37-484B-FE28B40FFA7B)  
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_588168_1&course_id=_117786_1)  
-[オンライン講義の接続情報](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/announcement?method=search&editMode=false&viewChoice=2&course_id=_117786_1&context=course&searchSelect=_117786_1&internalHandle=my_announcements)  
+[オンライン講義の接続情報](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/announcement?method=search&context=mybb&course_id=_117786_1&viewChoice=2)  
 [このページ](https://git.io/JvSGO)
 
 スケジュール
