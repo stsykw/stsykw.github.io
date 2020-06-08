@@ -14,6 +14,11 @@ location: "Osaka, Japan"
 [オンライン講義の接続情報](https://www.cle.osaka-u.ac.jp/webapps/blackboard/execute/announcement?method=search&context=mybb&course_id=_117786_1&viewChoice=2)  
 [このページ](https://git.io/JvSGO)
 
+
+中間レポート課題
+-------------
+CLE上にて6月15日に公開する。
+
 スケジュール
 ----------
 **4月20日(第1回オンライン)**  
@@ -50,6 +55,7 @@ location: "Osaka, Japan"
 **6月15日(第8回オンライン、13時30分から15時まで)**  
 仕事とエネルギー: 保存量、仕事と運動エネルギー、保存力と力学的エネルギー保存則、ポテンシャルエネルギーの例  
 数学的内容: 線積分、偏微分
+中間レポート課題発表
 
 **6月22日(第9回オンライン、13時30分から15時まで)**  
 振り子の運動: 平面振り子の極座標表示、微小振幅の運動、有限振幅の運動  
