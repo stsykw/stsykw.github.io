@@ -173,20 +173,16 @@ m \dfrac{d^{2}y }{dt^{2}} = - mg - m \lambda \dfrac{dy}{dt}
 
 **Quiz 11(6月29日出題)**  
 無次元の変数\\( (x,y) \\)をつかって運動が
-\\begin{equation}
-  \begin{cases}
+\\begin{align} 
     \dfrac{dx}{dt} & = -y +  ( 1 - x^2 - y^2) x \\\
     \dfrac{dy}{dt} & = x + (1-x^2 -y^2) y
-  \end{cases}
-\\end{equation}
+\\end{align}
 と記述されたとする。この運動を定性的に調べよう。
 変数を極座標で\\( x = r \cos \theta, y = r \sin \theta \\)と表すと
-\\begin{equation}
-  \begin{cases}
+\\begin{align}
     \dfrac{dr}{dt} & =  r (1-r^2) \\\
     \dfrac{d\theta}{dt} & = 1 
-  \end{cases}
-\\end{equation}
+\\end{align}
 となる。これで\\( \theta \\)の運動は自明になり、また\\( r \\) は\\( \theta \\)に依存しないので、\\( r\\) のみ \\( r \ge 0\\) の領域で定性的に調べれば良い。
 このとき相空間は\\( r\\) 軸の\\( r\ge 0\\)の領域となる。
 1. \\( r\\)軸上\\(\dfrac{dr}{dt}  = 0\\)となる点を\\( r\ge 0\\)で求めよ。
