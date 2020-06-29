@@ -171,6 +171,29 @@ m \dfrac{d^{2}y }{dt^{2}} = - mg - m \lambda \dfrac{dy}{dt}
 2. \\(\mathbf{F}_{2} = h \begin{pmatrix} yz\\\ zx\\\ xy \end{pmatrix}\\)
 
 
+**Quiz 11(6月29日出題)**  
+無次元の変数\\( (x,y) \\)をつかって運動が
+\\begin{equation}
+  \begin{cases}
+    \dfrac{dx}{dt} & = -y +  ( 1 - x^2 - y^2) x \\[2mm]
+    \dfrac{dy}{dt} & = x + (1-x^2 -y^2) y
+  \end{cases}
+\\end{equation}
+と記述されたとする。この運動を定性的に調べよう。
+変数を極座標で\\( x = r \cos \theta, y = r \sin \theta \\)と表すと
+\\begin{equation}
+  \begin{cases}
+    \dfrac{dr}{dt} & =  r (1-r^2) \\[2mm]
+    \dfrac{d\theta}{dt} & = 1 
+  \end{cases}
+\\end{equation}
+となる。これで\\( \theta \\)の運動は自明になり、また\\( r \\) は\\( \theta \\)に依存しないので、\\( r\\) のみ \\( r \ge 0\\) の領域で定性的に調べれば良い。
+このとき相空間は\\( r\\) 軸の\\( r\ge 0\\)の領域となる。
+1. \\( r\\)軸上\\(\dfrac{dr}{dt}  = 0\\)となる点を\\( r\ge 0\\)で求めよ。
+2. 領域\\( r\ge 0\\)上の\\(\dfrac{dr}{dt}  = 0\\)となる点で分けられた2つの領域で\\( \dfrac{dr}{dt}\\)の符号を調べよ。
+3. 上で調べた符号から、\\( r\\) の定性的な運動を述べよ。
+4. \\( \theta \\)のことも含めて\\( x,y\\) 平面上で運動はどうなるか、定性的に述べよ。
+
 評価
 -----
 期末試験試験・中間レポート(60%)、及びQuiz等(平常点 40%)で判断する。シラバスに従う。
