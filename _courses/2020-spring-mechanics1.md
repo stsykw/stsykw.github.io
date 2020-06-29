@@ -175,7 +175,7 @@ m \dfrac{d^{2}y }{dt^{2}} = - mg - m \lambda \dfrac{dy}{dt}
 無次元の変数\\( (x,y) \\)をつかって運動が
 \\begin{equation}
   \begin{cases}
-    \dfrac{dx}{dt} & = -y +  ( 1 - x^2 - y^2) x \\
+    \dfrac{dx}{dt} & = -y +  ( 1 - x^2 - y^2) x \\\
     \dfrac{dy}{dt} & = x + (1-x^2 -y^2) y
   \end{cases}
 \\end{equation}
@@ -183,7 +183,7 @@ m \dfrac{d^{2}y }{dt^{2}} = - mg - m \lambda \dfrac{dy}{dt}
 変数を極座標で\\( x = r \cos \theta, y = r \sin \theta \\)と表すと
 \\begin{equation}
   \begin{cases}
-    \dfrac{dr}{dt} & =  r (1-r^2) \\
+    \dfrac{dr}{dt} & =  r (1-r^2) \\\
     \dfrac{d\theta}{dt} & = 1 
   \end{cases}
 \\end{equation}
