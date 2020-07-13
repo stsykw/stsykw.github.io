@@ -211,6 +211,25 @@ m \dfrac{d^2z}{dt^2} & = T_z - mg
 振り子が一般の運動をしている時、\\(z \\)軸まわりの角運動量\\( L\_z = x P\_y - y P\_x\\)が保存すること、また\\( x, y\\)軸まわりの角運動量\\( L\_x = y P\_z- z P\_y, L\_y = z P\_x - x P\_z\\)がそれぞれ保存しないことを示せ。ただし\\( P\_x, P\_y, P\_z \\)は運動量のそれぞれの成分の値である。
 
 
+**Quiz 13(7月13日出題)**  
+質量\\(m\_{1}\\)の恒星が、位置ベクトル\\(\mathbf{r}\_{1}\\)にあり、質量\\(m\_{2}\\)の惑星が、位置ベクトル\\(\mathbf{r}\_{2}\\)にある。恒星と惑星は互いに万有引力を及ぼしあって運動しているとすると、
+運動方程式は、それぞれ
+\\begin{align}
+m\_{1} \dfrac{d^{2} \mathbf{r}\_{1}}{dt^{2}} 
+&= - \dfrac{Gm\_{1}m\_{2}}
+{ \left\lvert\mathbf{r}\_{1} - \mathbf{r}\_{2} \right\rvert^{2}} 
+\dfrac{\mathbf{r}\_{1}-\mathbf{r}\_{2}}
+  {\left\lvert\mathbf{r}\_{1} - \mathbf{r}\_{2}\right\rvert} \\\
+m\_{2} \dfrac{d^{2} \mathbf{r}\_{2}}{dt^{2}}
+& = -  \dfrac{Gm\_{1}m\_{2}}
+{\left\lvert\mathbf{r}\_{1} - \mathbf{r}\_{2} \right\rvert^{2}}
+ \dfrac{\mathbf{r}\_{2}-\mathbf{r}\_{1}}
+ {\left\lvert\mathbf{r}\_{1} - \mathbf{r}\_{2}\right\rvert} 
+\\end{align}
+となる。このとき、
+重心の位置ベクトル\\( \mathbf{r}\_g = \dfrac{m_1\mathbf{r}\_{1} + m_2\mathbf{r}\_{2} }{m_1 + m_2} \\)はどのような運動をするか。
+重心の位置ベクトルに関する二階の微分方程式を書き下し、運動を議論せよ。
+
 
 中間レポート課題
 -------------
