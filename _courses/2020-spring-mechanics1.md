@@ -232,7 +232,7 @@ m\_{2} \dfrac{d^{2} \mathbf{r}\_{2}}{dt^{2}}
 
 **Quiz 14(7月20日出題)**  
 原点を中心とする調和振動子ポテンシャル\\( U(r) = \dfrac{1}{2} m \omega^{2} r^2 \\)
-に閉じ込められた質量\\( m \\)の質点の運動を考える。位置ベクトル\\( \mathbf{r} \\)として\\( r=\left\lvert\mamthbf{r} \right\rvert \\)である。また\\( \omega \\)を正の定数とする。
+に閉じ込められた質量\\( m \\)の質点の運動を考える。位置ベクトル\\( \mathbf{r} \\)として\\( r=\left\lvert\mathbf{r} \right\rvert \\)である。また\\( \omega \\)を正の定数とする。
 力\\( \mathbf{F} \\)は、
 \\begin{equation}
 \mathbf{F} = - \dfrac{\partial U(r)}{\partial \mathbf{r} }= - m \omega^{2}  r \dfrac{\mathbf{r}}{r}
