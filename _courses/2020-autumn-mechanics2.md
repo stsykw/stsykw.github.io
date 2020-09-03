@@ -9,9 +9,10 @@ location: "Osaka, Japan"
 ---
 
 専門基礎教育科目(工学部)、火曜日1限、
-[KOANシラバス]()
+[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c67D03F1D-2B7C-7C43-66EF-A61AAA0A3D83_k0DCE1264-7FE5-505C-4C33-2EB830DAE37F)  
 時間割コード 137551
 
+[CLE](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_588657_1&course_id=_118188_1)
 
 スケジュール
 -----
