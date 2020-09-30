@@ -1,6 +1,25 @@
 {
   "talks": [
-
+    {
+      "date": "2020-09-08",
+      "title": "Lennard-Jones熱伝導系における気液転移",
+      "author": "湯川諭, 中川尚子, 佐々真一",
+      "venue": "zoom",
+      "location": "大阪府豊中市",
+      "latitude": 34.8034727,
+      "longitude": 135.455291,
+      "description": "日本物理学会 2020年秋季大会"
+    },   
+    {
+      "date": "2020-09-10",
+      "title": "球殻の膨張破壊における統計的性質",
+      "author": "藤倉雅人, 湯川諭",
+      "venue": "zoom",
+      "location": "大阪府豊中市",
+      "latitude": 34.8034727,
+      "longitude": 135.455291,
+      "description": "日本物理学会 2020年秋季大会"
+    },   
     {
       "date": "2020-03-17",
       "title": "侵食による河川成長モデルによる乾燥度と分岐角度の相関",
