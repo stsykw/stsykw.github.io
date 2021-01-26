@@ -15,10 +15,10 @@ location: "Osaka, Japan"
 [CLE](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_588657_1&course_id=_118188_1) ホームページ、連絡事項にzoom接続情報があります。
 
 
-中間レポート課題
+期末レポート課題
 -------------
 
-中間レポート課題を出題しました。CLEを確認してください。提出締め切りは12月15日17時です。CLE経由で提出してください。
+期末レポート課題を出題しました。CLEを確認してください。提出締め切りは2月9日17時です。CLE経由で提出してください。
 
 スケジュール
 -----
