@@ -4,7 +4,7 @@ collection: courses
 type: "全学共通教育科目"
 permalink: /courses/2021-spring-mechanics1
 venue: "大阪大学, 全学共通教育機構"
-date: 2021-03-01
+date: 2021-02-25
 location: "Osaka, Japan"
 ---
 
