@@ -9,18 +9,16 @@ location: "Osaka, Japan"
 ---
 
 専門基礎教育科目(理学部)、月曜日3限、(共B118教室)  
-[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c6D74FCDA-2945-6495-97D7-1D49AC745F98_k1585B888-B9A3-ADE6-AD9E-A449E5E7B3E5)  
+[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cE39FF6AB-9A46-B095-2C2A-B2B042341046_kE2A96D18-AC97-08EA-16BB-69D9B0373EB6)  
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_943967_1&course_id=_136683_1)  
-[オンライン講義の接続情報]()  
-[このページ]()
-
-
+[オンライン講義の接続情報](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_943967_1&course_id=_136683_1&content_id=_979228_1)  
+[このページ](https://git.io/JYVaE )
 
 
 スケジュール
 ----------
 **4月12日(第1回オンライン)**  
-オンラインで開講予定、[CLE授業支援システム]()の掲示を見ること。  
+オンラインで開講予定、[CLE授業支援システム](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_943967_1&course_id=_136683_1&content_id=_979228_1)の掲示を見ること。  
 始めに: 物理学とは。近似について。Taylor展開  
 質点の運動の記述: 物理量と単位、次元。無次元量。  
 数学的内容: Taylor展開  
