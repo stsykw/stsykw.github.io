@@ -50,7 +50,19 @@ Quiz
 * \\( x^3 \\)、\\(a=1 \\)のまわりで3次まで
 
 
-
+**Quiz 2(4月19日出題)**  
+以下、ベクトル\\( \mathbf{a}, \mathbf{b}, \mathbf{c} \\)は互いに独立な3次元空間中のベクトルであるとする。
+* スカラー三重積に対して以下が成立することを示せ。
+\\[
+  (\mathbf{a}\times\mathbf{b}) \cdot \mathbf{c}
+  =(\mathbf{b}\times\mathbf{c}) \cdot \mathbf{a}
+  =(\mathbf{c}\times\mathbf{a}) \cdot \mathbf{b}
+\\]  
+* \\( \mathbf{a}\times(\mathbf{b} \times \mathbf{c}) \\)は外積の定義により\\( \mathbf{b}, \mathbf{c} \\)が作る平面上にある。
+\\[
+\mathbf{a}\times (\mathbf{b} \times \mathbf{c} )= X \mathbf{b}+Y \mathbf{c}
+\\]
+と書いたとき、係数\\(X,Y\\)を求めよ。
 
 評価
 -----
