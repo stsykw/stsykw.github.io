@@ -116,11 +116,13 @@ Quiz
  \mathbf{r}(t) = x(t) \mathbf{e}_x+y(t) \mathbf{e}_y+z(t) \mathbf{e}_z 
 \\]
 と表す。ただし\\(u, \omega, v\\) を正の定数として
-\\begin{align}
+$$
+\begin{align}
   x(t) & = u t \cos \omega t \\\
   y(t) & = u t \sin \omega t \\\
   z(t) & = v t
-\\end{align}
+\end{align}
+$$
 とする。
 1. 速度ベクトル、加速度ベクトルを直交座標系で求めよ。
 2. 運動の位置ベクトル\\( \mathbf{r}(t) \\)を円柱座標系\\(\\{r, \phi, z\\}\\)および円柱座標系の基本ベクトル \\( \\{\mathbf{e}\_r, \mathbf{e}\_\phi, \mathbf{e}\_z\\} \\)をつかって表せ。(円柱座標系は\\(xy\\)平面に対して極座標、\\(z\\)座標は直交座標系の軸をそのままつかう座標系である。)
