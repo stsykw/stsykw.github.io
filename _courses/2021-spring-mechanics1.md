@@ -233,7 +233,7 @@ $$
 **Quiz 12(7月12日出題)**  
 原点を中心とする調和振動子ポテンシャル\\( U(r) = \dfrac{1}{2} m \omega^{2} r^2 \\)
 に閉じ込められた質量\\( m \\)の質点の運動を考える。位置ベクトル\\( \boldsymbol{r} \\)として\\( r=\left\lvert\boldsymbol{r} \right\rvert \\)である。また\\( \omega \\)を正の定数とする。
-力\\( \mathbf{F} \\)は、
+力\\( \boldsymbol{F} \\)は、
 $$
 \begin{equation}
 \boldsymbol{F} = - \dfrac{\partial U(r)}{\partial \boldsymbol{r} }= - m \omega^{2}  r \dfrac{\boldsymbol{r}}{r}
