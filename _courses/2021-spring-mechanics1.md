@@ -214,20 +214,20 @@ $$
 運動方程式は、それぞれ
 $$
 \begin{align}
-m\_{1} \dfrac{d^{2} \mathbf{r}\_{1}}{dt^{2}} 
-&= - \dfrac{Gm\_{1}m\_{2}}
-{ \left\lvert\mathbf{r}\_{1} - \mathbf{r}\_{2} \right\rvert^{2}} 
-\dfrac{\mathbf{r}\_{1}-\mathbf{r}\_{2}}
-  {\left\lvert\mathbf{r}\_{1} - \mathbf{r}\_{2}\right\rvert} \\\
-m\_{2} \dfrac{d^{2} \mathbf{r}\_{2}}{dt^{2}}
-& = -  \dfrac{Gm\_{1}m\_{2}}
-{\left\lvert\mathbf{r}\_{1} - \mathbf{r}\_{2} \right\rvert^{2}}
- \dfrac{\mathbf{r}\_{2}-\mathbf{r}\_{1}}
- {\left\lvert\mathbf{r}\_{1} - \mathbf{r}\_{2}\right\rvert} 
+m_{1} \dfrac{d^{2} \mathbf{r}_{1}}{dt^{2}} 
+&= - \dfrac{Gm_{1}m_{2}}
+{ \left\lvert\mathbf{r}_{1} - \mathbf{r}_{2} \right\rvert^{2}} 
+\dfrac{\mathbf{r}_{1}-\mathbf{r}_{2}}
+  {\left\lvert\mathbf{r}_{1} - \mathbf{r}_{2}\right\rvert} \\\
+m_{2} \dfrac{d^{2} \mathbf{r}_{2}}{dt^{2}}
+& = -  \dfrac{Gm_{1}m_{2}}
+{\left\lvert\mathbf{r}_{1} - \mathbf{r}_{2} \right\rvert^{2}}
+ \dfrac{\mathbf{r}_{2}-\mathbf{r}_{1}}
+ {\left\lvert\mathbf{r}_{1} - \mathbf{r}_{2}\right\rvert} 
 \end{align}
 $$
 となる。このとき、
-重心の位置ベクトル\\( \mathbf{r}\_g = \dfrac{m_1\mathbf{r}\_{1} + m_2\mathbf{r}\_{2} }{m_1 + m_2} \\)はどのような運動をするか。
+重心の位置ベクトル\\( \mathbf{r}_g = \dfrac{m_1\mathbf{r}_{1} + m_2\mathbf{r}_{2} }{m_1 + m_2} \\)はどのような運動をするか。
 重心の位置ベクトルに関する二階の微分方程式を書き下し、運動を議論せよ。
 
 **Quiz 12(7月12日出題)**  
