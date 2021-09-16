@@ -1,0 +1,42 @@
+---
+title: "力学詳論II"
+collection: courses
+type: "全学共通教育科目"
+permalink: /courses/2021-autumn-mechanics2
+venue: "大阪大学, 全学共通教育機構"
+date: 2021-09-15
+location: "Osaka, Japan"
+---
+
+専門基礎教育科目(工学部)、火曜日1限、
+[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cF7C945D0-CFF7-74C5-6C59-9D106E16361E_k3B1CE977-6ADB-8B56-152C-0B7606526747)  
+時間割コード 137551
+
+[CLE](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_944394_1&course_id=_137081_1) ホームページ、連絡事項にzoom接続情報があります。
+
+
+
+スケジュール
+-----
+
+**10月5日**  
+質点の力学(力学詳論I)の復習: 運動の表現、運動方程式、微分方程式の解法、仕事とエネルギー、角運動量、座標系  
+質点系の力学: 二体問題(換算質量、惑星運動への補正、潮汐)  
+
+
+参考書
+-----
+参考書は、詳しい内容や教科書以外の記述を見たくなった場合に利用してください。
+また関連図書は直接講義とは関係ないが、力学やその周辺に関連するものです。
+おそらくすべて大学図書館にあります。
+* 教科書: 戸田盛和「物理入門コース1 力学」岩波書店
+* 参考書: 藤原邦男「物理学序論としての力学」東京大学出版会
+* 参考書: 前野昌弘「よくわかる初等力学」東京図書
+* 参考書: 窪田高弘「力学入門」培風館
+* 参考書: リチャード・ファインマン、ロバート・レイトン、マシュー・サンズ、坪井忠二訳「ファインマン物理学 I 力学」岩波書店
+* 参考書: Daniel Kleppner and Robert Kolenkow, "An Introduction to Mechanics (second edition)" Cambridge University Press
+* 関連図書: ゴールドスタイン「古典力学」吉岡書店
+* 関連図書: エルンスト・マッハ、岩野秀明訳「マッハ力学史 古典力学の発展と批判(上、下)」ち
+くま学芸文庫
+* 関連図書: 山本義隆「古典力学の形成 ニュートンからラグランジュへ」日本評論社
+* 関連図書: 山本義隆「重力と力学的世界 古典としての古典力学」現代数学社
