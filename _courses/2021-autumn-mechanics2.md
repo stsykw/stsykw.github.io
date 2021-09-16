@@ -12,8 +12,8 @@ location: "Osaka, Japan"
 [KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cF7C945D0-CFF7-74C5-6C59-9D106E16361E_k3B1CE977-6ADB-8B56-152C-0B7606526747)  
 時間割コード 137551
 
-[CLE](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_944394_1&course_id=_137081_1) ホームページ、連絡事項にzoom接続情報があります。
-
+[CLE](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_944394_1&course_id=_137081_1)  
+連絡事項にzoom接続情報があります。
 
 
 スケジュール
