@@ -4,7 +4,7 @@ collection: courses
 type: "理学研究科宇宙地球科学専攻大学院科目"
 permalink: /courses/2021-autumn-noneq
 venue: "大阪大学, 理学部"
-date: 2021-09-27
+date: 2021-09-26
 location: "Osaka, Japan"
 ---
 
