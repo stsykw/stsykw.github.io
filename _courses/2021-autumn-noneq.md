@@ -13,7 +13,7 @@ location: "Osaka, Japan"
 
 スケジュール
 -----
-**10月5日**  
+**10月1日**  
 非平衡現象とは。平衡近傍でのゆらぎ、Boltzmann-Einsteinの原理。
 
 
