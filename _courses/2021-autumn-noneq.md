@@ -14,11 +14,34 @@ location: "Osaka, Japan"
 スケジュール
 -----
 **10月1日**  
-非平衡現象とは。平衡近傍でのゆらぎ、Boltzmann-Einsteinの原理。
+非平衡現象とは  
+平衡近傍でのゆらぎ: Boltzmann-Einsteinの原理。孤立系、開放系での表現  
+
+**10月8日**  
+平衡近傍でのゆらぎ: 最小仕事による表現、具体例  
+ゆらぎの動力学: 確率過程
+
+
+
 
 
 Quiz
 ----
+**Quiz 1(10月1日出題)**  
+マクロ量 \\( \\{ a_i \\} \\)の平衡値 \\( \\{ \overline{a_i} \\} \\)からのずれは
+エントロピーで支配され
+\\[
+P(\\{a_i\\}) = (2\pi)^{-n/2} \left[ \det \left(
+-\dfrac{1}{k_\mathrm{B}} \dfrac{\partial^2 S}{\partial a_i \partial a_j }
+ \right)
+ \right]^{1/2}
+\exp \left(
+\dfrac{1}{2 k_\mathrm{B}}
+\sum_{ij} \dfrac{\partial^2 S}{\partial a_i \partial a_j} (a_i - \overline{a_i}) (a_j - \overline{a_j})
+\right)
+\\]
+と書ける。この多次元ガウス積分を実行し、規格化定数がこれで良いことを確認せよ。
+
 
 ---
 期末レポート、およびQuizの解答状況(数問選んで、最後に提出)をみて総合的に判断する。
@@ -43,7 +66,7 @@ Einsteinのゆらぎの理論
 大偏差性
 * 大野克嗣、["Large Deviation and Statistical Physics", Prog. Theor. Phys. Suppl. **99** (1989) 165.](https://doi.org/10.1143/PTPS.99.165)
 * 大野克嗣、["Onsager's Principle from Large Deviation Point of View", Prog. Theor. Phys. **89** (1993) 973.](https://doi.org/10.1143/PTP.89.973)
-* H. Touchette, ["The large deviation approach to statistical mechancis", arXiv:0804.0327](http://arxiv.org/abs/0804.0327)
+* H. Touchette, ["The large deviation approach to statistical mechanics", arXiv:0804.0327](http://arxiv.org/abs/0804.0327)
 
 Onsagerの相反定理、Onsager-Machlup過程
 * L. Onsager, ["Reciprocal Relations in Irreversible Processes I", Phys. Rev. **37** (1931) 405.](http://prola.aps.org/abstract/PR/v37/i4/p405_1)
