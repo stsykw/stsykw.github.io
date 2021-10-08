@@ -59,6 +59,9 @@ P(\\{x_i\\}) \propto
 
 
 
+
+
+評価
 ---
 期末レポート、およびQuizの解答状況(数問選んで、最後に提出)をみて総合的に判断する。
 詳細はシラバスを参照してください。
@@ -75,8 +78,8 @@ P(\\{x_i\\}) \propto
 * 鈴木増雄「統計力学、岩波講座現代の物理学」岩波書店
 * 戸田盛和、久保亮五、斎藤信彦、橋爪夏樹「統計物理学、現代物理学の基礎第二版」岩波書店
 * 関本謙「ゆらぎのエネルギー論」岩波書店
-* D. N. Zubarev, "Nonequilibrium Statistical Thermodynamics", Consultants Bureau
-* R. Zwanzig, "Nonequilibirum Statistical Mechanics", Oxford
+* D. N. Zubarev "Nonequilibrium Statistical Thermodynamics", Consultants Bureau
+* R. Zwanzig "Nonequilibirum Statistical Mechanics", Oxford
 
 Einsteinのゆらぎの理論
 * L. Landau, E. Lifshitz 「統計物理学 (下)」岩波書店, L. Landau, E. Lifshitz, "Statistical Physics (course of theoretical physics volume 5) Butterworth-Heinemann"
@@ -88,7 +91,7 @@ Einsteinのゆらぎの理論
 Onsagerの相反定理、Onsager-Machlup過程
 * L. Onsager, ["Reciprocal Relations in Irreversible Processes I", Phys. Rev. **37** (1931) 405.](http://prola.aps.org/abstract/PR/v37/i4/p405_1)
 * L. Onsager, ["Reciprocal Relations in Irreversible Processes II", Phys. Rev. **38** (1931) 2265.](http://prola.aps.org/abstract/PR/v38/i12/p2265_1)
-* 上記論文の翻訳が[物性研究](https://doi.org/10.14989/178097)にある。
+* 上記二つの論文の翻訳が[物性研究](https://doi.org/10.14989/178097)にある。
 * 橋爪夏樹、["A Statistical Theory of Linear Dissipative Systems", Prog. Theor. Phys. **8** (1952) 461.](https://doi.org/10.1143/PTP/8.4.461)s
 * L. Onsager and S. Machlup, ["Fluctuations and Irreversible Processes", Phys. Rev. **91**, 1505, (1953).](http://prola.aps.org/abstract/PR/v91/i6/p1505_1)
 * M. Ichiyanagi ["Variational principles of irreversible processes", Phys. Rep. **243**, 125,(1994)](http://www.sciencedirect.com/science/article/pii/0370157394900523)
