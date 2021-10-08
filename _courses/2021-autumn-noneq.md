@@ -21,7 +21,8 @@ location: "Osaka, Japan"
 平衡近傍でのゆらぎ: 最小仕事による表現、具体例  
 ゆらぎの動力学: 確率過程
 
-
+**10月15日**  
+ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係
 
 
 
@@ -40,7 +41,22 @@ P(\\{a_i\\}) = (2\pi)^{-n/2} \left[ \det \left(
 \sum_{ij} \dfrac{\partial^2 S}{\partial a_i \partial a_j} (a_i - \overline{a_i}) (a_j - \overline{a_j})
 \right)
 \\]
-と書ける。この多次元ガウス積分を実行し、規格化定数がこれで良いことを確認せよ。
+と書ける。この多次元Gauss積分を実行し、規格化定数がこれで良いことを確認せよ。
+
+**Quiz 2(10月8日出題)**  
+マクロ量 \\( \\{ x_i \\} \\)の分布
+\\[
+P(\\{x_i\\}) \propto
+\exp \left(
+-\dfrac{1}{2}
+\sum_{ij} \beta_{ij} x_i x_j
+\right)
+\\]
+に対し、期待値 \\( \left\langle x_i x_j \right\rangle = \beta_{ij}^{-1}\\)となることを示せ。また
+\\(X_i = \sum_j \beta_{ij} x_j\\)と置いたとき、
+\\( \left\langle X_i x_j \right\rangle = \delta_{ij} \\)、
+\\( \left\langle X_i X_j \right\rangle = \beta_{ij} \\)となることを示せ。
+
 
 
 ---
@@ -58,22 +74,31 @@ P(\\{a_i\\}) = (2\pi)^{-n/2} \left[ \det \left(
 * 北原和夫「非平衡系の統計力学」岩波書店
 * 鈴木増雄「統計力学、岩波講座現代の物理学」岩波書店
 * 戸田盛和、久保亮五、斎藤信彦、橋爪夏樹「統計物理学、現代物理学の基礎第二版」岩波書店
+* 関本謙「ゆらぎのエネルギー論」岩波書店
+* D. N. Zubarev, "Nonequilibrium Statistical Thermodynamics", Consultants Bureau
+* R. Zwanzig, "Nonequilibirum Statistical Mechanics", Oxford
 
 Einsteinのゆらぎの理論
 * L. Landau, E. Lifshitz 「統計物理学 (下)」岩波書店, L. Landau, E. Lifshitz, "Statistical Physics (course of theoretical physics volume 5) Butterworth-Heinemann"
 * A. Einstein, "Theorie der Opaleszenz von homogenen Flüssigkeiten und Flüssigkeitsgemischen in der Nähe des Kritischen Zustandes", Ann. der Phys. **33** (1910), pp. 1275-1298. 邦訳 アインシュタイン選集1、監修 湯川秀樹 翻訳 井上健、谷川安孝、中村誠太郎 共立出版(1971)
+
+確率過程
+* N. G. van Kampen, "Stochastic Processes in Physics and Chemistry", Elsevier
+
+Onsagerの相反定理、Onsager-Machlup過程
+* L. Onsager, ["Reciprocal Relations in Irreversible Processes I", Phys. Rev. **37** (1931) 405.](http://prola.aps.org/abstract/PR/v37/i4/p405_1)
+* L. Onsager, ["Reciprocal Relations in Irreversible Processes II", Phys. Rev. **38** (1931) 2265.](http://prola.aps.org/abstract/PR/v38/i12/p2265_1)
+* 上記論文の翻訳が[物性研究](https://doi.org/10.14989/178097)にある。
+* 橋爪夏樹、["A Statistical Theory of Linear Dissipative Systems", Prog. Theor. Phys. **8** (1952) 461.](https://doi.org/10.1143/PTP/8.4.461)s
+* L. Onsager and S. Machlup, ["Fluctuations and Irreversible Processes", Phys. Rev. **91**, 1505, (1953).](http://prola.aps.org/abstract/PR/v91/i6/p1505_1)
+* M. Ichiyanagi ["Variational principles of irreversible processes", Phys. Rep. **243**, 125,(1994)](http://www.sciencedirect.com/science/article/pii/0370157394900523)
+
 
 大偏差性
 * 大野克嗣、["Large Deviation and Statistical Physics", Prog. Theor. Phys. Suppl. **99** (1989) 165.](https://doi.org/10.1143/PTPS.99.165)
 * 大野克嗣、["Onsager's Principle from Large Deviation Point of View", Prog. Theor. Phys. **89** (1993) 973.](https://doi.org/10.1143/PTP.89.973)
 * H. Touchette, ["The large deviation approach to statistical mechanics", arXiv:0804.0327](http://arxiv.org/abs/0804.0327)
 
-Onsagerの相反定理、Onsager-Machlup過程
-* L. Onsager, ["Reciprocal Relations in Irreversible Processes I", Phys. Rev. **37** (1931) 405.](http://prola.aps.org/abstract/PR/v37/i4/p405_1)
-* L. Onsager, ["Reciprocal Relations in Irreversible Processes II", Phys. Rev. **38** (1931) 2265.](http://prola.aps.org/abstract/PR/v38/i12/p2265_1)
-* 橋爪夏樹、["A Statistical Theory of Linear Dissipative Systems", Prog. Theor. Phys. **8** (1952) 461.](https://doi.org/10.1143/PTP/8.4.461)N. Hashitsume
-* L. Onsager and S. Machlup, ["Fluctuations and Irreversible Processes", Phys. Rev. **91**, 1505, (1953).](http://prola.aps.org/abstract/PR/v91/i6/p1505_1)
-* M. Ichiyanagi ["Variational principles of irreversible processes", Phys. Rep. **243**, 125,(1994)](http://www.sciencedirect.com/science/article/pii/0370157394900523)
 
 
 ゆらぎの定理、Jarzynski等式
@@ -91,7 +116,3 @@ Onsagerの相反定理、Onsager-Machlup過程
 * R. Kubo, M. Toda, and N. Hashitsume, "Statistical Physics II, Nonequilibirum Statistical Mechanics" Spinger-Verlag
 * J. A. McLennan, "Introduction to Non-equilibrium Statistical Mechanics" Prentice-Hall
 * 佐々真一「非平衡現象論」講義ノート
-* 関本謙「ゆらぎのエネルギー論」岩波書店
-* N. G. van Kampen, "Stochastic Processes in Physics and Chemistry", Elsevier
-* D. N. Zubarev, "Nonequilibrium Statistical Thermodynamics", Consultants Bureau
-* R. Zwanzig, "Nonequilibirum Statistical Mechanics", Oxford
