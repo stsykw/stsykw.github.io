@@ -22,7 +22,10 @@ location: "Osaka, Japan"
 ゆらぎの動力学: 確率過程
 
 **10月15日**  
-ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係
+ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係  
+
+**10月22日**  
+ゆらぎの動力学: Onsagerの最小散逸の原理、Onsager係数の決定、Onsager-Machlup過程
 
 
 
@@ -57,7 +60,21 @@ P(\\{x_i\\}) \propto
 \\( \left\langle X_i x_j \right\rangle = \delta_{ij} \\)、
 \\( \left\langle X_i X_j \right\rangle = \beta_{ij} \\)となることを示せ。
 
-
+**Quiz 3(10月15日出題)**  
+Hall効果をDrudeモデルにより考察する。
+電荷\\(q\\)をもつ質量\\(m\\)の荷電粒子が運動方程式
+\\[
+  m \dfrac{d\mathbf{v}}{dt} = q \mathbf{E} + q \mathbf{v} \times
+  \mathbf{B}- \gamma \mathbf{v}
+\\]
+に従うとする。ここで\\(\mathbf{E}, \mathbf{B}\\)はそれぞれ電場、磁場、\\(\gamma\\)は散逸を表す。
+電場、磁場が\\(\mathbf{E} = (E_x, E_y, 0) , \mathbf{B} = (0,0,B)\\)のとき、
+定常速度\\( (v_x, v_y) \\)を求め、電気伝導率テンソル\\( \sigma_{xx}, \sigma_{xy},\sigma_{yx},\sigma_{yy} \\)を
+\\begin{align}
+v_x & = \sigma_{xx} E_x + \sigma_{xy} E_y \\\
+v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
+\\end{align}
+で定義したとき、電気伝導率テンソル\\( \sigma_{xy} , \sigma_{yx} \\)に関してOnsagerの相反定理が成立していることを確認せよ。
 
 
 
@@ -79,7 +96,7 @@ P(\\{x_i\\}) \propto
 * 戸田盛和、久保亮五、斎藤信彦、橋爪夏樹「統計物理学、現代物理学の基礎第二版」岩波書店
 * 関本謙「ゆらぎのエネルギー論」岩波書店
 * D. N. Zubarev "Nonequilibrium Statistical Thermodynamics", Consultants Bureau
-* R. Zwanzig "Nonequilibirum Statistical Mechanics", Oxford
+* R. Zwanzig "Nonequilibrium Statistical Mechanics", Oxford
 
 Einsteinのゆらぎの理論
 * L. Landau, E. Lifshitz 「統計物理学 (下)」岩波書店, L. Landau, E. Lifshitz, "Statistical Physics (course of theoretical physics volume 5) Butterworth-Heinemann"
