@@ -25,7 +25,11 @@ location: "Osaka, Japan"
 ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係  
 
 **10月22日**  
-ゆらぎの動力学: Onsagerの最小散逸の原理、Onsager係数の決定、Onsager-Machlup過程
+ゆらぎの動力学: Onsagerの最小散逸の原理、Onsager係数の決定、Onsager-Machlup過程(Langevin)
+
+**10月29日**  
+ゆらぎの動力学: Onsager-Machlup過程(Fokker-Planck)、例: ブラウン運動
+線形応答理論: 
 
 
 
@@ -76,6 +80,13 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 \\end{align}
 で定義したとき、電気伝導率テンソル\\( \sigma_{xy} , \sigma_{yx} \\)に関してOnsagerの相反定理が成立していることを確認せよ。
 
+**Quiz 4(10月22日出題)**  
+講義ではマクロ物理量 \\( \\{ a_i \\} \\)の時間発展を条件付き確率 \\( W_{\Delta t} (a_i+\Delta a_i | a_i) \\)で表した。この条件付き確率が詳細つりあい
+\\[
+  W_{\Delta t} (a_i+\Delta a_i | a_i) P_{eq}(a_i) = 
+    W_{\Delta t} (a_i | a_i+\Delta a_i) P_{eq}(a_i+\Delta a_i)
+\\]
+を満たすことを示せ。
 
 
 評価
