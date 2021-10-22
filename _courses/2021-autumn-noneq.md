@@ -28,7 +28,7 @@ location: "Osaka, Japan"
 ゆらぎの動力学: Onsagerの最小散逸の原理、Onsager係数の決定、Onsager-Machlup過程(Langevin)
 
 **10月29日**  
-ゆらぎの動力学: Onsager-Machlup過程(Fokker-Planck)、例: ブラウン運動
+ゆらぎの動力学: Onsager-Machlup過程(Fokker-Planck)、例: ブラウン運動  
 線形応答理論: 
 
 
