@@ -99,7 +99,7 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
   \dfrac{dp_i}{dt} = - \dfrac{f}{T_R M} p_i + \xi_i(t)
 \\]
 ただし\\(  \langle \xi_i(t) \rangle_{eq} = 0 \enspace , \quad \langle \xi_i(t) \xi_j (t') \rangle_{eq} = 2 k_\mathrm{B} f \delta_{ij} \delta (t-t') \\)に対して、
-初期条件\(( p_i(0) = p_i^0 \\)) のもと、\\( p_i(t) \\)の解を求めよ。
+初期条件\\( p_i(0) = p_i^0 \\) のもと、\\( p_i(t) \\)の解を求めよ。
 これを使い、
 \\[
 \langle p_i (t+\tau) p_j (t) \rangle_{p_i(0)=p_i^0, p_j(0)=p_j^0}
