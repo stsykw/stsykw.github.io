@@ -29,7 +29,12 @@ location: "Osaka, Japan"
 
 **10月29日**  
 ゆらぎの動力学: Onsager-Machlup過程(Fokker-Planck)、例: ブラウン運動  
-線形応答理論: 
+
+**11月5日**  
+(学祭のため休講)  
+
+**11月12日**  
+線形応答理論: 静的な場合、動的な場合
 
 
 
@@ -87,6 +92,24 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
     W_{\Delta t} (a_i | a_i+\Delta a_i) P_{eq}(a_i+\Delta a_i)
 \\]
 を満たすことを示せ。
+
+**Quiz ５(10月29日出題)**  
+ブラウン運動のLangevin表現、
+\\[
+  \dfrac{dp_i}{dt} = - \dfrac{f}{T_R M} p_i + \xi_i(t)
+\\]
+ただし\\(  \langle \xi_i(t) \rangle_{eq} = 0 \enspace , \quad \langle \xi_i(t) \xi_j (t') \rangle_{eq} = 2 k_\mathrm{B} f \delta_{ij} \delta (t-t') \\)に対して、
+初期条件\(( p_i(0) = p_i^0 \\)) のもと、\\( p_i(t) \\)の解を求めよ。
+これを使い、
+\\[
+\langle p_i (t+\tau) p_j (t) \rangle_{p_i(0)=p_i^0, p_j(0)=p_j^0}
+\\]
+を計算せよ。また、初期値 \\( p_i^0, p_j^0 \\)を熱平衡にとり十分に時間が経った後の、
+\\[
+\langle p_i (t+\tau) p_j (t) \rangle_{eq} - \langle p_i (t+\tau) \rangle_{eq} \langle p_j (t) \rangle_{eq}
+\\]
+を計算せよ。
+
 
 
 評価
