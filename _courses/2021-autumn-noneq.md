@@ -123,7 +123,7 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 
 **Quiz 7(11月19日出題)**  
 ハミルトニアン\\(H\\)とのPoisson括弧で定義される\\( \mathcal{L}(\cdot) =\\{ \cdot, H\\}\\)
-という線形微分演算子に対して、物理量\\( M\\ )に対し
+という線形微分演算子に対して、物理量\\( M \\)に対し
 \\[
 \int_0^t ds e^{s \mathcal{L}} \mathcal{L} M = e^{t \mathcal{L}} M - M
 \\]
