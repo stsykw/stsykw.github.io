@@ -41,9 +41,10 @@ location: "Osaka, Japan"
 
 **11月26日**  
 線形応答理論: 揺動散逸定理  
-ゆらぎの定理: 動機、散逸ダイナミクス
+ゆらぎの定理: 動機、散逸ダイナミクス  
 
-
+**12月3日**  
+ゆらぎの定理: 散逸ダイナミクス、ゆらぎの定理  
 
 Quiz
 ----
@@ -128,6 +129,18 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 \int_0^t ds e^{s \mathcal{L}} \mathcal{L} M = e^{t \mathcal{L}} M - M
 \\]
 となることを示せ。
+
+**Quiz 8(11月26日出題)**  
+複素アドミッタンス
+\\[
+\chi_{AM}(\omega) = \lim_{\epsilon \downarrow 0}\int_{0}^{\infty} ds \phi_{AM}(s)  e^{i\omega s} e^{-\epsilon s}
+\\]
+に対し、Kramers-Kronig関係式
+\\begin{align}
+\re \chi_{AM}(\omega) & = \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \im \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} \\\
+\im \chi_{AM}(\omega) & = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} 
+\\end{align}
+が成立することを示せ。
 
 評価
 ---
