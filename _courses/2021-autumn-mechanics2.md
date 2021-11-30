@@ -15,6 +15,10 @@ location: "Osaka, Japan"
 [CLE](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_944394_1&course_id=_137081_1)  
 連絡事項にzoom接続情報があります。
 
+中間レポート課題
+-------------
+
+中間レポート課題を出題しました。CLEを確認してください。
 
 スケジュール
 -----
@@ -47,6 +51,10 @@ location: "Osaka, Japan"
 **11月30日**  
 中間レポート課題発表  
 相対運動: 回転をともなわない相対運動、座標変換  
+
+**12月7日**  
+相対運動: オイラー角、回転座標系をともなう相対運動、角速度ベクトルと三次元の回転系、回転系の運動方程式  
+
 
 参考書
 -----
