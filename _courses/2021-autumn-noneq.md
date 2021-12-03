@@ -95,10 +95,12 @@ Hall効果をDrudeモデルにより考察する。
 に従うとする。ここで\\(\mathbf{E}, \mathbf{B}\\)はそれぞれ電場、磁場、\\(\gamma\\)は散逸を表す。
 電場、磁場が\\(\mathbf{E} = (E_x, E_y, 0) , \mathbf{B} = (0,0,B)\\)のとき、
 定常速度\\( (v_x, v_y) \\)を求め、電気伝導率テンソル\\( \sigma_{xx}, \sigma_{xy},\sigma_{yx},\sigma_{yy} \\)を
-\\begin{align}
-v_x & = \sigma_{xx} E_x + \sigma_{xy} E_y \\
-v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
-\\end{align}
+\\[
+v_x  = \sigma_{xx} E_x + \sigma_{xy} E_y 
+\\]
+\\[
+v_y  = \sigma_{yx} E_x + \sigma_{yy} E_y
+\\]
 で定義したとき、電気伝導率テンソル\\( \sigma_{xy} , \sigma_{yx} \\)に関してOnsagerの相反定理が成立していることを確認せよ。
 
 **Quiz 4(10月22日出題)**  
@@ -144,11 +146,12 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 \chi_{AM}(\omega) = \lim_{\epsilon \downarrow 0}\int_{0}^{\infty} ds \phi_{AM}(s)  e^{i\omega s} e^{-\epsilon s}
 \\]
 に対し、Kramers-Kronig関係式
-\\begin{align}
-\require{physics}
-\Re \chi_{AM}(\omega) & = \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Im \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} \\
-\Im \chi_{AM}(\omega) & = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} 
-\\end{align}
+\\[
+\Re \chi_{AM}(\omega)  = \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Im \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} 
+\\]
+\\[
+\Im \chi_{AM}(\omega)  = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} 
+\\]
 が成立することを示せ。
 
 **Quiz 9(12月3日出題)**
