@@ -145,8 +145,9 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 \\]
 に対し、Kramers-Kronig関係式
 \\begin{align}
-\re \chi_{AM}(\omega) & = \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \im \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} \\\
-\im \chi_{AM}(\omega) & = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} 
+\require{physics}
+\Re \chi_{AM}(\omega) & = \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Im \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} \\\
+\Im \chi_{AM}(\omega) & = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} 
 \\end{align}
 が成立することを示せ。
 
