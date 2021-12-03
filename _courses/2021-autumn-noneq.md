@@ -153,13 +153,11 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 
 **Quiz 9(12月3日出題)**
 位相空間中のある領域\\( \mathcal{D}(t) \\)の体積のLagrange的な時間変化が、
-    \\[
-    V(\Gamma(t+\Delta t)) =
-    \int_{\mathcal{D}(t)} d\Gamma(t) (1+\Lambda (\Gamma(t)\Delta t)+O(\Delta t^2)
-    \\]
-    となることを示せ。ただし \\( \Lambda (\Gamma(t))
-    = \sum_i \left(\dfrac{\partial \dot{q}_i }{\partial q_i }
-    + \dfrac{\partial \dot{p}_i} {\partial p_i} \right) \\) である。
+\\[
+  V(\Gamma(t+\Delta t)) =
+  \int_{\mathcal{D}(t)} d\Gamma(t) (1+\Lambda (\Gamma(t)\Delta t)+O(\Delta t^2)
+\\]
+となることを示せ。ただし \\( \Lambda (\Gamma(t))  = \sum_i \left(\dfrac{\partial \dot{q}_i }{\partial q_i } + \dfrac{\partial \dot{p}_i} {\partial p_i} \right) \\) である。
 
 
 
