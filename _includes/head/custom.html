@@ -26,9 +26,11 @@
 
 <script>
 window.MathJax = {
+  loader: {load: ['[tex]/physics']},
   tex: {
     tags: "all",
     inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+    packages: {'[+]': ['physics']},
     processEscapes: true
   }
 };
