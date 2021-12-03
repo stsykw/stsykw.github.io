@@ -41,10 +41,18 @@ location: "Osaka, Japan"
 
 **11月26日**  
 線形応答理論: 揺動散逸定理  
-ゆらぎの定理: 動機、散逸ダイナミクス  
+ゆらぎの定理: 動機  
 
 **12月3日**  
-ゆらぎの定理: 散逸ダイナミクス、ゆらぎの定理  
+ゆらぎの定理: 能勢・フーバーダイナミクス  
+
+**12月10日**  
+(休講)  
+
+**12月17日**  
+ゆらぎの定理: ゆらぎの定理、Jarzynski等式、例  
+
+
 
 Quiz
 ----
@@ -142,6 +150,18 @@ v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 \\end{align}
 が成立することを示せ。
 
+**Quiz 9(12月3日出題)**
+位相空間中のある領域\\( \mathcal{D}(t) \\)の体積のLagrange的な時間変化が、
+    \\[
+    V(\Gamma(t+\Delta t)) =
+    \int_{\mathcal{D}(t)} d\Gamma(t) (1+\Lambda (\Gamma(t)\Delta t)+O(\Delta t^2)
+    \\]
+    となることを示せ。ただし \\( \Lambda (\Gamma(t))
+    = \sum_i \left(\dfrac{\partial \dot{q}_i }{\partial q_i }
+    + \dfrac{\partial \dot{p}_i} {\partial p_i} \right) \\) である。
+
+
+
 評価
 ---
 期末レポート、およびQuizの解答状況(数問選んで、最後に提出)をみて総合的に判断する。
@@ -178,12 +198,6 @@ Onsagerの相反定理、Onsager-Machlup過程
 * M. Ichiyanagi ["Variational principles of irreversible processes", Phys. Rep. **243**, 125,(1994)](http://www.sciencedirect.com/science/article/pii/0370157394900523)
 
 
-大偏差性
-* 大野克嗣、["Large Deviation and Statistical Physics", Prog. Theor. Phys. Suppl. **99** (1989) 165.](https://doi.org/10.1143/PTPS.99.165)
-* 大野克嗣、["Onsager's Principle from Large Deviation Point of View", Prog. Theor. Phys. **89** (1993) 973.](https://doi.org/10.1143/PTP.89.973)
-* H. Touchette, ["The large deviation approach to statistical mechanics", arXiv:0804.0327](http://arxiv.org/abs/0804.0327)
-
-
 
 ゆらぎの定理、Jarzynski等式
 * D. J. Evans and  D. J. Searles, ["The Fluctuation Theorem"</a>, Adv. Phys. **51** (2002) 1529.](http://taylorandfrancis.metapress.com/index/GY5R6P9XX8RYVXGR.pdf)
@@ -193,6 +207,13 @@ Onsagerの相反定理、Onsager-Machlup過程
 * C. Jarzynski, ["Nonequilibrium Equality for Free Energy
   Differences", Phys. Rev. Lett. **78**, 2690 (1997).]()
 *  C. Jarzynski, ["Nonequilibrium  work theorem for a system strongly coupled to a thermal environment", J. Stat. Mech.: Theor. Exp. **P09005**, (2004).]()
+
+
+大偏差性
+* 大野克嗣、["Large Deviation and Statistical Physics", Prog. Theor. Phys. Suppl. **99** (1989) 165.](https://doi.org/10.1143/PTPS.99.165)
+* 大野克嗣、["Onsager's Principle from Large Deviation Point of View", Prog. Theor. Phys. **89** (1993) 973.](https://doi.org/10.1143/PTP.89.973)
+* H. Touchette, ["The large deviation approach to statistical mechanics", arXiv:0804.0327](http://arxiv.org/abs/0804.0327)
+
 
 未整理
 * A. Einstein "Investigations on the theory of the Brownian movement", Dover
