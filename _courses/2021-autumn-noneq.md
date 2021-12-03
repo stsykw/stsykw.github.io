@@ -96,8 +96,8 @@ Hall効果をDrudeモデルにより考察する。
 電場、磁場が\\(\mathbf{E} = (E_x, E_y, 0) , \mathbf{B} = (0,0,B)\\)のとき、
 定常速度\\( (v_x, v_y) \\)を求め、電気伝導率テンソル\\( \sigma_{xx}, \sigma_{xy},\sigma_{yx},\sigma_{yy} \\)を
 \\begin{align}
-v_x \& = \sigma_{xx} E_x + \sigma_{xy} E_y \\
-v_y \& = \sigma_{yx} E_x + \sigma_{yy} E_y
+v_x & = \sigma_{xx} E_x + \sigma_{xy} E_y \\
+v_y & = \sigma_{yx} E_x + \sigma_{yy} E_y
 \\end{align}
 で定義したとき、電気伝導率テンソル\\( \sigma_{xy} , \sigma_{yx} \\)に関してOnsagerの相反定理が成立していることを確認せよ。
 
@@ -146,8 +146,8 @@ v_y \& = \sigma_{yx} E_x + \sigma_{yy} E_y
 に対し、Kramers-Kronig関係式
 \\begin{align}
 \require{physics}
-\Re \chi_{AM}(\omega) \& = \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Im \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} \\
-\Im \chi_{AM}(\omega) \& = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} 
+\Re \chi_{AM}(\omega) & = \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Im \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} \\
+\Im \chi_{AM}(\omega) & = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega} 
 \\end{align}
 が成立することを示せ。
 
