@@ -50,7 +50,10 @@ location: "Osaka, Japan"
 (休講)  
 
 **12月17日**  
-ゆらぎの定理: ゆらぎの定理、Jarzynski等式、例  
+ゆらぎの定理: ゆらぎの定理、Jarzynski等式
+
+**12月24日**  
+ゆらぎの定理: シア系における具体例  
 
 
 
@@ -161,6 +164,23 @@ v_y  = \sigma_{yx} E_x + \sigma_{yy} E_y
   \int_{\mathcal{D}(t)} d\Gamma(t) (1+\Lambda (\Gamma(t)\Delta t)+O(\Delta t^2)
 \\]
 となることを示せ。ただし \\( \Lambda (\Gamma(t))  = \sum_i \left(\dfrac{\partial \dot{q}_i }{\partial q_i } + \dfrac{\partial \dot{p}_i} {\partial p_i} \right) \\) である。
+
+**Quiz 10(12月17日出題)**  
+運動量\\( p\\)、座標\\( q\\)に対し
+\\[
+  \dfrac{dp}{dt} = 0 \enspace, \quad \dfrac{dq}{dt}= p
+\\]
+という運動を考える。
+* この運動が可逆であることを示せ。
+* ある初期状態から時間\\( t\\)だけ時間発展させ、状態を時間反転し、おなじ時間\\( t \\)だけ時間発展し、時間反転するともとの初期状態に戻ることを示せ。
+また
+\\[
+  \dfrac{dp}{dt} = -p \enspace, \quad \dfrac{dq}{dt}= p
+\\]
+という運動に対し、
+* この運動が可逆でないことを示せ。
+* ある初期状態から時間\\( t\\)だけ時間発展させ、状態を時間反転し、おなじ時間\\( t \\)だけ時間発展し、時間反転してももとの初期状態に戻らないことを示せ。
+
 
 
 
