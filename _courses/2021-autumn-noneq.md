@@ -28,7 +28,7 @@ location: "Osaka, Japan"
 ゆらぎの動力学: Onsagerの最小散逸の原理、Onsager係数の決定、Onsager-Machlup過程(Langevin)
 
 **10月29日**  
-ゆらぎの動力学: Onsager-Machlup過程(Fokker-Planck)、例: ブラウン運動  
+ゆらぎの動力学: Onsager-Machlup過程(Fokker-Planck)、例: Brown運動  
 
 **11月5日**  
 (学祭のため休講)  
@@ -44,7 +44,7 @@ location: "Osaka, Japan"
 ゆらぎの定理: 動機  
 
 **12月3日**  
-ゆらぎの定理: 能勢・フーバーダイナミクス  
+ゆらぎの定理: 能勢・Hoover動力学  
 
 **12月10日**  
 (休講)  
@@ -53,11 +53,11 @@ location: "Osaka, Japan"
 ゆらぎの定理: ゆらぎの定理、Jarzynski等式
 
 **12月24日**  
-ゆらぎの定理: シア系における具体例  
+ゆらぎの定理: 剪断系における具体例  
 
 **1月7日**  
-情報と熱力学: Maxwellデーモン、シラード機関  
- 
+情報と熱力学: Maxwellの悪魔、Szilard機関  
+
 
 Quiz
 ----
