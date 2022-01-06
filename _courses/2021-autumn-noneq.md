@@ -211,6 +211,10 @@ v_y  = \sigma_{yx} E_x + \sigma_{yy} E_y
 * 関本謙「ゆらぎのエネルギー論」岩波書店
 * D. N. Zubarev "Nonequilibrium Statistical Thermodynamics", Consultants Bureau
 * R. Zwanzig "Nonequilibrium Statistical Mechanics", Oxford
+* M. Ichiyanagi, ["Conceptual developments of non-equilibrium statistical mechanics in the early days of Japan", Phys. Rep. **262** (1995) 227.](http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6TVP-3YF4GW9-6-2&_cdi=5540&_user=5735665&_orig=browse&_coverDate=11%2F30%2F1995&_sk=997379994&view=c&wchp=dGLzVlz-zSkWA&md5=eb16ad3f3147413c76cc65ec10af35e6&ie=/sdarticle.pdf)
+* R. Kubo, M. Toda, and N. Hashitsume, "Statistical Physics II, Nonequilibirum Statistical Mechanics" Spinger-Verlag
+* J. A. McLennan, "Introduction to Non-equilibrium Statistical Mechanics" Prentice-Hall
+* 佐々真一「非平衡現象論」講義ノート
 
 Einsteinのゆらぎの理論
 * L. Landau, E. Lifshitz 「統計物理学 (下)」岩波書店, L. Landau, E. Lifshitz, "Statistical Physics (course of theoretical physics volume 5) Butterworth-Heinemann"
@@ -218,6 +222,9 @@ Einsteinのゆらぎの理論
 
 確率過程
 * N. G. van Kampen, "Stochastic Processes in Physics and Chemistry", Elsevier
+
+ブラウン運動
+* A. Einstein "Investigations on the theory of the Brownian movement", Dover
 
 Onsagerの相反定理、Onsager-Machlup過程
 * L. Onsager, ["Reciprocal Relations in Irreversible Processes I", Phys. Rev. **37** (1931) 405.](http://prola.aps.org/abstract/PR/v37/i4/p405_1)
@@ -227,7 +234,9 @@ Onsagerの相反定理、Onsager-Machlup過程
 * L. Onsager and S. Machlup, ["Fluctuations and Irreversible Processes", Phys. Rev. **91**, 1505, (1953).](http://prola.aps.org/abstract/PR/v91/i6/p1505_1)
 * M. Ichiyanagi ["Variational principles of irreversible processes", Phys. Rep. **243**, 125,(1994)](http://www.sciencedirect.com/science/article/pii/0370157394900523)
 
-
+線形応答
+* 戸田盛和、久保亮五、斎藤信彦、橋爪夏樹「統計物理学、現代物理学の基礎第二版」岩波書店
+* R. Kubo, M. Toda, and N. Hashitsume, "Statistical Physics II, Nonequilibirum Statistical Mechanics" Spinger-Verlag
 
 ゆらぎの定理、Jarzynski等式
 * D. J. Evans and  D. J. Searles, ["The Fluctuation Theorem"</a>, Adv. Phys. **51** (2002) 1529.](http://taylorandfrancis.metapress.com/index/GY5R6P9XX8RYVXGR.pdf)
@@ -236,18 +245,13 @@ Onsagerの相反定理、Onsager-Machlup過程
   differences", Phys. Rev. E **60**, 2721, (1999).]()
 * C. Jarzynski, ["Nonequilibrium Equality for Free Energy
   Differences", Phys. Rev. Lett. **78**, 2690 (1997).]()
-*  C. Jarzynski, ["Nonequilibrium  work theorem for a system strongly coupled to a thermal environment", J. Stat. Mech.: Theor. Exp. **P09005**, (2004).]()
+* C. Jarzynski, ["Nonequilibrium  work theorem for a system strongly coupled to a thermal environment", J. Stat. Mech.: Theor. Exp. **P09005**, (2004).]()
+
+情報と熱力学
+* H. Leff and A. F. Rex ed. "Maxwell's Demon 2 Entropy, Classical and Quantum Information, Computing", Institute of Physics Publishing
 
 
 大偏差性
 * 大野克嗣、["Large Deviation and Statistical Physics", Prog. Theor. Phys. Suppl. **99** (1989) 165.](https://doi.org/10.1143/PTPS.99.165)
 * 大野克嗣、["Onsager's Principle from Large Deviation Point of View", Prog. Theor. Phys. **89** (1993) 973.](https://doi.org/10.1143/PTP.89.973)
 * H. Touchette, ["The large deviation approach to statistical mechanics", arXiv:0804.0327](http://arxiv.org/abs/0804.0327)
-
-
-未整理
-* A. Einstein "Investigations on the theory of the Brownian movement", Dover
-* M. Ichiyanagi, ["Conceptual developments of non-equilibrium statistical mechanics in the early days of Japan", Phys. Rep. **262** (1995) 227.](http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6TVP-3YF4GW9-6-2&_cdi=5540&_user=5735665&_orig=browse&_coverDate=11%2F30%2F1995&_sk=997379994&view=c&wchp=dGLzVlz-zSkWA&md5=eb16ad3f3147413c76cc65ec10af35e6&ie=/sdarticle.pdf)
-* R. Kubo, M. Toda, and N. Hashitsume, "Statistical Physics II, Nonequilibirum Statistical Mechanics" Spinger-Verlag
-* J. A. McLennan, "Introduction to Non-equilibrium Statistical Mechanics" Prentice-Hall
-* 佐々真一「非平衡現象論」講義ノート
