@@ -58,6 +58,12 @@ location: "Osaka, Japan"
 **1月7日**  
 情報と熱力学: Maxwellの悪魔、Szilard機関  
 
+**1月14日**  
+(大学共通テストのため休講)  
+
+**1月21日**  
+情報と熱力学: 情報量、KLダイバージェンス、フィードバック系のゆらぎの定理  
+ 
 
 Quiz
 ----
@@ -191,6 +197,15 @@ v_y  = \sigma_{yx} E_x + \sigma_{yy} E_y
   \right)
 \\]
 が応力テンソルの\\( xy \\)成分の表現である事を示せ。
+
+**Quiz 12(1月7日出題)**  
+Szilardエンジンにおいて、系を\\( \alpha : 1-\alpha \\)で分割した場合、得られる仕事の期待値が
+\\[
+  W= k_\mathrm{B} T \left(
+    \alpha \log \dfrac{1}{\alpha} + (1-\alpha) \log \dfrac{1}{1-\alpha}
+  \right)
+\\]
+となることを示せ。
 
 評価
 ---
