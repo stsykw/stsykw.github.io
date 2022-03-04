@@ -4,7 +4,7 @@ collection: courses
 type: "理学研究科宇宙地球科学専攻大学院科目"
 permalink: /courses/2022-spring-noneq
 venue: "大阪大学, 理学部"
-date: 2022-03-04
+date: 2022-03-03
 location: "Osaka, Japan"
 ---
 
