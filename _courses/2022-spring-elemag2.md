@@ -9,10 +9,9 @@ location: "Osaka, Japan"
 ---
 
 専門基礎教育科目(基礎工学部)、火曜日1限、
-[KOANシラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_c668F34DB-8911-FCB0-15A3-5829060FA7C7_kCFA766A3-6438-16D9-4840-3875082D7BE3)
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_1248597_1&course_id=_154790_1)
 [オンライン講義の接続情報]()
-[このページ]()
+[このページ](https://stsykw.github.io/courses/2022-spring-elemag2)
 
 
 スケジュール
