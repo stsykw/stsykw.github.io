@@ -1,6 +1,68 @@
 {
   "teachings": [
     {
+      "year": 2022,
+      "semester": "spring",
+      "url_slug": "noneq",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    },
+    {
+      "year": 2022,
+      "semester": "spring",
+      "url_slug": "elemag2",
+      "title": "電磁気学詳論II",
+      "type": "underguraduate course",
+      "venue": "大阪大学、専門教育基礎科目(基、理)",
+      "location": "大阪府豊中市待兼山",
+      "description": "基礎工学部、理学部向け専門教育基礎科目。電磁気学。物質中の電磁場と回路"
+    },
+    {
+      "year": 2022,
+      "semester": "autumn",
+      "url_slug": "statphys2",
+      "title": "統計力学2",
+      "type": "underguraduate course",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、縮退した気体、フェルミオン、ボソン、相互作用のある系と相転移"
+    },
+    {
+      "year": 2021,
+      "semester": "autumn",
+      "url_slug": "noneq",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    },
+
+    {
+      "year": 2021,
+      "semester": "autumn",
+      "url_slug": "mechanics2",
+      "title": "力学詳論II",
+      "type": "underguraduate course",
+      "venue": "大阪大学、専門教育基礎科目(工)",
+      "location": "大阪府豊中市待兼山",
+      "description": "工学部向け専門教育基礎科目。質点系、剛体運動、非慣性系の運動"
+    },
+    {
+      "year": 2021,
+      "semester": "spring",
+      "url_slug": "mechanics1",
+      "title": "力学詳論I",
+      "type": "underguraduate course",
+      "venue": "大阪大学、専門教育基礎科目(理)",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部向け専門教育基礎科目。力学、一体問題、万有引力による惑星運動"
+    },
+
+    {
       "year": 2020,
       "semester": "autumn",
       "url_slug": "mechanics2",

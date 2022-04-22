@@ -1,6 +1,37 @@
 {
   "talks": [
     {
+      "date": "2021-10-22",
+      "title": "様々なスケールで断層に発達する複合面構造とその物理的描像",
+      "author": "宮本英、廣野哲朗、湯川諭",
+      "venue": "富山大学",
+      "location": "富山県富山市",
+      "latitude": 36.6967237,
+      "longitude":137.1873298,
+      "description": "日本活断層学会2021年度秋季学術大会"
+    },
+    {
+      "date": "2021-09-22",
+      "title": "乾燥亀裂パターンの動的統計則に現れる相転移的性質",
+      "author": "伊藤伸一, 中原明生, 湯川諭",
+      "venue": "オンライン",
+      "location": "大阪府豊中市",
+      "latitude": 34.8034727,
+      "longitude": 135.455291,
+      "description": "日本物理学会 2021年秋季大会"
+    },   
+    {
+      "date": "2021-06-04",
+      "title": "摩擦実験と数値計算による複合面構造発達過程の物理的描像の解明",
+      "author": "宮本英、廣野哲朗、福家朱莉、大橋聖和、湯川諭",
+      "venue": "オンライン",
+      "location": "大阪府豊中市",
+      "latitude": 34.8034727,
+      "longitude": 135.455291,
+      "description": "JpGU 2021"
+    },
+    
+    {
       "date": "2021-04-19",
       "title": "Experimental and numerical demonstrations for development of composite planar fabrics in fault zones",
       "author": "Takeshi Miyamoto, Tetsuro Hirono, Akari Fuke, Kiyokazu Oohashi, and Satoshi Yukawa",
