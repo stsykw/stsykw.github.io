@@ -28,7 +28,18 @@ location: "Osaka, Japan"
 いちょう祭のため休講
 
 **5月9日**  
-線形応答理論: 静的な場合、動的な場合  
+線形応答理論: 静的な場合、動的な場合、揺動散逸定理  
+
+**5月16日**  
+ゆらぎの定理: Jarzynski等式、ゆらぎの定理、線形応答との対応  
+
+
+**5月23日**  
+
+**5月30日**  
+
+**6月6日**  
+
 
 
 
@@ -113,6 +124,35 @@ Quiz5の
 \langle p_i (t+\tau) p_j (t) \rangle_{eq} - \langle p_i (t+\tau) \rangle_{eq} \langle p_j (t) \rangle_{eq}
 \\]
 を、対応するFokker-Planck方程式をつかって計算せよ。
+
+
+**Quiz 7(5月9日出題)**  
+講義ではハミルトニアンが無摂動状態\\( H_0\\)から外場\\(E\\)のもと\\( H_0- M E \\)と変化する時の物理量\\(A \\)の応答を見た。
+逆温度で摂動を\\( E = 1- \beta' / \beta \\)と与えたとき、\\(A=M=H_0 \\)として熱容量を求めよ。
+
+
+**Quiz 8(5月9日出題)**  
+\\(L \times L \times L \\)の立方体中に\\( N \\)個の古典的な自由粒子が
+逆温度\\( \beta \\)の熱平衡状態として存在している。
+この自由粒子の重心位置\\( \dfrac{1}{N} \langle \sum_i q_i^z \rangle \\)の
+重力に対する応答を線形応答の範囲で調べよ。
+また、重力は立方体のある辺と平行なz軸負の向きにかかるとする。
+この系では厳密な重心位置も評価できるので、線形応答の結果と比較せよ。
+
+
+**Quiz 9(5月9日出題)**  
+複素アドミッタンス
+\\[
+\chi_{AM}(\omega) = \lim_{\epsilon \downarrow 0}\int_{0}^{\infty} ds \phi_{AM}(s)  e^{i\omega s} e^{-\epsilon s}
+\\]
+に対し、Kramers-Kronig関係式
+\\[
+\Re \chi_{AM}(\omega)  = \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Im \dfrac{\chi_{AM}(\omega')}{\omega'-\omega}
+\\]
+\\[
+\Im \chi_{AM}(\omega)  = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega}
+\\]
+が成立することを示せ。
 
 評価
 ---
