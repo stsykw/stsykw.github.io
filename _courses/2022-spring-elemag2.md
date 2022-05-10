@@ -66,15 +66,15 @@ Drudeモデルで電気伝導率\\( \sigma \\)は
 
 **Quiz 4(5月10日出題)**  
 Drudeモデルに磁場を加えたものを二次元で考察する。
-粒子は\\( x-y \\)平面内を運動し,\\( z \\)軸正の向きに磁場\\( \boldsymbol{B} \\)がかけられているとする。
+粒子は\\( xy \\)平面内を運動し、\\( z \\)軸正の向きに磁場\\( \boldsymbol{B} \\)がかけられているとする。
 電荷\\( q (> 0) \\)、質量\\( m \\)をもつ荷電粒子の速度\\( \boldsymbol{v} \\)
 は、定常状態で
 \\[
   q \boldsymbol{E} - \dfrac{m}{\tau} \boldsymbol{v} + q \boldsymbol{v} \times \boldsymbol{B} = 0
 \\]
 を満たす。
-電流密度\\( \boldsymbol{i} = \rho \boldsymbol{v} = n q \boldsymbol{v} \\)として、電流密度は\\( x\\)軸正の向きを向いていると仮定し、
-Hall電場(電場の電流と直交する方向の成分)の大きさを求めよ。
+電流密度\\( \boldsymbol{i} = \rho \boldsymbol{v} = n q \boldsymbol{v} \\)は\\( x\\)軸正の向きを向いていると仮定して、
+Hall電場(電流と直交する方向の電場成分)の大きさを求めよ。
 
 評価
 -----
