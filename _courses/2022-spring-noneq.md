@@ -169,7 +169,7 @@ Quiz5の
 位相空間中のある領域\\( \mathcal{D}(t) \\)の体積
 \\[
   V(\Gamma(t)) =
-  \int_{\mathcal{D}(t)} d\Gamma(t) t^2)
+  \int_{\mathcal{D}(t)} d\Gamma(t) 
 \\] 
 がLagrange的な時間変化に対して不変である事を示せ。
 
