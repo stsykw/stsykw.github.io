@@ -196,10 +196,10 @@ Quiz5の
 与えられたハミルトニアンに対し
 拡張された運動方程式
 \\[
-\dot{{q}_{i}} = \dfrac{\partial \mathcal{H}}{\partial {p}_{i}
+\dot{q_{i}} = \dfrac{\partial \mathcal{H}}{\partial p_i}
 \\]
 \\[
-\dot{{p}_{i}} = - \dfrac{\partial \mathcal{H}}{\partial {q}_{i}} - \zeta {p}_{i}
+\dot{p_{i}} = - \dfrac{\partial \mathcal{H}}{\partial q_{i}} - \zeta p_{i}
 \\]
 \\[
    \dot{\zeta}  = \dfrac{1}{\tau^{2}} \left(   \beta \sum_{i} \dfrac{p_{i}^{2}}{m}  -  dN \right)
@@ -207,7 +207,7 @@ Quiz5の
 を考える。この時間発展にしたがうダイナミクスを能勢-Hooverダイナミクスと呼ぶ。能勢-Hooverダイナミクスでは運動方程式にしたがって時間発展すると、カノニカル分布が定常状態として得られることが知られている。
 * ハミルトニアンの時間微分が
 \\[
-\dfrac{d\mathcal{H}}{dt} = - \zeta \sum_{i} \dfrac{{p}_{i}^{2}}{m}
+\dfrac{d\mathcal{H}}{dt} = - \zeta \sum_{i} \dfrac{p_{i}^{2}}{m}
 \\]
 となることを示せ。
 * この時間発展で、分布関数\\( f(p_i,q_i,\zeta) \propto \exp ( -\beta H - \tau^2 \zeta^2 / 2\\)が定常となることを示せ。
