@@ -210,7 +210,7 @@ Quiz5の
 \dfrac{d\mathcal{H}}{dt} = - \zeta \sum_{i} \dfrac{p_{i}^{2}}{m}
 \\]
 となることを示せ。
-* この時間発展で、分布関数\\( f(p_i,q_i,\zeta) \propto \exp ( -\beta H - \tau^2 \zeta^2 / 2 ) \\)が定常となることを示せ。
+* この時間発展で、分布関数\\( f(p_i,q_i,\zeta) \propto \exp ( -\beta H - \tau^2 \zeta^2 / 2 ) \\)が定常、すなわち時間微分が0であることを示せ。
 
 
 評価
