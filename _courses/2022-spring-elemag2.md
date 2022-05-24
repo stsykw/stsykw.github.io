@@ -87,7 +87,7 @@ Hall電場(電流と直交する方向の電場成分)の大きさを求めよ�
 極板に面密度\\( \pm \sigma \\)で電荷を与えたとき、極板近傍に生じる分極電荷の面密度を求めよ。
 
 **Quiz 6(5月24日出題)**  
-原点にある磁気モーメント\\( \boldsymbol{m} \\)が点\\( \boldsymbol{r} \\)につくるベクトルポテンシャルは
+原点にある磁気双極子モーメント\\( \boldsymbol{m} \\)が点\\( \boldsymbol{r} \\)につくるベクトルポテンシャルは
 \\[
   \boldsymbol{A}(\boldsymbol{r}) = \dfrac{\mu_0}{4\pi} \dfrac{ \boldsymbol{m} \times \boldsymbol{r}}{\lvert \boldsymbol{r} \rvert^3}
 \\]
