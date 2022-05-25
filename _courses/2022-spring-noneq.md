@@ -38,10 +38,10 @@ location: "Osaka, Japan"
 ゆらぎの定理: ゆらぎの定理の証明、線形応答との対応  
 
 **5月30日**  
-情報と熱力学: Maxwellデーモン、Szilard機関、Landauerの原理  
+情報と熱力学: Maxwellデーモン、Szilard機関、情報理論  
 
 **6月6日**  
-
+情報と熱力学: 
 
 
 
