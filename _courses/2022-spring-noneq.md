@@ -10,8 +10,6 @@ location: "Osaka, Japan"
 
 大学院科目、月曜日2限、理F202教室
 
-
-
  
 スケジュール
 ----------
@@ -41,7 +39,8 @@ location: "Osaka, Japan"
 情報と熱力学: Maxwellデーモン、Szilard機関、情報理論  
 
 **6月6日**  
-情報と熱力学: 
+情報と熱力学: フィードバック系のゆらぎの定理
+最近の話題
 
 
 
@@ -211,6 +210,36 @@ Quiz5の
 \\]
 となることを示せ。
 * この時間発展で、分布関数\\( f(p_i,q_i,\zeta) \propto \exp ( -\beta H - \tau^2 \zeta^2 / 2 ) \\)が定常、すなわち時間微分が0であることを示せ。
+
+**Quiz 13(5月30日出題)**  
+同時情報量
+\\[
+S(X,Y) = -\sum_{x,y} P_{X\otimes Y}(x,y) \log P_{X\otimes Y}(x,y)
+\\]
+を、情報量
+\\[
+  S(X) = - \sum_{x} P_{X}(x) \log P_{X}(x)
+\\]
+と、条件付き情報量
+\\[
+S(X|Y)=  - \sum_{y} P_{Y}(y) \sum_{x} P_{X}(x|y) \log P_{X}(x|y)  
+\\]
+をつかって
+\\[
+  S(X,Y) = S(Y) + S(X|Y)
+\\]
+と表すことができることを示せ。
+
+**Quiz 14(5月30日出題)**  
+相互情報量
+\\[
+  I(X,Y) =  \sum_{x,y} P_{X\otimes Y} (x,y) \log \dfrac{P_{X\otimes Y}(x,y)}{P_{X}(x) P_{Y}(y)}
+\\]
+を、
+\\[
+ I(X,Y) =  S(X) + S(Y)  - S(X, Y)
+\\]
+と表すことができることを示せ。
 
 
 評価
