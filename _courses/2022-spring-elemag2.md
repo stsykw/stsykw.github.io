@@ -132,7 +132,7 @@ Hall電場(電流と直交する方向の電場成分)の大きさを求めよ�
 \\]
 を満たすとき、渦度の時間発展が
 \\[
-  \dfrac{\partial \boldsymbol{\omega}}{\partial t} = \nabla \times (\nabla \times \boldsymbol{\omega})
+  \dfrac{\partial \boldsymbol{\omega}}{\partial t} = \nabla \times (\boldsymbol{v} \times \boldsymbol{\omega})
 \\]
 となることを示せ。
 
