@@ -54,7 +54,9 @@ location: "Osaka, Japan"
 
 **6月28日(オンライン)**  
 物質中の電磁波: 内部全反射、エバネッセント光、反射波の位相、導体と電磁波  
-回路: 起電力、定常電流回路の基礎方程式  
+
+**7月5日(オンライン)**  
+回路: 起電力、定常電流回路の基礎方程式、Kirchhoffの法則、準定常回路    
 
 
 
@@ -148,6 +150,30 @@ Hall電場(電流と直交する方向の電場成分)の大きさを求めよ�
   \boldsymbol{E} = \boldsymbol{E}_0 \exp \left(i \boldsymbol{k}\cdot \boldsymbol{r} - i \omega t \right)
 \\]
 として伝わるとき、磁束密度の形をMaxwell方程式 \\( \dfrac{\partial \boldsymbol{B}}{\partial t} = - \nabla \times \boldsymbol{E} \\) から導け。
+
+**Quiz 11(6月28日出題)**  
+可視光線に対して、入射波の振幅に対する反射波の振幅は、
+電場が入射面に直交する場合
+\\[
+  \dfrac{E_{0}''}{E_{0}}  = 
+\dfrac{n_{1} \cos \alpha - n_{2}  \cos \gamma}
+{n_{1} \cos \alpha+n_{2}  \cos \gamma}
+\\]
+である。
+また電場が入射面と平行な場合
+\\[
+\dfrac{E_{0}''}{E_{0}}  =
+\dfrac{n_{2}  \cos \alpha - n_{1} \cos \gamma}
+{n_{2} \cos \alpha+n_{1} \cos \gamma}
+\\]
+である。
+反射率はそれぞれの絶対値の二乗で与えられる。内部全反射が起きる場合に、反射率がそれぞれ\\( 1\\)となることを示せ。  
+ただし、全反射が起きるときには\\( \cos \gamma \\)を、純虚数として
+\\(
+\cos \gamma = i \delta 
+\\)
+と表す事ができ、反射率は振幅比とその複素共役の積で計算することができることを使ってよい。
+
 
 評価
 -----
