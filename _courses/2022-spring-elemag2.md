@@ -14,6 +14,10 @@ location: "Osaka, Japan"
 [オンライン講義の接続情報](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_1248597_1&course_id=_154790_1&mode=reset)
 [このページ](https://stsykw.github.io/courses/2022-spring-elemag2)
 
+期末試験
+-------
+8月2日(火曜1限) 共A302にて
+その他、詳細は講義中に発表する。
 
 スケジュール
 ----------
