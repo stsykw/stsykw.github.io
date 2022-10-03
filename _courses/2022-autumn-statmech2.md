@@ -9,15 +9,14 @@ location: "Osaka, Japan"
 ---
 
 専門科目、水曜日3限、理D303教室
-[シラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowExecutionKey=_cBD4806F5-1749-F436-796D-90C4434EEC91_kCF74DA0C-5CB9-AA3C-011D-7E3DCDD29740)
+
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/ultra/courses/_149590_1/cl/outline)
 [このページ](https://stsykw.github.io/courses/2022-autumn-statmech2)
 
 スケジュール
 ----------
 **10月5日**  
-
-
+縮退した気体と粒子の統計性: 波動関数の対称性と粒子の統計性。占有数とボース分布関数、フェルミ分布関数  
 
 
 
@@ -28,7 +27,7 @@ Quiz
 
 評価
 ---
-平常点（50%）、および期末試験（50%）で評価する。平常点は、適時出題する小レポート(Quiz)の提出状況で評価する。
+平常点（50%）、および期末試験（50%）で評価する。平常点は、適宜出題する小レポート(Quiz)の提出状況で評価する。
 シラバスを参照すること。
 
 
