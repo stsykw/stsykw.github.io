@@ -8,6 +8,7 @@ date: 2022-03-03
 location: "Osaka, Japan"
 ---
 
+
 専門基礎教育科目(基礎工学部)、火曜日1限、
 [シラバス](https://koan.osaka-u.ac.jp/campusweb/campussquare.do?_flowId=SYW4201600-flow&nendo=2022&j_s_cd=13&j_cd=138129&langkbn=j)
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/webapps/blackboard/content/listContentEditable.jsp?content_id=_1248597_1&course_id=_154790_1)
