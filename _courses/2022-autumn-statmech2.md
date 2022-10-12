@@ -41,8 +41,8 @@ Quiz
 $$
 \begin{equation*}
  \Psi_{k_1,k_2}(\boldsymbol{q}_{A},\boldsymbol{q}_{B}) = \phi_{k_1}(\boldsymbol{q}_{A}) \phi_{k_2}(\boldsymbol{q}_{B})
- \end{equation*}
-$$
+\end{equation*}
+$$  
 に対し、粒子が区別できるとしたマクスウェル・ボルツマン統計では
 微視的状態は
 $$
