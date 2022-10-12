@@ -39,9 +39,9 @@ Quiz
 \\( N=2 \\)の自由粒子で一粒子固有状態が\\( k=1,2,3 \\)の3状態のみしか取らない場合を考える。
 全体のエネルギー固有関数
 $$
-\[
+\begin{equation*}
  \Psi_{k_1,k_2}(\boldsymbol{q}_{A},\boldsymbol{q}_{B}) = \phi_{k_1}(\boldsymbol{q}_{A}) \phi_{k_2}(\boldsymbol{q}_{B})
- \]
+ \end{equation*}
 $$
 に対し、粒子が区別できるとしたマクスウェル・ボルツマン統計では
 微視的状態は
