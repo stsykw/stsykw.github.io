@@ -38,25 +38,24 @@ Quiz
 **Quiz 1(10月12日出題)**  
 \\( N=2 \\)の自由粒子で一粒子固有状態が\\( k=1,2,3 \\)の3状態のみしか取らない場合を考える。
 全体のエネルギー固有関数
-\\[
- \Psi_{k_1,k_2}(\boldsymbol{q}_A,\boldsymbol{q}_B) = \phi_{k_1}(\boldsymbol{q}_A) \phi_{k_2}(\boldsymbol{q}_B)
-\\]
+$$
+ \Psi_{k_1,k_2}(\boldsymbol{q}_{A},\boldsymbol{q}_{B}) = \phi_{k_1}(\boldsymbol{q}_{A}) \phi_{k_2}(\boldsymbol{q}_{B})
+$$
 に対し、粒子が区別できるとしたマクスウェル・ボルツマン統計では
 微視的状態は
-\\[
-  \Psi_{1,1}(\boldsymbol{q}_A, \boldsymbol{q}_B)
-  \Psi_{2,2}(\boldsymbol{q}_A, \boldsymbol{q}_B)
-  \Psi_{3,3}(\boldsymbol{q}_A, \boldsymbol{q}_B)
-  
-  \Psi_{1,2}(\boldsymbol{q}_A, \boldsymbol{q}_B)
-  \Psi_{2,3}(\boldsymbol{q}_A, \boldsymbol{q}_B)
-  \Psi_{1,3}(\boldsymbol{q}_A, \boldsymbol{q}_B)
-  
-  \Psi_{1,2}(\boldsymbol{q}_B, \boldsymbol{q}_A)
-  \Psi_{2,3}(\boldsymbol{q}_B, \boldsymbol{q}_A)
+$$
+\begin{gather}
+  \Psi_{1,1}(\boldsymbol{q}_{A}, \boldsymbol{q}_B)\\
+  \Psi_{2,2}(\boldsymbol{q}_{A}, \boldsymbol{q}_B)\\
+  \Psi_{3,3}(\boldsymbol{q}_{A}, \boldsymbol{q}_B)\\
+  \Psi_{1,2}(\boldsymbol{q}_A, \boldsymbol{q}_B)\\
+  \Psi_{2,3}(\boldsymbol{q}_A, \boldsymbol{q}_B)\\
+  \Psi_{1,3}(\boldsymbol{q}_A, \boldsymbol{q}_B)\\
+  \Psi_{1,2}(\boldsymbol{q}_B, \boldsymbol{q}_A)\\
+  \Psi_{2,3}(\boldsymbol{q}_B, \boldsymbol{q}_A)\\
   \Psi_{1,3}(\boldsymbol{q}_B, \boldsymbol{q}_A)
-
-\\]
+  \end{gather}
+$$
 の9こである。
 * ボース・アインシュタイン統計での完全対称な波動関数を、上の波動関数をもとに具体的に表せ。また微視的状態の総数はいくつになるか。
 * フェルミ・ディラック統計での完全反対称な波動関数を、上の波動関数をもとに具体的に表せ。また微視的状態の総数はいくつになるか。
