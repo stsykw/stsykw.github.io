@@ -109,9 +109,11 @@ $$
 N \simeq N_0= \dfrac{1}{e^{\beta (2E_0 - \mu)}- 1}
 \end{equation}
 $$
-このとき二重縮退している第一励起状態をとる粒子数\\( N_1 \\)
+このとき二重縮退している第一励起状態をとる粒子数
 $$
+\begin{equation}
  N_1= \dfrac{2}{e^{\beta (5E_0 - \mu)}- 1}
+ \end{equation}
 $$
 が示量的な数ではないことを示せ。
 
