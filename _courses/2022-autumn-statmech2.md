@@ -130,6 +130,6 @@ $$
 
 参考書、参考文献
 -------------
-* 湯川諭「統計力学」 (日本評論社、2021) 
+* 湯川諭「統計力学」 (日本評論社、2021) (正誤表が[https://stsykw.github.io/StatisticalMechanics-support/](https://stsykw.github.io/StatisticalMechanics-support/)にあります。)
 * 田崎晴明「統計力学I,II」(培風館、2008)
 * 菊池誠「統計力学のはじめの一歩」(統計力学1の教科書、2022)
