@@ -126,7 +126,7 @@ $$
 散乱実験で測定される構造因子
 $$
 \begin{equation}
-S(\boldsymbol{q}) = \dfrac{1}{N} \left\langle\left\lvert \sum_i^N e^{-i \boldsymbol{q} \cdot \boldsymbol{q}_i} \right\rvert^2 \right\rangle_{eq}
+S(\boldsymbol{q}) = \dfrac{1}{N} \left\langle\left\lvert \sum_{i=1}^N e^{-i \boldsymbol{q} \cdot \boldsymbol{q}_i} \right\rvert^2 \right\rangle_{eq}
 \end{equation}
 $$
 を動径分布関数\\( g(r) \\)を含む積分で表せ。
