@@ -48,6 +48,8 @@ location: "Osaka, Japan"
 相互作用のある系: 粒子密度関数と粒子分布間数、Lennard-Jones相互作用とvan der Waals気体、気液共存  
 
 **12月21日**  
+相互作用のある系: Lennard-Jones相互作用とvan der Waals気体、気液共存  
+
 **1月4日**  
 **1月11日**  
 **1月18日**  
@@ -120,6 +122,14 @@ $$
 ヒント: \\( 5E_0 = 3E_0 + 2E_0 \\)とわけ、\\( 2 E_0 -\mu \\)を含む部分を\\( N_0 \\)をつかって表す。
 その後温度と\\( E_0 \\)の関係、\\( N_0 \\)が示量的な数である事をつかって評価する。
 
+**Quiz 5(12月14日出題)**  
+散乱実験で測定される構造因子
+$$
+\begin{equation}
+S(\boldsymbol{q}) = \dfrac{1}{N} \left\langle\left\lvert \sum_i^N e^{-i \boldsymbol{q} \cdot \boldsymbol{q}_i} \right\rvert^2 \right\rangle_{eq}
+\end{equation}
+$$
+を動径分布関数\\( g(r) \\)を含む積分で表せ。
 
 評価
 ---
