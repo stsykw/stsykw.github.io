@@ -48,9 +48,11 @@ location: "Osaka, Japan"
 相互作用のある系: 粒子密度関数と粒子分布間数、Lennard-Jones相互作用とvan der Waals気体、気液共存  
 
 **12月21日**  
-相互作用のある系: Lennard-Jones相互作用とvan der Waals気体、気液共存  
+相互作用のある系: Lennard-Jones相互作用とvan der Waals気体、気液共存状態  
 
 **1月4日**  
+相転移と臨界現象: 相と相転移、臨界現象と臨界指数  
+
 **1月11日**  
 **1月18日**  
 **1月25日**  
