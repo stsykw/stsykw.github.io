@@ -13,6 +13,13 @@ location: "Osaka, Japan"
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/ultra/courses/_149590_1/cl/outline)
 [このページ](https://stsykw.github.io/courses/2022-autumn-statmech2)
 
+
+試験
+---
+
+2月1日2限、A4サイズ1枚の手書きメモの持ち込み可、  
+メモは学籍番号と氏名を明記し試験終了時に答案とともに提出すること。
+
 スケジュール
 ----------
 **10月5日**  
@@ -54,10 +61,13 @@ location: "Osaka, Japan"
 相転移と臨界現象: 相と相転移、臨界現象と臨界指数  
 
 **1月11日**  
-相転移と臨界現象: 臨界現象と臨界指数、磁性体の臨界現象  
+相転移と臨界現象: 臨界現象と臨界指数(van der Waals気体の臨界現象)、磁性体の臨界現象(Isingモデル)  
 
 **1月18日**  
+相転移と臨界現象: 磁性体の臨界現象  
+
 **1月25日**  
+
 **2月1日**  
 試験予定  
 
@@ -136,6 +146,32 @@ S(\boldsymbol{q}) = \dfrac{1}{N} \left\langle\left\lvert \sum_{j=1}^N e^{-i \bol
 \end{equation}
 $$
 を動径分布関数\\( g(r) \\)を含む積分で表せ。
+
+**Quiz 6(1月11日出題)**  
+1次元Isingモデルの分配関数
+$$
+\begin{equation}
+Z_N = \sum_{S_1=\pm 1}
+\sum_{S_2=\pm 1} \dots \sum_{S_N=\pm 1}
+e^{ KS_1 S_2 + \frac{G}{2} (S_1+S_2) }
+ e^{ KS_2 S_3 + \frac{G}{2} (S_2+S_3) }
+\dots
+ e^{ KS_N S_1 + \frac{G}{2} (S_N+S_1) }
+\end{equation}
+$$
+が、行列\\( M \\)
+$$
+M = \begin{pmatrix}
+e^{K+G} & e^{-K} \\
+e^{-K} & e^{K-G}
+\end{pmatrix}
+$$
+をつかって
+$$
+Z_N = \mathrm{Tr} M^N
+$$
+となることを確認し、分配関数\\( Z_N \\)を具体的に求めよ。
+
 
 評価
 ---
