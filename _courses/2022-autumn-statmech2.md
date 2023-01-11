@@ -161,14 +161,18 @@ e^{ KS_1 S_2 + \frac{G}{2} (S_1+S_2) }
 $$
 が、行列\\( M \\)
 $$
+\begin{equation}
 M = \begin{pmatrix}
 e^{K+G} & e^{-K} \\
 e^{-K} & e^{K-G}
 \end{pmatrix}
+\end{equation}
 $$
 をつかって
 $$
+\begin{equation}
 Z_N = \mathrm{Tr} M^N
+\end{equation}
 $$
 となることを確認し、分配関数\\( Z_N \\)を具体的に求めよ。
 
