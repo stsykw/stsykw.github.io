@@ -8,7 +8,7 @@ date: 2023-03-29
 location: "Osaka, Japan"
 ---
 
-専門基礎教育科目(基礎工学部)、火曜日1限、共A302
+専門基礎教育科目(基礎工学部(システム、情報)、理学部(数学))、火曜日1限、共A302
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/ultra/courses/_174604_1/cl/outline)
 
 [このページ](https://stsykw.github.io/courses/2022-spring-elemag2)
@@ -27,6 +27,8 @@ Quiz
 
 解答はCLE経由で提出すること。手書き文書のスキャン、Word文書、Tex文書など形式は問わないが、最終的に提出時には一つのpdfファイルにまとめて提出すること。
 基本的に提出締め切りは、出題日の一週間後の正午とします。
+
+**Quiz 1(4月11日出題)**  
 
 
 評価
