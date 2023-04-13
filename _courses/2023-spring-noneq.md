@@ -18,11 +18,39 @@ location: "Osaka, Japan"
 **4月13日**  
 平衡近傍でのゆらぎ: Boltzmann-Einsteinの原理。孤立系、開放系での表現  
 
-
+**4月20日**  
+ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係、Onsager係数の決定  
 
 Quiz
 ----
+**Quiz 1(4月13日出題)**  
+マクロ量 \\( \\{ a_i \\} \\)の平衡値 \\( \\{ \overline{a_i} \\} \\)からのずれは
+エントロピーで支配され
+\\[
+P(\\{a_i\\}) = (2\pi)^{-n/2} \left[ \det \left(
+-\dfrac{1}{k_\mathrm{B}} \dfrac{\partial^2 S}{\partial a_i \partial a_j }
+ \right)
+ \right]^{1/2}
+\exp \left(
+\dfrac{1}{2 k_\mathrm{B}}
+\sum_{ij} \dfrac{\partial^2 S}{\partial a_i \partial a_j} (a_i - \overline{a_i}) (a_j - \overline{a_j})
+\right)
+\\]
+と書ける。この多次元Gauss積分を実行し、規格化定数がこれで良いことを確認せよ。
 
+**Quiz 2(4月13日出題)**  
+マクロ量 \\( \\{ x_i \\} \\)の分布
+\\[
+P(\\{x_i\\}) \propto
+\exp \left(
+-\dfrac{1}{2}
+\sum_{ij} \beta_{ij} x_i x_j
+\right)
+\\]
+に対し、期待値 \\( \left\langle x_i x_j \right\rangle = \beta_{ij}^{-1}\\)となることを示せ。また
+\\(X_i = \sum_j \beta_{ij} x_j\\)と置いたとき、
+\\( \left\langle X_i x_j \right\rangle = \delta_{ij} \\)、
+\\( \left\langle X_i X_j \right\rangle = \beta_{ij} \\)となることを示せ。
 
 
 評価
