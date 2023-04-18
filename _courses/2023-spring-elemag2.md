@@ -37,11 +37,12 @@ Quiz
 となることを示せ。
 
 **Quiz 2(4月18日出題)**  
-磁束密度も波動方程式を満たす。\\( \hat{\boldsymbol{k}} = \boldsymbol{e}_{z} \\)ベクトルの向きに進行する進行波解を
+磁束密度も波動方程式を満たす。\\( \boldsymbol{n} = \boldsymbol{e}_{z} \\)ベクトルの向きに進行する進行波解を
 \\[
-  \boldsymbol{B} =  \boldsymbol{e}_{x} f_{x}(\hat{\boldsymbol{k}} \cdot \boldsymbol{r} - ct ) 
-    +\boldsymbol{e}_{y} f_{y}(\hat{\boldsymbol{k}} \cdot \boldsymbol{r} - ct ) 
-    +\boldsymbol{e}_{z} f_{z}(\hat{\boldsymbol{k}} \cdot \boldsymbol{r} - ct ) 
+  \boldsymbol{B} =  
+     \boldsymbol{e}_{x} f_{x}( z - ct ) 
+    +\boldsymbol{e}_{y} f_{y}( z - ct ) 
+    +\boldsymbol{e}_{z} f_{z}( z - ct ) 
 \\]
 と仮定して、Maxwell方程式をもちい磁束密度が横波として伝わることを示せ。またこの磁束密度に対応する電場\\( \boldsymbol{E} \\)を求めよ。
 
