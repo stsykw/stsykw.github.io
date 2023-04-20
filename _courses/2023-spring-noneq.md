@@ -21,6 +21,10 @@ location: "Osaka, Japan"
 **4月20日**  
 ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係、Onsager係数の決定  
 
+**4月27日**  
+ゆらぎの動力学: Langevin方程式とFokker-Planck方程式、例:Brown運動、例:ポテンシャルのある場合、例:不均一系  
+
+
 Quiz
 ----
 **Quiz 1(4月13日出題)**  
@@ -52,6 +56,31 @@ P(\\{x_i\\}) \propto
 \\( \left\langle X_i x_j \right\rangle = \delta_{ij} \\)、
 \\( \left\langle X_i X_j \right\rangle = \beta_{ij} \\)となることを示せ。
 
+**Quiz 3(4月20日出題)**  
+Hall効果をDrudeモデルにより考察する。
+電荷\\(q\\)をもつ質量\\(m\\)の荷電粒子が運動方程式
+\\[
+  m \dfrac{d\mathbf{v}}{dt} = q \mathbf{E} + q \mathbf{v} \times
+  \mathbf{B}- \gamma \mathbf{v}
+\\]
+に従うとする。ここで\\(\mathbf{E}, \mathbf{B}\\)はそれぞれ電場、磁場、\\(\gamma\\)は散逸を表す。
+電場、磁場が\\(\mathbf{E} = (E_x, E_y, 0) , \mathbf{B} = (0,0,B)\\)のとき、
+定常速度\\( (v_x, v_y) \\)を求め、電気伝導率テンソル\\( \sigma_{xx}, \sigma_{xy},\sigma_{yx},\sigma_{yy} \\)を
+\\[
+v_x  = \sigma_{xx} E_x + \sigma_{xy} E_y 
+\\]
+\\[
+v_y  = \sigma_{yx} E_x + \sigma_{yy} E_y
+\\]
+で定義したとき、電気伝導率テンソル\\( \sigma_{xy} , \sigma_{yx} \\)に関してOnsagerの相反定理が成立していることを確認せよ。
+
+**Quiz 4(4月20日出題)**  
+講義ではマクロ物理量 \\( \\{ a_i \\} \\)の時間発展を条件付き確率 \\( W_{\Delta t} (a_i+\Delta a_i | a_i) \\)で表した。この条件付き確率が詳細つりあい
+\\[
+  W_{\Delta t} (a_i+\Delta a_i | a_i) P_{eq}(a_i) = 
+    W_{\Delta t} (a_i | a_i+\Delta a_i) P_{eq}(a_i+\Delta a_i)
+\\]
+を満たすことを示せ。
 
 評価
 ---
