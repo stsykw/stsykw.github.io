@@ -114,8 +114,8 @@ Quiz5の
 **Quiz 7(5月11日出題)**  
 Ginzburg-Landauの自由エネルギー
 \\[
-F[\varphi]= \int d^3\mmv{r} \left[
-  \dfrac{1}{2} m \varphi^2 + \dfrac{1}{4} u \varphi^4 - h \varphi + \dfrac{1}{2} \kappa \norm{\nabla \varphi}^2
+F[\varphi]= \int d^3\boldsymbol{r} \left[
+  \dfrac{1}{2} m \varphi^2 + \dfrac{1}{4} u \varphi^4 - h \varphi + \dfrac{1}{2} \kappa \left\lvert\nabla \varphi\right\rvert^2
 \right]
 \\]
 を$\varphi$で汎関数微分せよ。
