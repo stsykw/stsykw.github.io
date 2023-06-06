@@ -118,7 +118,7 @@ Hall電場(電流と直交する方向の電場成分)の大きさを求めよ�
 **Quiz 8(6月6日出題)**  
 原点を中心とする半径\\( a \\)の球面上の積分\\( I\\)
 \\[
-  I = \int_{\lvert \boldsymbol{r'} \rvert^2 } dS' \dfrac{\boldsymbol{r'}\cdot \boldsymbol{r}}{\lvert\boldsymbol{r}-\boldsymbol{r'} \rvert}
+  I = \int_{\lvert \boldsymbol{r'} \rvert=a } dS' \dfrac{\boldsymbol{r'}\cdot \boldsymbol{r}}{\lvert\boldsymbol{r}-\boldsymbol{r'} \rvert}
 \\]
 を計算せよ。上で\\( \boldsymbol{r'} \\)は球面上の位置ベクトルで、\\( \boldsymbol{r} \\)は\\( z \\) 軸上のある点の位置ベクトルであるとする。
 
