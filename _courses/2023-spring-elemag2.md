@@ -50,6 +50,8 @@ location: "Osaka, Japan"
 超伝導体と磁場: 完全反磁性、ロンドン方程式  
 物質中の電磁波: 物質中のマクスウェル方程式、屈折率  
 
+**6月20日**  
+物質中の電磁波: 物質中のマクスウェル方程式、屈折率、反射、屈折  
 
 
 Quiz
@@ -121,6 +123,26 @@ Hall電場(電流と直交する方向の電場成分)の大きさを求めよ�
   I = \int_{\lvert \boldsymbol{r'} \rvert=a } dS' \dfrac{\boldsymbol{r'}\cdot \boldsymbol{r}}{\lvert\boldsymbol{r}-\boldsymbol{r'} \rvert}
 \\]
 を計算せよ。上で\\( \boldsymbol{r'} \\)は球面上の位置ベクトルで、\\( \boldsymbol{r} \\)は\\( z \\) 軸上のある点の位置ベクトルであるとする。
+
+**Quiz 9(6月13日出題)**  
+渦度\\( \boldsymbol{\omega} \\)を
+\\[
+  \boldsymbol{\omega} = \nabla \times \boldsymbol{v} + \dfrac{q}{m} \boldsymbol{B}
+\\]
+と定義する。
+速度場の時間発展が
+\\[
+  \dfrac{\partial \boldsymbol{v}}{\partial t} + (\boldsymbol{v}\cdot \nabla ) \boldsymbol{v} = 
+  \dfrac{q}{m} ( \boldsymbol{E} + \boldsymbol{v}\times \boldsymbol{B})
+\\]
+を満たすとき、
+渦度の時間発展が
+\\[
+  \dfrac{\partial \boldsymbol{\omega}}{\partial t} = \nabla \times (\boldsymbol{v} \times \boldsymbol{\omega})
+\\]
+となることを示せ。
+(ヒント: まず両辺の回転を取る。\\( \nabla \times \boldsymbol{E} = - \dfrac{\partial \boldsymbol{B}}{\partial t} \\) をつかって、電場の回転を磁場の時間変化に置き換える。時間微分に関する項をすべて左辺に集める。\\( (\boldsymbol{v}\cdot \nabla) \boldsymbol{v}  \\)を\\( \boldsymbol{v} \times (\nabla \times \boldsymbol{v}) \\)をつかって置き換える。)
+
 
 評価
 -----
