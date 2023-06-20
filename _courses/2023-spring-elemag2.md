@@ -153,10 +153,10 @@ Hall電場(電流と直交する方向の電場成分)の大きさを求めよ�
 この物質中のMaxwell方程式
 $$
   \begin{align}
-\mnab \cdot  \boldsymbol{D}  & = 0  \\
-\mnab \times \boldsymbol{E} & = - \dfrac{\partial \boldsymbol{B}}{\partial t} \\
-\mnab \cdot \boldsymbol{B} & = 0 \\
-\mnab \times  \boldsymbol{H} & =  \dfrac{\partial \boldsymbol{D}}{\partial t} 
+\nabla \cdot  \boldsymbol{D}  & = 0  \\
+\nabla \times \boldsymbol{E} & = - \dfrac{\partial \boldsymbol{B}}{\partial t} \\
+\nabla \cdot \boldsymbol{B} & = 0 \\
+\nabla \times  \boldsymbol{H} & =  \dfrac{\partial \boldsymbol{D}}{\partial t} 
 \end{align}
 $$
 より、電場\\( \boldsymbol{E} \\)が満たす波動方程式を導出せよ。
