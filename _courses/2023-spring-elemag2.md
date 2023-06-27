@@ -56,6 +56,9 @@ location: "Osaka, Japan"
 **6月27日**  
 物質中の電磁波: 反射、屈折、内部全反射、エバネッセント光、反射波の位相、導体と電磁波  
 
+**7月4日**  
+回路: 起電力、定常電流回路の基礎方程式、キルヒホッフの法則、準定常回路  
+
 Quiz
 ----
 
@@ -160,6 +163,22 @@ $$
 \end{align}
 $$
 より、電場\\( \boldsymbol{E} \\)が満たす波動方程式を導出せよ。
+
+**Quiz 11(6月27日出題)**  
+実電荷も実電流も存在しない物質(誘電率\\( \epsilon \\)、透磁率\\( \mu \\))中を電磁波が伝わるとき、
+その電磁波のエネルギー流束はPoyntingベクトル\\( \boldsymbol{S} = \boldsymbol{E} \times \boldsymbol{H} \\)で表される。
+このPoyntingベクトルベクトルを平面波
+$$
+\begin{align}
+\boldsymbol{E} & = \boldsymbol{E_0} \cos ( \boldsymbol{k} \cdot \boldsymbol{r} - \omega t) \\
+\boldsymbol{B} & = \dfrac{\boldsymbol{k} \times \boldsymbol{E_0}}{\omega} \cos ( \boldsymbol{k} \cdot \boldsymbol{r} - \omega t) 
+\end{align}
+$$
+のもと計算し、時間的に一周期にわたり平均をとると
+\\[
+  \boldsymbol{S} = \dfrac{1}{2}\sqrt{\dfrac{\epsilon}{\mu}} \left\lvert \boldsymbol{E_0}\right\rvert^2 \dfrac{\boldsymbol{k}}{ \left\lvert \boldsymbol{k}\right\rvert}
+\\]
+となることを示せ。
 
 評価
 -----
