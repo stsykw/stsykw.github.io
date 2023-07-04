@@ -59,6 +59,9 @@ location: "Osaka, Japan"
 **7月4日**  
 回路: 起電力、定常電流回路の基礎方程式、キルヒホッフの法則、準定常回路  
 
+**7月11日**  
+回路:準定常回路、LC回路、RC回路、RLC回路  
+
 Quiz
 ----
 
@@ -179,6 +182,12 @@ $$
   \boldsymbol{S} = \dfrac{1}{2}\sqrt{\dfrac{\epsilon}{\mu}} \left\lvert \boldsymbol{E_0}\right\rvert^2 \dfrac{\boldsymbol{k}}{ \left\lvert \boldsymbol{k}\right\rvert}
 \\]
 となることを示せ。
+
+**Quiz 12(7月4日出題)**  
+\\( N \\)個の抵抗値\\( R_i \enspace i=1,2,\dots,N \\)をもつ抵抗を並列につなぐ。
+この合成抵抗をキルヒホッフの法則にもとづき導出せよ。
+
+
 
 評価
 -----
