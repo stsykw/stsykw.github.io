@@ -71,7 +71,6 @@ location: "Osaka, Japan"
 **8月1日**  
 期末試験  
 
-
 Quiz
 ----
 
