@@ -1,7 +1,7 @@
 ---
 title: "力学詳論II"
 collection: teaching
-type: "underguraduate course"
+type: "undergraduate course"
 permalink: /teaching/2019-autumn-mechanics2
 venue: "大阪大学、専門教育基礎科目(工)"
 date: 2019-10-01

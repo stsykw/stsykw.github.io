@@ -1,7 +1,7 @@
 ---
 title: "学問への扉"
 collection: teaching
-type: "underguraduate course"
+type: "undergraduate course"
 permalink: /teaching/2019-spring-DoorAcademia
 venue: "大阪大学、教養教育系セミナー"
 date: 2019-04-01

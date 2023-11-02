@@ -1,6 +1,26 @@
 {
   "talks": [
     {
+      "date": "2023-8-7",
+      "title": "Fracture process of composite material in spring network model",
+      "author": "Haruka Noguchi, Satoshi Yukawa",
+      "venue": "東京大学",
+      "location": "東京都文京区",
+      "latitude": 35.7133662,
+      "longitude": 139.7619514,
+      "description": "STATPHYS 28"
+    },
+    {
+      "date": "2023-9-18",
+      "title": "Spring-Networkモデルを用いた複合材料の破壊過程の研究",
+      "author": "野口遥佳、湯川諭",
+      "venue": "東北大学",
+      "location": "宮城県仙台市",
+      "latitude": 38.2600284,
+      "longitude":140.8512364,
+      "description": "日本物理学会 第78回年次大会"
+    },
+    {
       "date": "2021-10-22",
       "title": "様々なスケールで断層に発達する複合面構造とその物理的描像",
       "author": "宮本英、廣野哲朗、湯川諭",

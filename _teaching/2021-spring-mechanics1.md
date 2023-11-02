@@ -1,7 +1,7 @@
 ---
 title: "力学詳論I"
 collection: teaching
-type: "underguraduate course"
+type: "undergraduate course"
 permalink: /teaching/2021-spring-mechanics1
 venue: "大阪大学、専門教育基礎科目(理)"
 date: 2021-04-01
