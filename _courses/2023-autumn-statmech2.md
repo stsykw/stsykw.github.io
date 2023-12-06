@@ -118,12 +118,10 @@ $$
 以下のように、左辺の\\( \beta \\)に対する級数展開を通じて、
 \\( \ell \\)次のキュムラント \\( \langle A^\ell \rangle_c \\)
 を定義する。
-$$
-\begin{equation}
+\[
 \log \left\langle e^{-\beta A} \right\rangle = \sum_{\ell=1}^\infty \dfrac{(-\beta)^\ell}{\ell!}
 \langle A^\ell \rangle_c
-\end{equation}
-$$
+\]
 このとき、以下が成立することを示せ。
 $$
 \begin{gather}
