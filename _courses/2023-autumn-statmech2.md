@@ -126,14 +126,14 @@ $$
 $$
 このとき、以下が成立することを示せ。
 $$
-\begin{align}
-\langle A \rangle_c & = \langle A \rangle \\
-\langle A^2 \rangle_c & = \langle A^2 \rangle 
-- \langle A^2 \rangle^2 \\
-\langle A^3 \rangle_c & = \langle A^3 \rangle 
+\begin{gather}
+\langle A \rangle_c = \langle A \rangle \\
+\langle A^2 \rangle_c  = \langle A^2 \rangle 
+- \langle A \rangle^2 \\
+\langle A^3 \rangle_c  = \langle A^3 \rangle 
 - 3 \langle A^2 \rangle \langle A \rangle 
 + 2 \langle A \rangle^3 
-\end{align}
+\end{gather}
 $$
 
 評価
