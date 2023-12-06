@@ -50,7 +50,8 @@ location: "Osaka, Japan"
 相互作用のある系: 実在気体、粒子密度関数と粒子分布間数  
 
 **12月13日**  
-相互作用のある系  
+相互作用のある系: Lennard-Jones相互作用とvan der Waals気体、気液共存状態    
+
 **12月20日**  
 相互作用のある系  
 **1月10日**  
@@ -112,7 +113,28 @@ $$
 凝縮相 (\\( T < T_c \\)) での内部エネルギー\\( E \\)の式は講義中に導出した。
 これを用いて、凝縮相での非凝縮状態(励起状態)にある粒子1つあたりのエネルギー \\(E/(N-N_0) \\) を求めよ。  
 
-
+**Quiz 5(12月6日出題)**  
+ある確率分布に従う確率変数\\( A\\)に対し、
+以下のように、左辺の\\( \beta \\)に対する級数展開を通じて、
+\\( \ell \\)次のキュムラント \\( \langle A^\ell \rangle_c \\)
+を定義する。
+$$
+\begin{equation}
+\log \left\langle e^{-\beta A} \right\rangle = \sum_{\ell=1}^\infty \dfrac{(-\beta)^\ell}{\ell!}
+\langle A^\ell \rangle_c
+\end{equation}
+$$
+このとき、以下が成立することを示せ。
+$$
+\begin{align}
+\langle A \rangle_c & = \langle A \rangle \\
+\langle A^2 \rangle_c & = \langle A^2 \rangle 
+- \langle A^2 \rangle^2 \\
+\langle A^3 \rangle_c & = \langle A^3 \rangle 
+- 3 \langle A^2 \rangle \langle A \rangle 
++ 2 \langle A \rangle^3 
+\end{align}
+$$
 
 評価
 ---
