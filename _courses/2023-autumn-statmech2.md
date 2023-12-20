@@ -134,6 +134,22 @@ $$
 \end{align}
 $$
 
+**Quiz 6(12月20日出題)**  
+ファン・デル・ワールスの状態方程式
+$$
+\begin{equation}
+p = \dfrac{\rho k_\mathrm{B} T}{1-v_0 \rho} - \epsilon v_0 \rho^2
+\end{equation}
+$$
+をつかって、等圧膨張係数\\(\alpha = \dfrac{1}{V} \left(\dfrac{\partial V}{\partial p}\right)_{p,N} \\)
+が、ファン・デル・ワールス気体では
+$$
+\begin{equation}
+\alpha = \dfrac{1-v_0 \rho}{T-T_s(\rho)}
+\end{equation}
+$$
+となる事を示せ。\\( T_s(\rho) \\)は講義で定義したスピノダル温度である。
+
 評価
 ---
 平常点（50%）、および期末試験（50%）で評価する。平常点は、適宜出題する小レポート(Quiz)の提出状況で評価する。
