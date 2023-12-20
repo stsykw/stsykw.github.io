@@ -141,7 +141,7 @@ $$
 p = \dfrac{\rho k_\mathrm{B} T}{1-v_0 \rho} - \epsilon v_0 \rho^2
 \end{equation}
 $$
-をつかって、等圧膨張係数\\(\alpha = \dfrac{1}{V} \left(\dfrac{\partial V}{\partial p}\right)_{p,N} \\)
+をつかって、等圧膨張係数\\(\alpha = \dfrac{1}{V} \left(\dfrac{\partial V}{\partial T}\right)_{p,N} \\)
 が、ファン・デル・ワールス気体では
 $$
 \begin{equation}
