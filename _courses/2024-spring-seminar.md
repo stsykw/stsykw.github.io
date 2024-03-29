@@ -4,7 +4,7 @@ collection: courses
 type: "理学部物理学科選択科目"
 permalink: /courses/2024-spring-seminar
 venue: "大阪大学, 理学部"
-date: 2024-03-29
+date: 2024-03-28
 location: "Osaka, Japan"
 ---
 
