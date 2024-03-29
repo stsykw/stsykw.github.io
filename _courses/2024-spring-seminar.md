@@ -8,7 +8,7 @@ date: 2024-03-28
 location: "Osaka, Japan"
 ---
 
-大学院科目、木曜日限、理F524教室
+物理学科科目、木曜日4限、理F524教室
 
 
 [このページ](https://stsykw.github.io/courses/2024-spring-seminar)
