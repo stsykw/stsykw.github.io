@@ -53,7 +53,7 @@ Quiz
 **Quiz 1(4月16日出題)**  
 \\( \boldsymbol{k} \\) ベクトルの向きに速度\\( c\\)で進行する波は
 \\[
-  f(\boldsymbok{k} \cdot \boldsymbol{r} - c \left\lvert \boldsymbol{k} \right\rvert t)
+  f(\boldsymbol{k} \cdot \boldsymbol{r} - c \left\lvert \boldsymbol{k} \right\rvert t)
 \\]
 と書ける事を講義中にみた。
 位置ベクトル\\( \boldsymbol{r} \\)を\\( \boldsymbol{k} \\)ベクトルと平行な\\( \boldsymbol{r}_0 \\) ベクトル、および直交する\\( \boldsymbol{r}' \\)に
