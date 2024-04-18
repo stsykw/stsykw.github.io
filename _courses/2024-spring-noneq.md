@@ -21,6 +21,9 @@ location: "Osaka, Japan"
 **4月18日**  
 ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係、Onsager係数の決定  
 
+**4月25日**  
+ゆらぎの動力学: Langevin方程式とFokker-Planck方程式、例:Brown運動、例:ポテンシャルのある場合、例:不均一系  
+
 
 
 
@@ -50,14 +53,31 @@ P(\\{x_i\\}) \propto
 \sum_{ij} \beta_{ij} x_i x_j
 \right)
 \\]
-に対し、期待値 \\( \left\langle x_i x_j \right\rangle = \beta_{ij}^{-1}\\)となることを示せ。
+に対し、期待値 \\( \left\langle x_i x_j \right\rangle = (\beta^{-1})_{ij}\\)となることを示せ。
 また
 \\(X_i = \sum_j \beta_{ij} x_j\\)と置いたとき、
 \\( \left\langle X_i x_j \right\rangle = \delta_{ij} \\)、
 \\( \left\langle X_i X_j \right\rangle = \beta_{ij} \\)となることを示せ。
 
+**Quiz 3(4月18日出題)**  
+講義ではマクロ物理量 \\( \\{ a_i \\} \\)の時間発展を条件付き確率 \\( W_{\Delta t} (a_i+\Delta a_i | a_i) \\)で表した。この条件付き確率が詳細つりあいとよばれる条件
+\\[
+  W_{\Delta t} (a_i+\Delta a_i | a_i) P_{eq}(a_i) = 
+    W_{\Delta t} (a_i | a_i+\Delta a_i) P_{eq}(a_i+\Delta a_i)
+\\]
+を満たすことを示せ。
 
-
+**Quiz 4(4月18日出題)**  
+オンサーガー係数やノイズの計算で
+\\[
+I=\int_{0}^{t} \! ds_{1}\int_{0}^{t} \! ds_{2} \, f(s_{1}-s_{2})
+\\]
+の形の積分がでてきた。
+\\( f \\) が偶関数のとき
+\\[
+  I = \int_{0}^{t} \! dx\, 2 (t -x ) f(x) 
+\\]
+とできることを示せ。
 
 
 評価
