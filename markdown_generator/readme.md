@@ -2,7 +2,7 @@
 
 Edit `publications.json`, `talks.json` and `teaching.json` by an editor.
 If you use the atom editor, you may want to install `atom-json-editor` plugin.
-For generating each markdown files, use `publications.py`,  `talks.py` and `teaching.py`.
+For generating each markdown file, use `publications.py`,  `talks.py` and `teaching.py`.
 
 
 # Jupyter notebook markdown generator

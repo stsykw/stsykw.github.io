@@ -1,6 +1,46 @@
 {
   "talks": [
     {
+      "date": "2024-3-23",
+      "title": "複合ばねネットワークにおける破壊の統計則",
+      "author": "湯川諭、野口遙佳",
+      "venue": "東京大学",
+      "location": "東京都文京区",
+      "latitude": 35.7133662,
+      "longitude": 139.7619514,
+      "description": "計算統計物理の今日と明日"
+    },
+    {
+      "date": "2024-2-21",
+      "title": "複合材料における破壊の統計的性質",
+      "author": "湯川諭、野口遙佳",
+      "venue": "奈良女子大学",
+      "location": "奈良県奈良市",
+      "latitude": 34.6879094,
+      "longitude":135.826303,
+      "description": "奈良非線形研究会"
+    },
+    {
+      "date": "2023-12-1",
+      "title": "アクティブXYモデルにおけるトポロジカル欠陥の効果",
+      "author": "井上駿、湯川諭",
+      "venue": "オンライン",
+      "location": "大阪府豊中市",
+      "latitude": 34.8034727,
+      "longitude": 135.455291,
+      "description": "第29回交通流と自己駆動粒子系のシンポジウム"
+    },   
+    {
+      "date": "2023-12-13",
+      "title": "Fracture of composite materials with Spring-Network model",
+      "author": "Haruka Noguchi, Satoshi Yukawa",
+      "venue": "Kyoto International Conference Center",
+      "location": "Kyoto, Japan",
+      "latitude": 35.0611899,
+      "longitude": 135.7819946,
+      "description": "MRM2023/IUMRS-ICA2023"
+    },  
+    {
       "date": "2023-8-7",
       "title": "Fracture process of composite material in spring network model",
       "author": "Haruka Noguchi, Satoshi Yukawa",

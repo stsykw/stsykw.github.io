@@ -1,5 +1,46 @@
 {
-  "teachings": [  {
+  "teachings": [ 
+    {
+      "year": 2024,
+      "semester": "spring",
+      "url_slug": "noneq",
+      "title": "非平衡現象論",
+      "type": "graduate course",
+      "venue": "大阪大学、大学院科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "宇宙地球科学専攻大学院科目、非平衡現象とその取り扱い"
+    },
+    {
+      "year": 2024,
+      "semester": "spring",
+      "url_slug": "elemag2",
+      "title": "電磁気学詳論II",
+      "type": "undergraduate course",
+      "venue": "大阪大学、専門教育基礎科目(基、理)",
+      "location": "大阪府豊中市待兼山",
+      "description": "基礎工学部、理学部向け専門教育基礎科目。電磁気学。物質中の電磁場と回路"
+    },
+    {
+      "year": 2024,
+      "semester": "spring",
+      "url_slug": "seminar",
+      "title": "物理学セミナー",
+      "type": "undergraduate course",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、低学年むけ物理学セミナー"
+    },
+    {
+      "year": 2024,
+      "semester": "autumn",
+      "url_slug": "statphys2",
+      "title": "統計力学2",
+      "type": "undergraduate course",
+      "venue": "大阪大学、理学部専門科目",
+      "location": "大阪府豊中市待兼山",
+      "description": "理学部物理学科専門科目、縮退した気体、フェルミオン、ボソン、相互作用のある系と相転移"
+    },
+    {
     "year": 2023,
     "semester": "spring",
     "url_slug": "noneq",

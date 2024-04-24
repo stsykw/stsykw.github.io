@@ -1,6 +1,17 @@
 {
   "papers": [
     {
+      "pub_date": "2023-12-25",
+      "refereed": true,
+      "title": "アクティブXYモデルにおけるトポロジカル欠陥の効果",
+      "author": "井上駿、湯川諭",
+      "venue": "交通流と自己駆動粒子系のシンポジウム論文集",
+      "volume": "29",
+      "start": "25",
+      "year": "2023",
+      "doi": ""
+    },
+    {
       "pub_date": "2019-01-24",
       "refereed": true,
       "title": "Bifurcation Angle Distribution in the Japanese River Network",
