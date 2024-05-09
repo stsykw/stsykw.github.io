@@ -27,7 +27,8 @@ location: "Osaka, Japan"
 **5月9日**  
 ゆらぎの動力学: 例:空間的に不均一な系への応用  
 
-
+**5月17日**  
+線形応答理論: 静的な場合、動的な場合、揺動散逸定理  
 
 Quiz
 ----
@@ -55,7 +56,7 @@ P(\\{x_i\\}) \propto
 \sum_{ij} \beta_{ij} x_i x_j
 \right)
 \\]
-に対し、期待値 \\( \left\langle x_i x_j \right\rangle = (\beta^{-1})_{ij}\\)となることを示せ。
+に対し、期待値 \\( \left\langle x_i x_j \right\rangle = (\beta^{-1})\_{ij} \\) となることを示せ。
 また
 \\(X_i = \sum_j \beta_{ij} x_j\\)と置いたとき、
 \\( \left\langle X_i x_j \right\rangle = \delta_{ij} \\)、
@@ -72,12 +73,12 @@ P(\\{x_i\\}) \propto
 **Quiz 4(4月18日出題)**  
 オンサーガー係数やノイズの計算で
 \\[
-I=\int_{0}^{t} \! ds_{1}\int_{0}^{t} \! ds_{2} \, f(s_{1}-s_{2})
+I=\int_{0}^{t}  ds_{1}\int_{0}^{t}  ds_{2} \, f(s_{1}-s_{2})
 \\]
 の形の積分がでてきた。
 \\( f \\) が偶関数のとき
 \\[
-  I = \int_{0}^{t} \! dx\, 2 (t -x ) f(x) 
+  I = \int_{0}^{t}  dx\, 2 (t -x ) f(x) 
 \\]
 とできることを示せ。
 
@@ -104,6 +105,18 @@ Quiz5の
 \langle p_i (t+\tau) p_j (t) \rangle_{eq} - \langle p_i (t+\tau) \rangle_{eq} \langle p_j (t) \rangle_{eq}
 \\]
 を、対応するFokker-Planck方程式をつかって計算せよ。
+
+
+**Quiz 7(5月9日出題)**  
+Ginzburg-Landauの自由エネルギー
+\\[
+F[\varphi]= \int d^3\boldsymbol{r} \left[
+  \dfrac{1}{2} m \varphi^2 + \dfrac{1}{4} u \varphi^4 - h \varphi + \dfrac{1}{2} \kappa \left\lvert\nabla \varphi\right\rvert^2
+\right]
+\\]
+を$\varphi$で汎関数微分せよ。
+
+
 
 評価
 ---
