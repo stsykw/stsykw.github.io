@@ -33,6 +33,12 @@ location: "Osaka, Japan"
 **5月23日**  
 ゆらぎの定理: Jarzynski等式、ゆらぎの定理  
 
+**5月30日**  
+ゆらぎの定理: ゆらぎの定理の証明、線形応答との対応  
+
+**6月6日**  
+
+
 Quiz
 ----
 **Quiz 1(4月11日出題)**
@@ -145,6 +151,62 @@ F[\varphi]= \int d^3\boldsymbol{r} \left[
 \Im \chi_{AM}(\omega)  = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega}
 \\]
 が成立することを示せ。
+
+
+**Quiz 11(5月23日出題)**  
+運動量と座標の組\\(\{ p_i, q_i \} \\)がハミルトニアン\\( H \\)に従って
+時間変化するとする。
+\\[
+  \dot{q_i} = \dfrac{\partial H}{\partial p_i}
+\\]
+\\[
+  \dot{p_i} = - \dfrac{\partial H}{\partial q_i}
+\\]
+このとき
+位相空間中のある領域\\( \mathcal{D}(t) \\)の体積
+\\[
+  V(\Gamma(t)) =
+  \int_{\mathcal{D}(t)} d\Gamma(t) 
+\\] 
+がLagrange的な時間変化に対して不変である事を示せ。
+
+
+**Quiz 12(5月23日出題)**  
+運動量\\( p\\)、座標\\( q\\)に対し
+\\[
+  \dfrac{dp}{dt} = 0 \enspace, \quad \dfrac{dq}{dt}= p
+\\]
+という運動を考える。
+* この運動方程式が可逆であることを示せ。
+* ある初期状態から時間\\( t\\)だけ時間発展させ、状態を時間反転し、おなじ時間\\( t \\)だけ時間発展し、時間反転するともとの初期状態に戻ることを示せ。
+
+また
+\\[
+  \dfrac{dp}{dt} = -p \enspace, \quad \dfrac{dq}{dt}= p
+\\]
+という運動に対し、
+* この運動方程式が可逆でないことを示せ。
+* ある初期状態から時間\\( t\\)だけ時間発展させ、状態を時間反転し、おなじ時間\\( t \\)だけ時間発展し、時間反転してももとの初期状態に戻らないことを示せ。
+
+**Quiz 13(5月23日出題)**  
+与えられたハミルトニアンに対し
+拡張された運動方程式
+\\[
+\dot{q_{i}} = \dfrac{\partial \mathcal{H}}{\partial p_i}
+\\]
+\\[
+\dot{p_{i}} = - \dfrac{\partial \mathcal{H}}{\partial q_{i}} - \zeta p_{i}
+\\]
+\\[
+   \dot{\zeta}  = \dfrac{1}{\tau^{2}} \left(   \beta \sum_{i} \dfrac{p_{i}^{2}}{m}  -  dN \right)
+\\]
+を考える。(\\(d\\)は空間次元である。)この時間発展にしたがうダイナミクスを能勢-Hooverダイナミクスと呼ぶ。能勢-Hooverダイナミクスでは運動方程式にしたがって時間発展すると、カノニカル分布が定常状態として得られることが知られている。
+* ハミルトニアンの時間微分が
+\\[
+\dfrac{d\mathcal{H}}{dt} = - \zeta \sum_{i} \dfrac{p_{i}^{2}}{m}
+\\]
+となることを示せ。
+* この時間発展で、分布関数\\( f(p_i,q_i,\zeta) \propto \exp ( -\beta H - \tau^2 \zeta^2 / 2 ) \\)が定常、すなわち時間微分が0であることを示せ。
 
 
 評価
