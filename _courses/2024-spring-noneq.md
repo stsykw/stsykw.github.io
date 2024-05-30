@@ -212,7 +212,7 @@ F[\varphi]= \int d^3\boldsymbol{r} \left[
 **Quiz 14(5月30日出題)**  
 体積\\( V \\)の三次元領域のなかに閉じこめられた古典的な粒子系が以下のハミルトニアンを持つとする。
 \\[
-  H = \sum_i \dfrac{\boldsymbol{p}_i^2}{2m} + \dfrac{1}{2}\sum_{i,j (i\ne j)} \phi( \left\lvert \boldsymbol{q}_i - \boldsymbol{q}_j \right\rvert)
+  H = \sum_i \dfrac{\boldsymbol{p}\_i^2}{2m} + \dfrac{1}{2}\sum_{i,j (i\ne j)} \phi( \left\lvert \boldsymbol{q}\_i - \boldsymbol{q}\_j \right\rvert)
 \\]
 このとき
 \\[
