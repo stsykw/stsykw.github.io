@@ -52,6 +52,8 @@ location: "Osaka, Japan"
 
 
 **6月25日**  
+物質中の電磁波: 反射、屈折  
+
 **7月2日**  
 **7月9日**  
 **7月16日**  
@@ -122,6 +124,20 @@ Drudeモデルで電気伝導率\\( \sigma \\)は
 **Quiz 8(6月4日出題)**  
 半径\\( a \\)の球内に一様に磁化\\( \boldsymbol{M}=M_0 \boldsymbol{e}\_z \\) が存在する時、
 球の表面にあらわれる磁化電流\\( \nabla \times \boldsymbol{M} \\)を求めよ。
+
+**Quiz 9(6月18日出題)**  
+\\( \boldsymbol{D} = \epsilon \boldsymbol{E}, \boldsymbol{H} = \boldsymbol{B}/ \mu  \\) をみたす常誘電、常磁性体に対し、局所的なエネルギー密度\\( u \\)は
+\\[
+  u = \dfrac{1}{2} \boldsymbol{E} \cdot \boldsymbol{D}
+  +\dfrac{1}{2} \boldsymbol{B} \cdot \boldsymbol{H}
+\\]
+である。物質中に実電場も実電流も存在しないとき、物質中のPoyntingベクトル\\( \boldsymbol{S} = \boldsymbol{E} \times \boldsymbol{H}\\) 
+がエネルギー保存則
+\\[
+  \dfrac{\partial u}{\partial t} + \nabla \cdot \boldsymbol{S}
+  =0
+\\]
+を満たすことを、実電場も実電流も存在しないときの物質中のMaxwell方程式をつかって示せ。
 
 評価
 -----
