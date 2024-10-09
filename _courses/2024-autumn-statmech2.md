@@ -47,9 +47,9 @@ $$
 微視的状態は
 $$
 \begin{gather}
-  \Psi_{1,1}(\boldsymbol{q}_{A}, \boldsymbol{q}_B)\\
-  \Psi_{2,2}(\boldsymbol{q}_{A}, \boldsymbol{q}_B)\\
-  \Psi_{3,3}(\boldsymbol{q}_{A}, \boldsymbol{q}_B)\\
+  \Psi_{1,1}(\boldsymbol{q}_A, \boldsymbol{q}_B)\\
+  \Psi_{2,2}(\boldsymbol{q}_A, \boldsymbol{q}_B)\\
+  \Psi_{3,3}(\boldsymbol{q}_A, \boldsymbol{q}_B)\\
   \Psi_{1,2}(\boldsymbol{q}_A, \boldsymbol{q}_B)\\
   \Psi_{2,3}(\boldsymbol{q}_A, \boldsymbol{q}_B)\\
   \Psi_{1,3}(\boldsymbol{q}_A, \boldsymbol{q}_B)\\
