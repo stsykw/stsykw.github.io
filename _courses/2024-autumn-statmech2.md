@@ -74,6 +74,7 @@ $$
 * 湯川諭「統計力学」 (日本評論社、2021) (正誤表が[https://stsykw.github.io/StatisticalMechanics-support/](https://stsykw.github.io/StatisticalMechanics-support/)にあります。)
 * 田崎晴明「統計力学I,II」(培風館、2008)
 * 高橋和孝「熱力学・統計力学 熱をめぐる諸相」(講談社、2023)
+* 清水明「統計力学の基礎I」(東京大学出版会、2024)
 
 スピン・統計定理
 * 井田大輔「現代量子力学入門」(朝倉書店、2021)
