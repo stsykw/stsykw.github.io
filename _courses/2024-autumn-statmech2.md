@@ -50,6 +50,9 @@ location: "Osaka, Japan"
 **12月4日**  
 相互作用のある系: 実在気体、粒子密度関数と粒子分布間数  
 
+**12月11日**  
+相互作用のある系: 粒子密度関数と粒子分布間数、Lennard-Jones相互作用とvan der Waals気体  
+
 Quiz
 ----
 
