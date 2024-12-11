@@ -53,6 +53,10 @@ location: "Osaka, Japan"
 **12月11日**  
 相互作用のある系: 粒子密度関数と粒子分布間数、Lennard-Jones相互作用とvan der Waals気体  
 
+
+**12月18日**  
+相互作用のある系: Lennard-Jones相互作用とvan der Waals気体、気液共存状態  
+
 Quiz
 ----
 
@@ -98,6 +102,24 @@ $$
 
 **Quiz 4(11月20日出題)**  
 凝縮相\\( ( T< T_c ) \\)において、励起状態を取っている粒子一つあたりのエネルギーおよびエントロピーを求めよ。
+
+**Quiz 5(12月11日出題)**  
+粒子間相互作用が存在する時、内部エネルギーの相互作用補正\\( E^{(ex)}\\)
+圧力の相互作用補正\\( p^{(ex)}\\)が
+$$
+\begin{align}
+E^{(ex)} &= \left\langle 
+  \dfrac{1}{2}\sum_{i,j\, (i\ne j)} \phi(\left\lvert \boldsymbol{q}_{ij} \right\rvert)
+  \right\rangle\\
+p^{(ex)} &= - \dfrac{1}{3V}
+ \left\langle 
+\dfrac{1}{2}
+\sum_{i,j\, (i\ne j)}^{N} \phi'( \left\lvert \boldsymbol{q}_{ij}  \right\rvert)
+ \left\lvert \boldsymbol{q}_{ij}  \right\rvert
+  \right\rangle
+\end{align}
+$$
+となることは見た。これらの期待値を動径分布関数\\( g (r) \\)を使った積分でそれぞれ表せ。
 
 評価
 ---
