@@ -57,6 +57,11 @@ location: "Osaka, Japan"
 **12月18日**  
 相互作用のある系: Lennard-Jones相互作用とvan der Waals気体、気液共存状態  
 
+**12月25日**  
+相互作用のある系: 気液共存状態  
+相転移と臨界現象: 相と相転移  
+
+
 Quiz
 ----
 
