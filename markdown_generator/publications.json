@@ -1,6 +1,17 @@
 {
   "papers": [
     {
+      "pub_date": "2024-10-01",
+      "refereed": true,
+      "title": "Fracture process of composite materials in a spring network model",
+      "author": "Haruka Noguchi and Satoshi Yukawa",
+      "venue": "Physical Review E",
+      "volume": "110",
+      "start": "045001",
+      "year": "2024",
+      "doi": "10.1103/PhysRevE.110.045001"
+    },
+    {
       "pub_date": "2023-12-25",
       "refereed": true,
       "title": "アクティブXYモデルにおけるトポロジカル欠陥の効果",
