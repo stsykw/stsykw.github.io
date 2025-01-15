@@ -144,6 +144,21 @@ p^{(ex)} &= - \dfrac{1}{3V}
 $$
 となることは見た。これらの期待値を動径分布関数\\( g (r) \\)を使った積分でそれぞれ表せ。
 
+**Quiz 6(1月15日出題)**  
+2次元Isingモデルを平均場近似した結果、ハミルトニアンは
+$$
+\begin{equation}
+H_m = - 4 J m \sum_{i,j}S_{i,j} - h \sum_{i,j} S_{i,j} + 2NJm^2
+\end{equation}
+$$
+となった。このハミルトニアンのもと一スピンあたりの磁化の期待値\\(\left\langle S_{i,j} \right\rangle_{eq} =m\\)が
+$$
+\begin{equation}
+m = \tanh \dfrac{4Jm+h}{k_\mathrm{B}T}
+\end{equation}
+$$
+を満たすことを示せ。
+
 評価
 ---
 平常点（50%）、および期末試験（50%）で評価する。平常点は、適宜出題する小レポート(Quiz)の提出状況で評価する。
