@@ -11,7 +11,7 @@ redirect_from:
 Satoshi Yukawa  
 湯川諭
 
-Department of Earth and Space Science, Graduate School of Science, The University of Osaka
+Department of Earth and Space Science, Graduate School of Science, The University of Osaka  
 大阪大学大学院 理学研究科 宇宙地球科学専攻
 
 1-1 Machikaneyama, Toyonaka, Osaka 560-0043, Japan  
