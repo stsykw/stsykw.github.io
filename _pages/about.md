@@ -11,13 +11,13 @@ redirect_from:
 Satoshi Yukawa  
 湯川諭
 
-Department of Earth and Space Science, Graduate School of Science, Osaka University  
+Department of Earth and Space Science, Graduate School of Science, The University of Osaka
 大阪大学大学院 理学研究科 宇宙地球科学専攻
 
 1-1 Machikaneyama, Toyonaka, Osaka 560-0043, Japan  
 [560-0043 大阪府豊中市待兼山1-1](https://www.google.com/maps/place/%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6+%E5%A4%A7%E5%AD%A6%E9%99%A2%E7%90%86%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%A7%91F%E6%A3%9F+%E5%AE%87%E5%AE%99%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E5%B0%82%E6%94%BB/@34.8017389,135.4546085,20.24z/data=!4m5!3m4!1s0x0:0xa64a533c647b4142!8m2!3d34.8018062!4d135.4550558)
 
-Resarch Fields
+Research Fields
 =====
 Statistical Physics, Computational Physics  
 統計物理学、計算物理学
