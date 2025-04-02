@@ -8,7 +8,7 @@ date: 2025-03-28
 location: "Osaka, Japan"
 ---
 
-専門基礎教育科目(基礎工学部(システム、情報)、理学部(数学))、火曜日1限、共A302
+専門基礎教育科目(基礎工学部(システム、情報)、理学部(数学))、火曜日1限、共A302  
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/ultra/courses/_215612_1/outline)
 
 [このページ](https://stsykw.github.io/courses/2025-spring-elemag2)

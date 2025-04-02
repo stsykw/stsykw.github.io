@@ -8,7 +8,7 @@ date: 2025-03-28
 location: "Osaka, Japan"
 ---
 
-大学院科目、木曜日2限、理B307教室
+大学院科目、木曜日2限、理B307教室  
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/ultra/courses/_218473_1/outline)  
 
 [このページ](https://stsykw.github.io/courses/2025-spring-noneq)
