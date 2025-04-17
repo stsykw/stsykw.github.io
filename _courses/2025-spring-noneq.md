@@ -19,9 +19,11 @@ location: "Osaka, Japan"
 平衡近傍でのゆらぎ: Boltzmann-Einsteinの原理。孤立系、開放系での表現  
 
 **4月17日**  
-ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係、Onsager係数の決定  
+(休講)
 
 **4月24日**  
+ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係、Onsager係数の決定  
+
 
 **5月8日**  
 
