@@ -28,6 +28,8 @@ location: "Osaka, Japan"
 真空中の電磁波: 電磁波としての性質、エネルギーと運動量  
 
 **5月13日**  
+真空中の電磁波: 偏光  
+電気伝導と導体の性質: 導体、電荷の保存則、電気伝導  
 
 **5月20日**  
 
@@ -123,6 +125,27 @@ Quiz
   \nabla \times ( \nabla \times \boldsymbol{A}) = \nabla (\nabla \cdot \boldsymbol{A} ) - \nabla^2 \boldsymbol{A}
 \\]
 となることを示せ。
+
+**Quiz 2(5月7日出題)**  
+電磁場のエネルギー密度は
+\\[
+  u = \dfrac{\epsilon_0}{2} \left\lvert \boldsymbol{E}\right\rvert^2
+  +\dfrac{1}{2\mu_0} \left\lvert \boldsymbol{B}\right\rvert^2
+\\]
+である。このエネルギー密度のある領域\\( \mathcal{D} \\)での体積積分\\( \mathcal{E} \\)の時間変化は
+\\[
+  \dfrac{d\mathcal{E}}{dt} = \int_\mathcal{D} \left(
+    \epsilon_0 \boldsymbol{E} \cdot \dfrac{\partial \boldsymbol{E}}{\partial t} 
+    + \dfrac{1}{\mu_0} \boldsymbol{B} \cdot \dfrac{\partial \boldsymbol{B}}{\partial t} 
+  \right)
+\\]
+である。右辺の電場および磁束密度の時間変化を真空中のMaxwell方程式をつかって
+\\[
+    \dfrac{d\mathcal{E}}{dt} = \dfrac{1}{\mu_0} \int_\mathcal{D}\nabla \cdot \left(
+     \boldsymbol{B} \times \boldsymbol{E} 
+  \right)  
+\\]
+まで変形せよ。この積分の表現にGaussの定理を使ってPoyntingベクトル\\( \boldsymbol{S} \\)を求めよ。
 
 -----
 期末試験(60%)、及びQuiz等(平常点 40%)で判断する。シラバスに従う。
