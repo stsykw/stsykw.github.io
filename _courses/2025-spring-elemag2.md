@@ -127,7 +127,7 @@ Quiz
 となることを示せ。
 
 **Quiz 2(5月7日出題)**  
-電磁場のエネルギー密度は
+真空中の電磁場のエネルギー密度は
 \\[
   u = \dfrac{\epsilon_0}{2} \left\lvert \boldsymbol{E}\right\rvert^2
   +\dfrac{1}{2\mu_0} \left\lvert \boldsymbol{B}\right\rvert^2
@@ -139,7 +139,7 @@ Quiz
     + \dfrac{1}{\mu_0} \boldsymbol{B} \cdot \dfrac{\partial \boldsymbol{B}}{\partial t} 
   \right)
 \\]
-である。右辺の電場および磁束密度の時間変化を真空中のMaxwell方程式をつかって
+である。右辺の電場および磁束密度の時間変化を、電荷密度および電流密度が存在しない場合のMaxwell方程式をつかって
 \\[
     \dfrac{d\mathcal{E}}{dt} = \dfrac{1}{\mu_0} \int_\mathcal{D}\nabla \cdot \left(
      \boldsymbol{B} \times \boldsymbol{E} 
