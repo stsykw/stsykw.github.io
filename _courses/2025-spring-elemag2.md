@@ -149,7 +149,7 @@ Quiz
 まで変形せよ。この積分の表現にGaussの定理を使ってPoyntingベクトル\\( \boldsymbol{S} \\)を求めよ。
 
 **Quiz 3(5月13日出題)**  
-導体中の自由電子の運動を、1次元の古典的なDrudeモデル
+導体中の自由電子の運動を、1次元の古典的な力学にしたがうとするDrudeモデル
 \\[
   m \dfrac{d^2 x}{dt^2} = - eE - \dfrac{m}{\tau} \dfrac{dx}{dt}
 \\]
