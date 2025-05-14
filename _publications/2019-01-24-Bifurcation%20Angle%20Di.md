@@ -12,4 +12,7 @@ citation: 'Satoshi Yukawa, Takeru Watanabe, and Kenji Hara, Bifurcation Angle Di
 Author(s): Satoshi Yukawa, Takeru Watanabe, and Kenji Hara
 
 
+Comments: This paper is also available at https://hdl.handle.net/11094/101308
+
+
 <a href='https://dx.doi.org/10.7566/JPSJ.88.024901'>Download paper here</a>
