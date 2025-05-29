@@ -37,6 +37,7 @@ location: "Osaka, Japan"
 ゆらぎの定理: ゆらぎの定理の証明、線形応答との対応  
 
 **6月5日**  
+情報と熱力学: Maxwellデーモン、Szilardエンジン、Landauer原理、フィードバック系のゆらぎの定理  
 
 
 Quiz
@@ -198,6 +199,19 @@ Quiz5の
 となることを示せ。
 * この時間発展で、分布関数\\( f(p_i,q_i,\zeta) \propto \exp ( -\beta H - \tau^2 \zeta^2 / 2 ) \\)が定常、すなわち時間微分が0であることを示せ。
 
+**Quiz 13(5月29日出題)**  
+体積\\( V \\)の三次元領域のなかに閉じこめられた古典的な粒子系が以下のハミルトニアンを持つとする。
+\\[
+  H = \sum_i \dfrac{\boldsymbol{p}\_i^2}{2m} + \dfrac{1}{2}\sum_{i,j (i\ne j)} \phi( \left\lvert \boldsymbol{q}\_i - \boldsymbol{q}\_j \right\rvert)
+\\]
+このとき
+\\[
+  \sigma_{\alpha\beta} = \dfrac{1}{V}\left( 
+    \sum_i \dfrac{p_i^\alpha p_i^\beta}{m} + \dfrac{1}{2}\sum_{i,j (i \ne j)} (q_i^\alpha-q_j^\alpha)
+    (f_{ij}^\beta)
+  \right)
+\\]
+が応力テンソルの\\( \alpha\beta \\)成分となることを示せ。\\(p_i^\alpha \\)は\\( i\\)番目の粒子の運動量の\\(\alpha\\)成分、\\( f_{ij}^\beta \\)は\\( j \\)番目の粒子が\\( i\\)番目の粒子におよぼす力の\\(\beta \\)成分である。
 
 評価
 ---
