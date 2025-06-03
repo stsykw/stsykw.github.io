@@ -38,9 +38,11 @@ location: "Osaka, Japan"
 誘電体: エネルギー、具体例  
 
 **6月3日**  
+誘電体: 具体例  
 磁性体: 磁化、磁化電流、透磁率  
 
 **6月10日**  
+磁性体: 境界条件、エネルギー、具体例  
 
 **6月17日**  
 
@@ -169,7 +171,18 @@ Quiz
 * 誘電体の極板と接する表面には電場に誘導され分極電荷が発生している。面密度\\( \sigma \\)で電荷が蓄えられている極板側で発生している分極電荷密度を面密度として求めよ。
 * コンデンサーに蓄えられているエネルギーを求めよ。
 
-
+**Quiz 5(6月3日出題)**  
+原点にある磁気双極子モーメント\\( \boldsymbol{m} \\)が点\\( \boldsymbol{r} \\)につくるベクトルポテンシャルは
+\\[
+  \boldsymbol{A}(\boldsymbol{r}) = \dfrac{\mu_0}{4\pi} \dfrac{ \boldsymbol{m} \times \boldsymbol{r}}{\lvert \boldsymbol{r} \rvert^3}
+\\]
+である。このベクトルポテンシャルが表す磁束密度\\( \boldsymbol{B} \\)を計算し、結果が磁気双極子モーメントが\\( \boldsymbol{r} \ne 0\\)に作る磁束密度
+\\[
+  \boldsymbol{B} = \dfrac{\mu_0}{4\pi} \left\{
+3 \dfrac{(\boldsymbol{m}\cdot \boldsymbol{r} ) \boldsymbol{r} }{r^{5}} - \dfrac{\boldsymbol{m}}{r^{3}}
+\right\}
+\\]
+と同じことを確認せよ。
 
 -----
 期末試験(60%)、及びQuiz等(平常点 40%)で判断する。シラバスに従う。
