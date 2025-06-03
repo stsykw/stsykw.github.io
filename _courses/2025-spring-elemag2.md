@@ -178,9 +178,8 @@ Quiz
 \\]
 である。このベクトルポテンシャルが表す磁束密度\\( \boldsymbol{B} \\)を計算し、結果が磁気双極子モーメントが\\( \boldsymbol{r} \ne 0\\)に作る磁束密度
 \\[
-  \boldsymbol{B} = \dfrac{\mu_0}{4\pi} \left\{
-3 \dfrac{(\boldsymbol{m}\cdot \boldsymbol{r} ) \boldsymbol{r} }{r^{5}} - \dfrac{\boldsymbol{m}}{r^{3}}
-\right\}
+  \boldsymbol{B} = \dfrac{\mu_0}{4\pi} 
+  \left\[3 \dfrac{(\boldsymbol{m}\cdot \boldsymbol{r} ) \boldsymbol{r} }{r^{5}} - \dfrac{\boldsymbol{m}}{r^{3}}\right\]
 \\]
 と同じことを確認せよ。
 
