@@ -212,6 +212,9 @@ Quiz
 \\]
 となることを示せ。
 (ヒント: (8)式から出発する。まず両辺の回転を取る。\\( \nabla \times \boldsymbol{E} = - \dfrac{\partial \boldsymbol{B}}{\partial t} \\) をつかって、電場の回転を磁場の時間変化に置き換える。時間微分に関する項をすべて左辺に集める。\\( (\boldsymbol{v}\cdot \nabla) \boldsymbol{v}  \\)を\\( \boldsymbol{v} \times (\nabla \times \boldsymbol{v}) \\)をつかって置き換える。)
+
+
+
 -----
 期末試験(60%)、及びQuiz等(平常点 40%)で判断する。シラバスに従う。
 
