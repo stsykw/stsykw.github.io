@@ -49,6 +49,7 @@ location: "Osaka, Japan"
 超伝導体と磁場: 超伝導  
 
 **6月24日**  
+物質中の電磁波: 物質中のマクスウェル方程式、屈折率  
 
 **7月1日**  
 
@@ -192,6 +193,25 @@ Quiz
 * 同様に磁化を求めよ。
 * 磁化と等価な磁化電流密度\\( \boldsymbol{i}_M \\)を\\( r< a\\)で求めよ。( \\( \nabla \cdot \boldsymbol{i}_M = 0\\)より、\\( r=a \\)では、この磁化電流をうち消すだけの逆向きの電流が流れていることになる。)
 
+
+**Quiz 7(6月17日出題)**  
+渦度\\( \boldsymbol{\omega} \\)を
+\\[
+  \boldsymbol{\omega} = \nabla \times \boldsymbol{v} + \dfrac{q}{m} \boldsymbol{B}
+\\]
+と定義する。
+速度場の時間発展が
+\\[
+  \dfrac{\partial \boldsymbol{v}}{\partial t} + (\boldsymbol{v}\cdot \nabla ) \boldsymbol{v} = 
+  \dfrac{q}{m} ( \boldsymbol{E} + \boldsymbol{v}\times \boldsymbol{B})
+\\]
+を満たすとき、
+渦度の時間発展が
+\\[
+  \dfrac{\partial \boldsymbol{\omega}}{\partial t} = \nabla \times (\boldsymbol{v} \times \boldsymbol{\omega})
+\\]
+となることを示せ。
+(ヒント: (8)式から出発する。まず両辺の回転を取る。\\( \nabla \times \boldsymbol{E} = - \dfrac{\partial \boldsymbol{B}}{\partial t} \\) をつかって、電場の回転を磁場の時間変化に置き換える。時間微分に関する項をすべて左辺に集める。\\( (\boldsymbol{v}\cdot \nabla) \boldsymbol{v}  \\)を\\( \boldsymbol{v} \times (\nabla \times \boldsymbol{v}) \\)をつかって置き換える。)
 -----
 期末試験(60%)、及びQuiz等(平常点 40%)で判断する。シラバスに従う。
 
