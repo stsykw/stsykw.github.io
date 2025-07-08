@@ -59,6 +59,7 @@ location: "Osaka, Japan"
 回路: 起電力、定常電流回路の基礎方程式、キルヒホッフの法則  
 
 **7月15日**  
+回路: 準定常回路、LC回路、RC回路、RLC回路  
 
 **7月22日**  
 
@@ -67,9 +68,6 @@ location: "Osaka, Japan"
 **8月5日**  
 
 <!--
-
-**7月9日**  
-回路: 準定常回路、LC回路、RC回路、RLC回路  
 
 **7月16日**  
 回路: RLC回路、交流回路、実効値、複素数を使った表現  
@@ -193,6 +191,11 @@ $$
   \boldsymbol{S} = \dfrac{1}{2}\sqrt{\dfrac{\epsilon}{\mu}} \left\lvert \boldsymbol{E_0}\right\rvert^2 \dfrac{\boldsymbol{k}}{ \left\lvert \boldsymbol{k}\right\rvert}
 \\]
 となることを示せ。
+
+**Quiz 9(7月8日出題)**  
+\\( N \\)個の抵抗値\\( R_i \enspace i=1,2,\dots,N \\)をもつ抵抗を並列につなぐ。
+この並列につないだときの合成抵抗をキルヒホッフの法則にもとづき導出せよ。
+
 
 -----
 期末試験(60%)、及びQuiz等(平常点 40%)で判断する。シラバスに従う。
