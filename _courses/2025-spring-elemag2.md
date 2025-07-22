@@ -13,7 +13,9 @@ location: "Osaka, Japan"
 
 [このページ](https://stsykw.github.io/courses/2025-spring-elemag2)
 
-
+試験通知
+-------
+8月5日(火曜日、1限)に期末試験を実施します。詳細はCLEに掲示します。
 
 スケジュール
 ----------
