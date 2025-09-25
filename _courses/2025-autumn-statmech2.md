@@ -14,7 +14,6 @@ location: "Osaka, Japan"
 [このページ](https://stsykw.github.io/courses/2025-autumn-statmech2)
 
 
-
 スケジュール
 ----------
 **10月1日**  
