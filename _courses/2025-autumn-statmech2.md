@@ -13,6 +13,9 @@ location: "Osaka, Japan"
 [CLE授業支援システム](https://www.cle.osaka-u.ac.jp/ultra/courses/_210319_1/outline)
 [このページ](https://stsykw.github.io/courses/2025-autumn-statmech2)
 
+試験通知
+-------
+2月4日(水曜日、2限)に期末試験を実施します。詳細はCLEに掲示してあるので確認してください。
 
 スケジュール
 ----------
@@ -133,6 +136,22 @@ Z_N = Z_N^{(id)} \dfrac{(V-Nv_0)^N}{V^N} \exp N \beta \epsilon \rho v_0
 \end{equation}
 $$
 となった。\\( Z_N^{(id)}\\)は理想気体の分配関数である。このとき内部エネルギーおよび圧力をそれぞれ求めよ。
+
+**Quiz 8(1月21日出題)**  
+2次元Isingモデルを平均場近似した結果、ハミルトニアンは
+$$
+\begin{equation}
+H_m = - 4 J m \sum_{i,j}S_{i,j} - h \sum_{i,j} S_{i,j} + 2NJm^2
+\end{equation}
+$$
+となった。このハミルトニアンのもと一スピンあたりの磁化の期待値\\(\left\langle S_{i,j} \right\rangle_{eq} =m\\)が
+$$
+\begin{equation}
+m = \tanh \dfrac{4Jm+h}{k_\mathrm{B}T}
+\end{equation}
+$$
+を満たすことを示せ。
+
 
 評価
 ---
