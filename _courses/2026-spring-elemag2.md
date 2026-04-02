@@ -4,7 +4,7 @@ collection: courses
 type: "全学共通教育科目"
 permalink: /courses/2026-spring-elemag2
 venue: "大阪大学, 全学共通教育機構"
-date: 2026-04-02
+date: 2026-04-01
 location: "Osaka, Japan"
 ---
 
