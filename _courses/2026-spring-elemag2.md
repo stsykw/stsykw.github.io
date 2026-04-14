@@ -20,11 +20,25 @@ location: "Osaka, Japan"
 電磁気学詳論Iの復習  
 真空中の電磁波: 波動方程式の導出とその解  
 
+**4月21日**  
+真空中の電磁波: 電磁波としての性質、エネルギーと運動量  
+
 Quiz
 ----
 
 解答はCLE経由で提出すること。手書き文書のスキャン、Word文書、Tex文書など形式は問わないが、最終的に提出時には一つのpdfファイルにまとめて提出すること。
 基本的に提出締め切りは、出題日の一週間後の正午とします。
+
+**Quiz 1(4月14日出題)**  
+ベクトル微分演算子\\( \nabla \\)およびベクトル値関数\\( \boldsymbol{A} \\)に対し
+\\[
+  \nabla \times ( \nabla \times \boldsymbol{A}) = \nabla (\nabla \cdot \boldsymbol{A} ) - \nabla^2 \boldsymbol{A}
+\\]
+となること、および
+\\[
+   (\nabla \times  \nabla )\times \boldsymbol{A} =0
+\\]
+であることを示せ。
 
 
 -----
