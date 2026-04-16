@@ -18,9 +18,49 @@ location: "Osaka, Japan"
 **4月16日**  
 平衡近傍でのゆらぎ: Boltzmann-Einsteinの原理。孤立系、開放系での表現  
 
+**4月23日**  
+ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係、Onsager係数の決定  
+
 Quiz
 ----
+**Quiz 1(4月16日出題)**  
+マクロ量 \\( \\{ a_i \\} \\)の平衡値 \\( \\{ \overline{a_i} \\} \\)からのずれは
+エントロピーで支配され
+\\[
+P(\\{a_i\\}) = (2\pi)^{-n/2} \left[ \det \left(
+-\dfrac{1}{k_\mathrm{B}} \dfrac{\partial^2 S}{\partial a_i \partial a_j }
+ \right)
+ \right]^{1/2}
+\exp \left(
+\dfrac{1}{2 k_\mathrm{B}}
+\sum_{ij} \dfrac{\partial^2 S}{\partial a_i \partial a_j} (a_i - \overline{a_i}) (a_j - \overline{a_j})
+\right)
+\\]
+と書ける。この多次元Gauss積分を実行し、規格化定数がこれで良いことを確認せよ。
 
+
+**Quiz 2(4月16日出題)**  
+マクロ量 \\( \\{ X_i \\} \\)の分布
+\\[
+P(\\{X_i\\}) \propto
+\exp \left(
+-\dfrac{1}{2}
+\sum_{ij} \beta_{ij} X_i X_j
+\right)
+\\]
+に対し、期待値 \\( \left\langle X_i X_j \right\rangle = (\beta^{-1})\_{ij} \\) となることを示せ。
+また
+\\(x_i = \sum_j \beta_{ij} X_j\\)と置いたとき、
+\\( \left\langle x_i X_j \right\rangle = \delta_{ij} \\)、
+\\( \left\langle x_i x_j \right\rangle = \beta_{ij} \\)となることを示せ。
+
+**Quiz 3(4月16日出題)**  
+熱浴および圧力浴と接している系に対してエントロピーゆらぎの二乗の期待値および圧力ゆらぎの二乗の期待値が
+\\[
+  \left \langle (\Delta S)^2 \right\rangle = k_\mathrm{B} C_p \, , \, \, 
+  \left \langle (\Delta p)^2 \right\rangle = \dfrac{k_\mathrm{B} T}{V \chi_S}
+\\]
+となることを示せ。ここで\\( C_p , \chi_S \\)はそれぞれ等圧熱容量、断熱圧縮率である。
 
 評価
 ---
@@ -49,7 +89,7 @@ Quiz
 * 佐々真一「非平衡現象論」講義ノート
 
 Einsteinのゆらぎの理論
-* L. Landau, E. Lifshitz 「統計物理学 (下)」岩波書店, L. Landau, E. Lifshitz, "Statistical Physics (course of theoretical physics volume 5) Butterworth-Heinemann"
+* L. Landau, E. Lifshitz 「統計物理学 (下)」岩波書店 (12章), L. Landau, E. Lifshitz, "Statistical Physics (course of theoretical physics volume 5) Butterworth-Heinemann"
 * A. Einstein, "Theorie der Opaleszenz von homogenen Flüssigkeiten und Flüssigkeitsgemischen in der Nähe des Kritischen Zustandes", Ann. der Phys. **33** (1910), pp. 1275-1298. 邦訳 アインシュタイン選集1、監修 湯川秀樹 翻訳 井上健、谷川安孝、中村誠太郎 共立出版(1971)
 
 確率過程
