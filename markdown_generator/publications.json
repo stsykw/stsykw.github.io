@@ -1,6 +1,17 @@
 {
   "papers": [
     {
+      "pub_date": "2026-4-16",
+      "refereed": true,
+      "title": "Defect-Mediated Aggregation and Motility-Induced Phase Separation in Self-Propelled Lattice-Gas Active XY Model",
+      "author": "Shun Inoue and Satoshi Yukawa",
+      "venue": "Journal of the Physical Society of Japan",
+      "volume": "95",
+      "start": "054802",
+      "year": "2026",
+      "doi": "10.7566/JPSJ.95.054802"
+    },
+    {
       "pub_date": "2024-10-01",
       "refereed": true,
       "title": "Fracture process of composite materials in a spring network model",
