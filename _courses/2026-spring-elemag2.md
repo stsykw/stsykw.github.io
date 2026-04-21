@@ -23,6 +23,10 @@ location: "Osaka, Japan"
 **4月21日**  
 真空中の電磁波: 電磁波としての性質、エネルギーと運動量  
 
+**4月28日**  
+真空中の電磁波: 偏光  
+電気伝導と導体の性質: 導体、電荷の保存則、電気伝導  
+
 Quiz
 ----
 
@@ -39,6 +43,24 @@ Quiz
    (\nabla \times  \nabla )\times \boldsymbol{A} =0
 \\]
 であることを示せ。
+
+**Quiz 2(4月21日出題)**  
+真空中の電磁場のエネルギー密度
+\\[
+  u = \dfrac{\epsilon_0}{2} \left\lvert \boldsymbol{E}\right\rvert^2
+  +\dfrac{1}{2\mu_0} \left\lvert \boldsymbol{B}\right\rvert^2
+\\]
+および、Poyntingベクトル
+\\[
+  \boldsymbol{S} = \dfrac{1}{\mu_0} \boldsymbol{E}\times \boldsymbol{B}
+\\]
+が、エネルギー保存の式
+\\[
+  \dfrac{\partial u}{\partial t} + \nabla \cdot \boldsymbol{S}=0
+\\]
+を満たすことを、電荷密度、電流密度が存在しない場合の真空中のMaxwell方程式をつかって
+示せ。
+
 
 
 -----
