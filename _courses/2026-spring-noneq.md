@@ -97,6 +97,7 @@ I=\int_{0}^{t}  ds_{1} \int_{0}^{t}  ds_{2} \, f(s_{1}-s_{2})
 * 関本謙「ゆらぎのエネルギー論」岩波書店
 * 沙川貴大「非平衡統計力学」共立出版
 * 齊藤圭司「ゆらぐ系の熱力学」サイエンス社
+* N. Shiraishi "An Introduction to Stochastic Thermodynamics", Springer
 * D. N. Zubarev "Nonequilibrium Statistical Thermodynamics", Consultants Bureau
 * R. Zwanzig "Nonequilibrium Statistical Mechanics", Oxford
 * M. Ichiyanagi, ["Conceptual developments of non-equilibrium statistical mechanics in the early days of Japan", Phys. Rep. **262** (1995) 227.](http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6TVP-3YF4GW9-6-2&_cdi=5540&_user=5735665&_orig=browse&_coverDate=11%2F30%2F1995&_sk=997379994&view=c&wchp=dGLzVlz-zSkWA&md5=eb16ad3f3147413c76cc65ec10af35e6&ie=/sdarticle.pdf)
@@ -108,19 +109,24 @@ Einsteinのゆらぎの理論
 * L. Landau, E. Lifshitz 「統計物理学 (下)」岩波書店 (12章), L. Landau, E. Lifshitz, "Statistical Physics (course of theoretical physics volume 5) Butterworth-Heinemann"
 * A. Einstein, "Theorie der Opaleszenz von homogenen Flüssigkeiten und Flüssigkeitsgemischen in der Nähe des Kritischen Zustandes", Ann. der Phys. **33** (1910), pp. 1275-1298. 邦訳 アインシュタイン選集1、監修 湯川秀樹 翻訳 井上健、谷川安孝、中村誠太郎 共立出版(1971)
 
-確率過程
-* N. G. van Kampen, "Stochastic Processes in Physics and Chemistry", Elsevier
-
-ブラウン運動
-* A. Einstein "Investigations on the theory of the Brownian movement", Dover
-
 Onsagerの相反定理、Onsager-Machlup過程
 * L. Onsager, ["Reciprocal Relations in Irreversible Processes I", Phys. Rev. **37** (1931) 405.](http://prola.aps.org/abstract/PR/v37/i4/p405_1)
 * L. Onsager, ["Reciprocal Relations in Irreversible Processes II", Phys. Rev. **38** (1931) 2265.](http://prola.aps.org/abstract/PR/v38/i12/p2265_1)
 * 上記二つの論文の翻訳が[物性研究](https://doi.org/10.14989/178097)にある。
+* H. B. G. Casimir, ["On Onsager’s Principle of Microscopic Reversibility", Rev. Mod. Phys. **17** (1945) 343.](https://link.aps.org/doi/10.1103/RevModPhys.17.343)
 * 橋爪夏樹、["A Statistical Theory of Linear Dissipative Systems", Prog. Theor. Phys. **8** (1952) 461.](https://doi.org/10.1143/PTP/8.4.461)s
 * L. Onsager and S. Machlup, ["Fluctuations and Irreversible Processes", Phys. Rev. **91**, 1505, (1953).](http://prola.aps.org/abstract/PR/v91/i6/p1505_1)
 * M. Ichiyanagi ["Variational principles of irreversible processes", Phys. Rep. **243**, 125,(1994)](http://www.sciencedirect.com/science/article/pii/0370157394900523)
+
+確率過程
+* N. G. van Kampen, "Stochastic Processes in Physics and Chemistry", Elsevier
+* C. W. Gardiner, "Handbook of Stochastic Methods", Springer
+
+ブラウン運動
+* A. Einstein "Investigations on the theory of the Brownian movement", Dover
+
+Fokker-Planck方程式
+* H. Risken, "The Fokker-Planck Equation", Springer
 
 線形応答
 * 戸田盛和、久保亮五、斎藤信彦、橋爪夏樹「統計物理学、現代物理学の基礎第二版」岩波書店
