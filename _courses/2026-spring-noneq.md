@@ -21,6 +21,9 @@ location: "Osaka, Japan"
 **4月23日**  
 ゆらぎの動力学: 現象論的方程式、Onsagerの相反関係、Onsager係数の決定  
 
+**5月7日**  
+ゆらぎの動力学: Langevin方程式とFokker-Planck方程式、例:Brown運動、例:ポテンシャルのある場合  
+
 Quiz
 ----
 **Quiz 1(4月16日出題)**  
@@ -61,6 +64,19 @@ P(\\{X_i\\}) \propto
   \left \langle (\Delta p)^2 \right\rangle = \dfrac{k_\mathrm{B} T}{V \chi_S}
 \\]
 となることを示せ。ここで\\( C_p , \chi_S \\)はそれぞれ等圧熱容量、断熱圧縮率である。
+
+**Quiz 4(4月23日出題)**  
+オンサーガー係数やノイズの計算で
+\\[
+I=\int_{0}^{t}  ds_{1} \int_{0}^{t}  ds_{2} \, f(s_{1}-s_{2})
+\\]
+の形の積分がでてきた。
+\\( f \\) が偶関数のとき
+\\[
+  I = \int_{0}^{t}  dx\, 2 (t -x ) f(x) 
+\\]
+とできることを示せ。
+
 
 評価
 ---
