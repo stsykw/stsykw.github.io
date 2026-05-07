@@ -23,6 +23,22 @@ location: "Osaka, Japan"
 
 **5月7日**  
 ゆらぎの動力学: Langevin方程式とFokker-Planck方程式、例:Brown運動、例:ポテンシャルのある場合  
+(講義中に符号が違うかもしれないと言いましたが、資料のままで問題ありませんでした)  
+
+**5月14日**  
+ゆらぎの動力学: 例:空間的に不均一な系への応用  
+
+**5月21日**  
+線形応答理論: 静的な場合、動的な場合、揺動散逸定理  
+
+**5月28日**  
+ゆらぎの定理: Jarzynski等式、ゆらぎの定理  
+
+**6月4日**  
+ゆらぎの定理: ゆらぎの定理の証明、線形応答との対応  
+
+**6月11日**  
+情報と熱力学: Maxwellデーモン、Szilardエンジン、Landauer原理、フィードバック系のゆらぎの定理  
 
 Quiz
 ----
@@ -77,7 +93,29 @@ I=\int_{0}^{t}  ds_{1} \int_{0}^{t}  ds_{2} \, f(s_{1}-s_{2})
 \\]
 とできることを示せ。
 
+**Quiz ５(5月7日出題)**  
+ブラウン運動のLangevin表現、
+\\[
+  \dfrac{dp_i}{dt} = - \dfrac{f}{T_R M} p_i + \xi_i(t)
+\\]
+ただし\\(  \langle \xi_i(t) \rangle_{eq} = 0 \enspace , \quad \langle \xi_i(t) \xi_j (t') \rangle_{eq} = 2 k_\mathrm{B} f \delta_{ij} \delta (t-t') \\)に対して、
+初期条件\\( p_i(0) = p_i^0 \\) のもと、\\( p_i(t) \\)の解を求めよ。
+これを使い、
+\\[
+\langle p_i (t+\tau) p_j (t) \rangle_{p_i(0)=p_i^0, p_j(0)=p_j^0}
+\\]
+を計算せよ。また、初期値 \\( p_i^0, p_j^0 \\)を熱平衡にとり十分に時間が経った後の、
+\\[
+\langle p_i (t+\tau) p_j (t) \rangle_{eq} - \langle p_i (t+\tau) \rangle_{eq} \langle p_j (t) \rangle_{eq}
+\\]
+を計算せよ。
 
+**Quiz 6(5月7日出題)**  
+Quiz5の
+\\[
+\langle p_i (t+\tau) p_j (t) \rangle_{eq} - \langle p_i (t+\tau) \rangle_{eq} \langle p_j (t) \rangle_{eq}
+\\]
+を、対応するFokker-Planck方程式をつかって計算せよ。
 評価
 ---
 期末レポート、およびQuizの解答状況(数問選んで、最後に提出)をみて総合的に判断する。
