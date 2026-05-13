@@ -166,6 +166,13 @@ Onsagerの相反定理、Onsager-Machlup過程
 Fokker-Planck方程式
 * H. Risken, "The Fokker-Planck Equation", Springer
 
+空間不均一系
+* P. C. Hohenberg and B. I. Halperin, "Theory of dynamic critical phenomena", Rev. Mod. Phys. **49**, 435 (1977).
+* S. M. Allen and J. W. Cahn, "A microscopic theory for antiphase boundary motion and its application to antiphase domain coarsening", Acta Metall. **27**, 1085 (1979).
+* J. W. Cahn and J. E. Hilliard, "Free Energy of a Nonuniform System. I. Interfacial Free Energy", J. Chem.Phys. **28**, 258 (1958).
+* J. W. Cahn, "On spinodal decomposition", Acta Metall. **9**, 795 (1961).
+
+
 線形応答
 * 戸田盛和、久保亮五、斎藤信彦、橋爪夏樹「統計物理学、現代物理学の基礎第二版」岩波書店
 * R. Kubo, M. Toda, and N. Hashitsume, "Statistical Physics II, Nonequilibirum Statistical Mechanics" Spinger-Verlag
