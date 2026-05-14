@@ -174,6 +174,8 @@ Fokker-Planck方程式
 * S. M. Allen and J. W. Cahn, "Mechanisms of phase transformations within the miscibility gap of Fe-rich Fe-Al alloys", Acta Metall. **24**, 425 (1976).
 *	B. Halperin, P. Hohenberg, and E. Siggia, "Renormalization-Group Calculations of Divergent Transport Coefficients at Critical Points", Phys. Rev. Lett. **32**, 1289 (1974).
 *	B. I. Halperin, P. C. Hohenberg, and E. D. Siggia, "Renormalization-group treatment of the critical dynamics of superfluid helium, the isotropic antiferromagnet, and the easy-plane ferromagnet", Phys. Rev. B **13**, 1299 (1976).
+* P. C. Hohenberg and D. R. Nelson, "Early stages of spinodal decomposition in superfluid He 3 - He 4 mixtures", Phys. Rev. B **20**, 2665 (1979).
+
 
 線形応答
 * 戸田盛和、久保亮五、斎藤信彦、橋爪夏樹「統計物理学、現代物理学の基礎第二版」岩波書店
