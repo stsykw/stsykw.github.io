@@ -116,6 +116,46 @@ Quiz5の
 \langle p_i (t+\tau) p_j (t) \rangle_{eq} - \langle p_i (t+\tau) \rangle_{eq} \langle p_j (t) \rangle_{eq}
 \\]
 を、対応するFokker-Planck方程式をつかって計算せよ。
+
+
+**Quiz 7(5月14日出題)**  
+Ginzburg-Landauの自由エネルギー
+\\[
+F[\varphi]= \int d^3\boldsymbol{r} \left[
+  \dfrac{1}{2} m \varphi^2 + \dfrac{1}{4} u \varphi^4 - h \varphi + \dfrac{1}{2} \kappa \left\lvert\nabla \varphi\right\rvert^2
+\right]
+\\]
+を$\varphi$で汎関数微分せよ。
+
+
+**Quiz 8(5月21日出題)**  
+講義ではハミルトニアンが無摂動状態\\( H_0\\)から外場\\(E\\)のもと\\( H_0- M E \\)と変化する時の物理量\\(A \\)の応答を見た。
+摂動を、逆温度をつかって\\( E = 1- \beta' / \beta \\)と与えたとき、\\(A=M=H_0 \\)として熱容量を求めよ。
+
+**Quiz 9(5月21日出題)**  
+\\(L \times L \times L \\)の立方体中に\\( N \\)個の古典的な自由粒子が
+逆温度\\( \beta \\)の熱平衡状態として存在している。
+この自由粒子の重心位置\\( \dfrac{1}{N} \langle \sum_i q_i^z \rangle \\)の
+重力に対する応答を、重力が小さいとした線形応答の範囲で調べよ。
+また、重力は立方体のある辺と平行なz軸負の向きにかかるとする。
+この系では厳密な重心位置も評価できるので、線形応答の結果と比較せよ。
+
+**Quiz 10(5月21日出題)**  
+複素アドミッタンス
+\\[
+\chi_{AM}(\omega) = \lim_{\epsilon \downarrow 0}\int_{0}^{\infty} ds \phi_{AM}(s)  e^{i\omega s} e^{-\epsilon s}
+\\]
+に対し、Kramers-Kronig関係式
+\\[
+\Re \chi_{AM}(\omega)  = \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Im \dfrac{\chi_{AM}(\omega')}{\omega'-\omega}
+\\]
+\\[
+\Im \chi_{AM}(\omega)  = - \pv\int_{-\infty}^{\infty} \dfrac{d\omega'}{\pi} \Re \dfrac{\chi_{AM}(\omega')}{\omega'-\omega}
+\\]
+が成立することを示せ。
+
+
+
 評価
 ---
 期末レポート、およびQuizの解答状況(数問選んで、最後に提出)をみて総合的に判断する。
