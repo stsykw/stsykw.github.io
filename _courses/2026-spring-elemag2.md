@@ -36,6 +36,10 @@ location: "Osaka, Japan"
 **5月26日**  
 磁性体: 磁化、磁化電流、透磁率  
 
+**6月2日**  
+磁性体: 境界条件、エネルギー、具体例  
+
+
 Quiz
 ----
 
@@ -74,6 +78,20 @@ Quiz
 誘電率\\( \epsilon \\)をもつ誘電体の領域が3次元空間中の\\( z \ge 0 \\)の領域に広がっているとする。\\(z < 0 \\)は真空であるとする。真空中から\\(z \\)軸に平行に\\( \boldsymbol{E_0 } =  E_0 \boldsymbol{e}\_{z} \\)という電場を誘電体に加えた。また誘電体中には実電荷は存在していないとする。
 * 誘電体内部の電場\\( \boldsymbol{E}\\)および電気分極\\( \boldsymbol{P}\\)を\\( \boldsymbol{E_0} \\)をつかって表せ。
 * 誘電体の\\(z = 0\\)の表面に誘導される分極電荷密度の大きさを求めよ。
+
+
+**Quiz 4(5月26日出題)**  
+原点にある磁気双極子モーメント\\( \boldsymbol{m} \\)が点\\( \boldsymbol{r} \\)につくるベクトルポテンシャルは
+\\[
+  \boldsymbol{A}(\boldsymbol{r}) = \dfrac{\mu_0}{4\pi} \dfrac{ \boldsymbol{m} \times \boldsymbol{r}}{\lvert \boldsymbol{r} \rvert^3}
+\\]
+である。このベクトルポテンシャルが表す磁束密度\\( \boldsymbol{B} \\)を計算し、結果が磁気双極子モーメントが\\( \boldsymbol{r} \ne 0\\)に作る磁束密度
+\\[
+  \boldsymbol{B} = \dfrac{\mu_0}{4\pi} 
+  \left\[3 \dfrac{(\boldsymbol{m}\cdot \boldsymbol{r} ) \boldsymbol{r} }{r^{5}} - \dfrac{\boldsymbol{m}}{r^{3}}\right\]
+\\]
+と同じことを確認せよ。
+
 
 -----
 期末試験(60%)、及びQuiz等(平常点 40%)で判断する。シラバスに従う。
