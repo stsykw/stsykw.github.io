@@ -157,6 +157,22 @@ F[\varphi]= \int d^3\boldsymbol{r} \left[
 が成立することを示せ。
 
 
+**Quiz 11(6月4日出題)**  
+運動量と座標の組\\(\{ p_i, q_i \} \\)がハミルトニアン\\( H \\)に従って
+時間変化するとする。
+\\[
+  \dot{q_i} = \dfrac{\partial H}{\partial p_i}
+\\]
+\\[
+  \dot{p_i} = - \dfrac{\partial H}{\partial q_i}
+\\]
+このとき
+位相空間中のある領域\\( \mathcal{D}(t) \\)の体積
+\\[
+  V(\Gamma(t)) =
+  \int_{\mathcal{D}(t)} d\Gamma(t) 
+\\] 
+がLagrange的な時間変化に対して不変である事を示せ。
 
 評価
 ---
