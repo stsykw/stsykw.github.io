@@ -127,6 +127,8 @@ $$
   \boldsymbol{S} = \dfrac{1}{2}\sqrt{\dfrac{\epsilon}{\mu}} \left\lvert \boldsymbol{E_0}\right\rvert^2 \dfrac{\boldsymbol{k}}{ \left\lvert \boldsymbol{k}\right\rvert}
 \\]
 となることを示せ。
+
+
 -----
 期末試験(60%)、及びQuiz等(平常点 40%)で判断する。シラバスに従う。
 
