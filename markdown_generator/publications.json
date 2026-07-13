@@ -1,6 +1,17 @@
 {
   "papers": [
     {
+      "pub_date": "2026-7-13",
+      "refereed": false,
+      "title": "Topological Defects as Seeds of Phase Separation: Insights from a Minimal Lattice Model",
+      "author": "Satoshi Yukawa",
+      "venue": "JPS Hot Topics",
+      "volume": "6",
+      "start": "029",
+      "year": "2026",
+      "doi": "10.7566/JPSHT.6.029"
+    },
+    {
       "pub_date": "2026-4-16",
       "refereed": true,
       "title": "Defect-Mediated Aggregation and Motility-Induced Phase Separation in Self-Propelled Lattice-Gas Active XY Model",
@@ -9,7 +20,8 @@
       "volume": "95",
       "start": "054802",
       "year": "2026",
-      "doi": "10.7566/JPSJ.95.054802"
+      "doi": "10.7566/JPSJ.95.054802",
+      "comments": "See also JPS Hot Topics https://doi.org/10.7566/JPSHT.6.029"
     },
     {
       "pub_date": "2024-10-01",

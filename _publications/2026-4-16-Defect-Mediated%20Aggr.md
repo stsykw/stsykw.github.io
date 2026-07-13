@@ -12,4 +12,7 @@ citation: 'Shun Inoue and Satoshi Yukawa, Defect-Mediated Aggregation and Motili
 Author(s): Shun Inoue and Satoshi Yukawa
 
 
+Comments: See also JPS Hot Topics https://doi.org/10.7566/JPSHT.6.029
+
+
 <a href='https://dx.doi.org/10.7566/JPSJ.95.054802'>Download paper here</a>
