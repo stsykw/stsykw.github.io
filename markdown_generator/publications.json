@@ -1,5 +1,15 @@
 {
   "papers": [
+       {
+      "pub_date": "2026-9-10",
+      "refereed": false,
+      "title": "A Phase-Field Study of Desiccation Crack Pattern Maturation under Drying–Wetting Cycles",
+      "author": "Hiroki Fukushima and Satoshi Yukawa",
+      "venue": "arXiv",      
+      "start": "2609.11048",
+      "year": "2026",
+      "doi": "10.48550/arXiv.2609.11048"
+    },
     {
       "pub_date": "2026-7-13",
       "refereed": false,
