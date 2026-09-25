@@ -4,7 +4,7 @@ collection: courses
 type: "理学部物理学科専門教育科目"
 permalink: /courses/2026-autumn-statmech2
 venue: "大阪大学, 理学部"
-date: 2026-09-24
+date: 2026-09-23
 location: "Osaka, Japan"
 ---
 
