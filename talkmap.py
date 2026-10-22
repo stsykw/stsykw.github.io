@@ -12,6 +12,9 @@
 # Requires: glob, getorg, geopy
 
 import glob
+import os
+import shutil
+import tempfile
 import getorg
 #from geopy import Nominatim
 
@@ -55,4 +58,9 @@ for file in g:
     #print(user,loca)
 
 m = getorg.orgmap.create_map_obj()
-getorg.orgmap.output_html_cluster_map(location_dict, folder_name="./talkmap", hashed_usernames=False)
+# getorg also writes map.html and an outdated leaflet_dist/, so generate into a
+# temporary folder and copy only the location data. talkmap/map.html and
+# talkmap/leaflet_dist/ are maintained by hand.
+with tempfile.TemporaryDirectory() as tmpdir:
+    getorg.orgmap.output_html_cluster_map(location_dict, folder_name=tmpdir, hashed_usernames=False)
+    shutil.copy(os.path.join(tmpdir, "org-locations.js"), "./talkmap/org-locations.js")
